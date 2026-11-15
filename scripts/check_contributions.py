@@ -160,9 +160,11 @@ def validate_queue_file(path: Path, schema: dict) -> list[str]:
 
 
 def queue_files() -> list[Path]:
+    # depth-agnostic: shard dirs may be subdivided (two-level shards) per the
+    # entity-storage-layout §4 subdivide remedy
     if not QUEUE.is_dir():
         return []
-    return sorted(QUEUE.glob("*.yaml")) + sorted(QUEUE.glob("*/*.yaml"))
+    return sorted(p for p in QUEUE.rglob("*.yaml"))
 
 
 def main() -> int:
