@@ -1,0 +1,51 @@
+id: dea:change-initiative-d40138754-disclosable-version-of-the-isr-republi-euza24
+type: ChangeInitiative
+name: 'Disclosable Version of the ISR - Republic of Congo - Poultry and Aquaculture
+  Development Project - P505271 - Sequence No : 1 (D40138754)'
+description: 'Disclosable Version of the ISR - Republic of Congo - Poultry and Aquaculture
+  Development Project - P505271 - Sequence No : 1 — a published World Bank project
+  document for the financed operation ''CG-Republic of Congo - Poultry and Aquaculture
+  Development Project -- P505271'' (country: Congo, Republic of; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-12).'
+version: 0.1.0
+lifecycle_status: active
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111226022538812/pdf/P505271-d4df53eb-0e9a-45c1-a42f-d9c0b85051d5.pdf
+      (World Bank Documents & Records API; document D40138754; operation CG-Republic
+      of Congo - Poultry and Aquaculture Development Project -- P505271)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- world-bank
+- congo-republic-of

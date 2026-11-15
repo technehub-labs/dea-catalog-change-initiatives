@@ -1,0 +1,51 @@
+id: dea:change-initiative-d40139047-ethiopia-eastern-and-southern-africa-p-4r54rz
+type: ChangeInitiative
+name: Ethiopia - EASTERN AND SOUTHERN AFRICA- P179040- Ethiopia Digital ID for Inclusion
+  and Services Project - Procurement Plan (D40139047)
+description: 'Ethiopia - EASTERN AND SOUTHERN AFRICA- P179040- Ethiopia Digital ID
+  for Inclusion and Services Project - Procurement Plan — a published World Bank project
+  document for the financed operation ''ET-Ethiopia Digital ID for Inclusion and Services
+  Project -- P179040'' (country: Ethiopia; lending instrument: Investment Project
+  Financing; major theme: n/a; document date 2026-11-13).'
+version: 0.1.0
+lifecycle_status: active
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111326082515488/pdf/P179040-250e9655-dd58-44b2-99fa-0f8fdb7a1152.pdf
+      (World Bank Documents & Records API; document D40139047; operation ET-Ethiopia
+      Digital ID for Inclusion and Services Project -- P179040)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- world-bank
+- ethiopia

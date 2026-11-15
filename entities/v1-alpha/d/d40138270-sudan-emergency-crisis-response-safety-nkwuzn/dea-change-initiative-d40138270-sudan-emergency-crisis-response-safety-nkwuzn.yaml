@@ -1,0 +1,51 @@
+id: dea:change-initiative-d40138270-sudan-emergency-crisis-response-safety-nkwuzn
+type: ChangeInitiative
+name: 'Sudan - Emergency Crisis Response Safety Net Project : Additional Financing
+  (D40138270)'
+description: 'Sudan - Emergency Crisis Response Safety Net Project : Additional Financing
+  — a published World Bank project document for the financed operation ''SD-Sudan
+  SANAD - Emergency Crisis Response Safety Net Project -- P505963'' (country: Sudan;
+  lending instrument: Investment Project Financing; major theme: n/a; document date
+  2026-11-05).'
+version: 0.1.0
+lifecycle_status: active
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110926153034225/pdf/BOSIB-eb469f1e-5789-4904-a053-e4109c0866cf.pdf
+      (World Bank Documents & Records API; document D40138270; operation SD-Sudan
+      SANAD - Emergency Crisis Response Safety Net Project -- P505963)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- world-bank
+- sudan

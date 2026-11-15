@@ -1,0 +1,53 @@
+id: dea:change-initiative-d40138134-eastern-and-southern-africa-eastern-an-vbaqqd
+type: ChangeInitiative
+name: Eastern and Southern Africa - EASTERN AND SOUTHERN AFRICA- P506439- Accelerating
+  Access to Water, Sanitation and Hygiene in the Eastern and Southern Africa Region
+  - Procurement Plan (D40138134)
+description: 'Eastern and Southern Africa - EASTERN AND SOUTHERN AFRICA- P506439-
+  Accelerating Access to Water, Sanitation and Hygiene in the Eastern and Southern
+  Africa Region - Procurement Plan — a published World Bank project document for the
+  financed operation ''3E-Accelerating Access to Water, Sanitation and Hygiene in
+  the Eastern and Southern Africa Region -- P506439'' (country: n/a; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-09).'
+version: 0.1.0
+lifecycle_status: active
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110926033045191/pdf/P506439-a52343a4-8cc8-431a-93f5-c66ceaa042cc.pdf
+      (World Bank Documents & Records API; document D40138134; operation 3E-Accelerating
+      Access to Water, Sanitation and Hygiene in the Eastern and Southern Africa Region
+      -- P506439)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- world-bank

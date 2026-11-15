@@ -1,0 +1,50 @@
+id: dea:change-initiative-d40137786-sri-lanka-south-asia-p508317-sri-lanka-7sm67d
+type: ChangeInitiative
+name: Sri Lanka - SOUTH ASIA- P508317- Sri Lanka Digital Transformation - Procurement
+  Plan (D40137786)
+description: 'Sri Lanka - SOUTH ASIA- P508317- Sri Lanka Digital Transformation -
+  Procurement Plan — a published World Bank project document for the financed operation
+  ''LK-Sri Lanka Digital Transformation -- P508317'' (country: Sri Lanka; lending
+  instrument: Investment Project Financing; major theme: n/a; document date 2026-11-05).'
+version: 0.1.0
+lifecycle_status: active
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110526143592581/pdf/P508317-ed12de20-5cc6-4927-858d-319495a4b555.pdf
+      (World Bank Documents & Records API; document D40137786; operation LK-Sri Lanka
+      Digital Transformation -- P508317)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- world-bank
+- sri-lanka

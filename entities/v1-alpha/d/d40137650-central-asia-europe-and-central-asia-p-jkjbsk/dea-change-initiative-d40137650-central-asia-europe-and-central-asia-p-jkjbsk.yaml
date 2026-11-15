@@ -1,0 +1,54 @@
+id: dea:change-initiative-d40137650-central-asia-europe-and-central-asia-p-jkjbsk
+type: ChangeInitiative
+name: Central Asia - EUROPE AND CENTRAL ASIA- P181459- One Health for Pandemic Prevention,
+  Food Systems Resilience, and Ecosystem Health in Central Asia - Procurement Plan
+  (D40137650)
+description: 'Central Asia - EUROPE AND CENTRAL ASIA- P181459- One Health for Pandemic
+  Prevention, Food Systems Resilience, and Ecosystem Health in Central Asia - Procurement
+  Plan — a published World Bank project document for the financed operation ''7C-One
+  Health for Pandemic Prevention, Food Systems Resilience, and Ecosystem Health in
+  Central Asia -- P181459'' (country: Central Asia; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-05).'
+version: 0.1.0
+lifecycle_status: active
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110526045099204/pdf/P181459-7ab600a3-1472-431f-8b64-5aa4e95d31ac.pdf
+      (World Bank Documents & Records API; document D40137650; operation 7C-One Health
+      for Pandemic Prevention, Food Systems Resilience, and Ecosystem Health in Central
+      Asia -- P181459)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- world-bank
+- central-asia
