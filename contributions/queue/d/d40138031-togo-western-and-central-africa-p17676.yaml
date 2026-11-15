@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138031
+name: Togo - WESTERN AND CENTRAL AFRICA- P176769- Inclusive Development through Electricity Access - Procurement
+  Plan (D40138031)
+description: 'Togo - WESTERN AND CENTRAL AFRICA- P176769- Inclusive Development through Electricity Access
+  - Procurement Plan — a published World Bank project document for the financed operation ''TG-Inclusive
+  Development through Electricity Access -- P176769'' (country: Togo; lending instrument: Investment Project
+  Financing; major theme: n/a; document date 2026-11-07).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110726133532169/pdf/P176769-5b4df175-33e1-40bd-a812-4985c76912e7.pdf
+      (World Bank Documents & Records API; document D40138031; operation TG-Inclusive Development through
+      Electricity Access -- P176769)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- togo
+change_scope: structure
+slug: d40138031-togo-western-and-central-africa-p17676

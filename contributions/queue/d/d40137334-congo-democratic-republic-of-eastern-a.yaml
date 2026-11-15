@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137334
+name: Congo, Democratic Republic of - EASTERN AND SOUTHERN AFRICA- P504532- Democratic Republic of Congo
+  Health Emergency Preparedness, Response, and Resilience Project - Procurement Plan (D40137334)
+description: 'Congo, Democratic Republic of - EASTERN AND SOUTHERN AFRICA- P504532- Democratic Republic
+  of Congo Health Emergency Preparedness, Response, and Resilience Project - Procurement Plan — a published
+  World Bank project document for the financed operation ''ZR-Democratic Republic of Congo Health Emergency
+  Preparedness, Response, and Resilience Project -- P504532'' (country: Congo, Democratic Republic of;
+  lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-03).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110326121512643/pdf/P504532-39ef0da0-bb87-49e3-be25-d58dfa065404.pdf
+      (World Bank Documents & Records API; document D40137334; operation ZR-Democratic Republic of Congo
+      Health Emergency Preparedness, Response, and Resilience Project -- P504532)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- congo-democratic-rep
+change_scope: structure
+slug: d40137334-congo-democratic-republic-of-eastern-a

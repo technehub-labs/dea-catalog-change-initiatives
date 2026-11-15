@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137733
+name: 'Guinea-Bissau - WESTERN AND CENTRAL AFRICA- P174576- Guinea-Bissau: Solar Energy Scale-up and Access
+  Project - Procurement Plan (D40137733)'
+description: 'Guinea-Bissau - WESTERN AND CENTRAL AFRICA- P174576- Guinea-Bissau: Solar Energy Scale-up
+  and Access Project - Procurement Plan — a published World Bank project document for the financed operation
+  ''GW-Guinea-Bissau: Solar Energy Scale-up and Access Project -- P174576'' (country: Guinea-Bissau; lending
+  instrument: Investment Project Financing; major theme: n/a; document date 2026-11-05).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://documents.worldbank.org/curated/en/099110526103529483/pdf/P174576-0b0908e4-92ec-419e-ab57-217bf33cbc38.pdf
+      (World Bank Documents & Records API; document D40137733; operation GW-Guinea-Bissau: Solar Energy
+      Scale-up and Access Project -- P174576)'
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- guinea-bissau
+change_scope: structure
+slug: d40137733-guinea-bissau-western-and-central-afri

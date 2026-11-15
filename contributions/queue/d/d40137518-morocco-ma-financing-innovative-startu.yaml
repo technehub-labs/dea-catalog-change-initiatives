@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137518
+name: 'Morocco - MA: Financing Innovative Startups   SMEs (D40137518)'
+description: 'Morocco - MA: Financing Innovative Startups   SMEs — a published World Bank project document
+  for the financed operation ''MA-Financing Innovative Startups and Small and Medium Enterprises Project
+  -- P150928'' (country: Morocco; lending instrument: Investment Project Financing; major theme: n/a;
+  document date 2026-11-04).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110426114026284/pdf/P150928-693e57d0-e7b3-43b0-aa94-09f489bef6cc.pdf
+      (World Bank Documents & Records API; document D40137518; operation MA-Financing Innovative Startups
+      and Small and Medium Enterprises Project -- P150928)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- morocco
+change_scope: structure
+slug: d40137518-morocco-ma-financing-innovative-startu

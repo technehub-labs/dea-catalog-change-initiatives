@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137196
+name: Eastern and Southern Africa - EASTERN AND SOUTHERN AFRICA- P177816- Food Systems Resilience Program
+  for Eastern and Southern Africa (Phase 3) FSRP - Procurement Plan (D40137196)
+description: 'Eastern and Southern Africa - EASTERN AND SOUTHERN AFRICA- P177816- Food Systems Resilience
+  Program for Eastern and Southern Africa (Phase 3) FSRP - Procurement Plan — a published World Bank project
+  document for the financed operation ''3E-Food Systems Resilience Program for Eastern and Southern Africa
+  (Phase 3) FSRP -- P177816'' (country: Eastern and Southern Africa; lending instrument: Investment Project
+  Financing; major theme: n/a; document date 2026-11-03).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110326013514447/pdf/P177816-2e9138e2-05ab-405a-8ead-ce8723fa15c6.pdf
+      (World Bank Documents & Records API; document D40137196; operation 3E-Food Systems Resilience Program
+      for Eastern and Southern Africa (Phase 3) FSRP -- P177816)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- eastern-and-southern
+change_scope: structure
+slug: d40137196-eastern-and-southern-africa-eastern-an

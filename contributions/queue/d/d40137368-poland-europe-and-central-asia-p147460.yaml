@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137368
+name: Poland - EUROPE AND CENTRAL ASIA- P147460- ODRA-VISTULA FLOOD MANAGEMENT PROJECT - Procurement Plan
+  (D40137368)
+description: 'Poland - EUROPE AND CENTRAL ASIA- P147460- ODRA-VISTULA FLOOD MANAGEMENT PROJECT - Procurement
+  Plan — a published World Bank project document for the financed operation ''PL-ODRA-VISTULA FLOOD MANAGEMENT
+  PROJECT -- P147460'' (country: Poland; lending instrument: Investment Project Financing; major theme:
+  n/a; document date 2026-11-03).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110326155530546/pdf/P147460-7b4c0290-2137-446b-867b-8bc9bed89e61.pdf
+      (World Bank Documents & Records API; document D40137368; operation PL-ODRA-VISTULA FLOOD MANAGEMENT
+      PROJECT -- P147460)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- poland
+change_scope: structure
+slug: d40137368-poland-europe-and-central-asia-p147460

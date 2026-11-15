@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138258
+name: 'Disclosable Version of the ISR - West Africa Unique Identification for Regional Integration and
+  Inclusion - Phase 2 - P169594 - Sequence No : 12 (D40138258)'
+description: 'Disclosable Version of the ISR - West Africa Unique Identification for Regional Integration
+  and Inclusion - Phase 2 - P169594 - Sequence No : 12 — a published World Bank project document for the
+  financed operation ''3W-West Africa Unique Identification for Regional Integration and Inclusion - Phase
+  2 -- P169594'' (country: Western and Central Africa; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-09).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110926135533326/pdf/P169594-2b80559d-b399-4ab9-834e-2d1f3d7b72d8.pdf
+      (World Bank Documents & Records API; document D40138258; operation 3W-West Africa Unique Identification
+      for Regional Integration and Inclusion - Phase 2 -- P169594)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- western-and-central
+change_scope: structure
+slug: d40138258-disclosable-version-of-the-isr-west-af

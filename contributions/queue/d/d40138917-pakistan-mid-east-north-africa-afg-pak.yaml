@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138917
+name: Pakistan - MID EAST,NORTH AFRICA,AFG,PAK- P169071- Punjab Rural Sustainable Water Supply and Sanitation
+  Project - Procurement Plan (D40138917)
+description: 'Pakistan - MID EAST,NORTH AFRICA,AFG,PAK- P169071- Punjab Rural Sustainable Water Supply
+  and Sanitation Project - Procurement Plan — a published World Bank project document for the financed
+  operation ''PK-Punjab Rural Sustainable Water Supply and Sanitation Project -- P169071'' (country: Pakistan;
+  lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-12).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111226145540006/pdf/P169071-53c6ca34-dd00-46df-b964-00c42e62b005.pdf
+      (World Bank Documents & Records API; document D40138917; operation PK-Punjab Rural Sustainable Water
+      Supply and Sanitation Project -- P169071)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- pakistan
+change_scope: structure
+slug: d40138917-pakistan-mid-east-north-africa-afg-pak

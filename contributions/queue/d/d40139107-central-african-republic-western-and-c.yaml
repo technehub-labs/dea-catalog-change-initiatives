@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40139107
+name: Central African Republic - WESTERN AND CENTRAL AFRICA- P179211- Adaptive and Productive Social Safety
+  Net Project - Procurement Plan (D40139107)
+description: 'Central African Republic - WESTERN AND CENTRAL AFRICA- P179211- Adaptive and Productive
+  Social Safety Net Project - Procurement Plan — a published World Bank project document for the financed
+  operation ''CF-Adaptive and Productive Social Safety Net Project -- P179211'' (country: Central African
+  Republic; lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-13).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111326115027875/pdf/P179211-e4f77217-d28c-418f-9028-82bedd2c3564.pdf
+      (World Bank Documents & Records API; document D40139107; operation CF-Adaptive and Productive Social
+      Safety Net Project -- P179211)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- central-african-repu
+change_scope: structure
+slug: d40139107-central-african-republic-western-and-c

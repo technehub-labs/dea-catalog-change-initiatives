@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137819
+name: 'Fiji - EAST ASIA AND PACIFIC- P508806- Fiji: Promoting Scalable Rural Prosperity and Economic Resilience
+  (PROSPER)  - Procurement Plan (D40137819)'
+description: 'Fiji - EAST ASIA AND PACIFIC- P508806- Fiji: Promoting Scalable Rural Prosperity and Economic
+  Resilience (PROSPER)  - Procurement Plan — a published World Bank project document for the financed
+  operation ''FJ-Fiji: Promoting Scalable Rural Prosperity and Economic Resilience (PROSPER) -- P508806''
+  (country: Fiji; lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-06).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://documents.worldbank.org/curated/en/099110526224038557/pdf/P508806-89715a4e-7a4e-41cd-b16b-050f69b2450b.pdf
+      (World Bank Documents & Records API; document D40137819; operation FJ-Fiji: Promoting Scalable Rural
+      Prosperity and Economic Resilience (PROSPER) -- P508806)'
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- fiji
+change_scope: structure
+slug: d40137819-fiji-east-asia-and-pacific-p508806-fij

@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137250
+name: Resettlement Plan Kananga Emergency Urban Resilience Project (P179292) (D40137250)
+description: 'Resettlement Plan Kananga Emergency Urban Resilience Project (P179292) — a published World
+  Bank project document for the financed operation ''ZR-Kananga Emergency Urban Resilience Project --
+  P179292'' (country: Congo, Democratic Republic of; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-03).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110326054024650/pdf/P179292-d7d6c85b-8dc9-40e6-be8b-eb943d950a80.pdf
+      (World Bank Documents & Records API; document D40137250; operation ZR-Kananga Emergency Urban Resilience
+      Project -- P179292)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- congo-democratic-rep
+change_scope: structure
+slug: d40137250-resettlement-plan-kananga-emergency-ur

@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137164
+name: 'Disclosable Version of the ISR - Sustainable Financing for Rogun HPP - Phase 2 - P513856 - Sequence
+  No : 1 (D40137164)'
+description: 'Disclosable Version of the ISR - Sustainable Financing for Rogun HPP - Phase 2 - P513856
+  - Sequence No : 1 — a published World Bank project document for the financed operation ''TJ-Sustainable
+  Financing for Rogun HPP - Phase 2 -- P513856'' (country: Tajikistan; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-03).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110226224515783/pdf/P513856-dcf79611-bbd7-42cc-b3c1-bdb7ec9757ab.pdf
+      (World Bank Documents & Records API; document D40137164; operation TJ-Sustainable Financing for
+      Rogun HPP - Phase 2 -- P513856)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- tajikistan
+change_scope: structure
+slug: d40137164-disclosable-version-of-the-isr-sustain

@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138912
+name: West Bank and Gaza - MID EAST,NORTH AFRICA,AFG,PAK- P177299- Supporting an Education Reform Agenda
+  for Improving Teaching, Assessment and Career Pathways - Procurement Plan (D40138912)
+description: 'West Bank and Gaza - MID EAST,NORTH AFRICA,AFG,PAK- P177299- Supporting an Education Reform
+  Agenda for Improving Teaching, Assessment and Career Pathways - Procurement Plan — a published World
+  Bank project document for the financed operation ''GZ-Supporting an Education Reform Agenda for Improving
+  Teaching, Assessment and Career Pathways -- P177299'' (country: West Bank and Gaza; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-12).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111226142017598/pdf/P177299-cf3ca4fc-4fa6-4648-a14c-a221a6269a4e.pdf
+      (World Bank Documents & Records API; document D40138912; operation GZ-Supporting an Education Reform
+      Agenda for Improving Teaching, Assessment and Career Pathways -- P177299)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- west-bank-and-gaza
+change_scope: structure
+slug: d40138912-west-bank-and-gaza-mid-east-north-afri

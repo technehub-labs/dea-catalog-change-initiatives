@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137728
+name: Western and Central Africa - WESTERN AND CENTRAL AFRICA- P175043- Gulf of Guinea Northern Regions
+  Social Cohesion project - Procurement Plan (D40137728)
+description: 'Western and Central Africa - WESTERN AND CENTRAL AFRICA- P175043- Gulf of Guinea Northern
+  Regions Social Cohesion project - Procurement Plan — a published World Bank project document for the
+  financed operation ''3W-Gulf of Guinea Northern Regions Social Cohesion project -- P175043'' (country:
+  Western and Central Africa; lending instrument: Investment Project Financing; major theme: n/a; document
+  date 2026-11-05).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110526103080209/pdf/P175043-3e4339a3-b04a-4ccc-98a5-ea0f27495e83.pdf
+      (World Bank Documents & Records API; document D40137728; operation 3W-Gulf of Guinea Northern Regions
+      Social Cohesion project -- P175043)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- western-and-central
+change_scope: structure
+slug: d40137728-western-and-central-africa-western-and

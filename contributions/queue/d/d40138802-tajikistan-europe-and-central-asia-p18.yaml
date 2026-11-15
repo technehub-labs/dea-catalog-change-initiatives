@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138802
+name: Tajikistan - EUROPE AND CENTRAL ASIA- P181029- Sustainable Financing for Rogun Hydropower Project  -
+  Procurement Plan (D40138802)
+description: 'Tajikistan - EUROPE AND CENTRAL ASIA- P181029- Sustainable Financing for Rogun Hydropower
+  Project  - Procurement Plan — a published World Bank project document for the financed operation ''TJ-Sustainable
+  Financing for Rogun Hydropower Project -- P181029'' (country: Tajikistan; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-12).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111226050031794/pdf/P181029-f5c3b4dc-9442-4863-9176-309812581361.pdf
+      (World Bank Documents & Records API; document D40138802; operation TJ-Sustainable Financing for
+      Rogun Hydropower Project -- P181029)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- tajikistan
+change_scope: structure
+slug: d40138802-tajikistan-europe-and-central-asia-p18

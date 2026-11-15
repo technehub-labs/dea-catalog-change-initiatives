@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40139033
+name: India - SOUTH ASIA- P168633- Kerala Solid Waste Management Project - Procurement Plan (D40139033)
+description: 'India - SOUTH ASIA- P168633- Kerala Solid Waste Management Project - Procurement Plan —
+  a published World Bank project document for the financed operation ''IN-Kerala Solid Waste Management
+  Project -- P168633'' (country: India; lending instrument: Investment Project Financing; major theme:
+  n/a; document date 2026-11-13).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111326072014581/pdf/P168633-b38be4ef-983e-465d-9ab1-a8e2ebb8803d.pdf
+      (World Bank Documents & Records API; document D40139033; operation IN-Kerala Solid Waste Management
+      Project -- P168633)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- india
+change_scope: structure
+slug: d40139033-india-south-asia-p168633-kerala-solid

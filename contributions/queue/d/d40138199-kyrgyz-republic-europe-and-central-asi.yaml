@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138199
+name: 'Kyrgyz Republic - EUROPE AND CENTRAL ASIA- P500620- Kyrgyz Republic: Water Supply and Sanitation
+  Universal Access Program-1 Project - Procurement Plan (D40138199)'
+description: 'Kyrgyz Republic - EUROPE AND CENTRAL ASIA- P500620- Kyrgyz Republic: Water Supply and Sanitation
+  Universal Access Program-1 Project - Procurement Plan — a published World Bank project document for
+  the financed operation ''KG-Kyrgyz Republic: Water Supply and Sanitation Universal Access Program-1
+  Project -- P500620'' (country: Kyrgyz Republic; lending instrument: Investment Project Financing; major
+  theme: n/a; document date 2026-11-09).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://documents.worldbank.org/curated/en/099110926103538425/pdf/P500620-5db0c347-e892-4c5b-9bb1-28e34db00eeb.pdf
+      (World Bank Documents & Records API; document D40138199; operation KG-Kyrgyz Republic: Water Supply
+      and Sanitation Universal Access Program-1 Project -- P500620)'
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- kyrgyz-republic
+change_scope: structure
+slug: d40138199-kyrgyz-republic-europe-and-central-asi

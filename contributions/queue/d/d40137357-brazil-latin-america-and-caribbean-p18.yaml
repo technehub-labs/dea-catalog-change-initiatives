@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137357
+name: Brazil - LATIN AMERICA AND CARIBBEAN- P180429- Bahia Sustainable Rural Development Project - Procurement
+  Plan (D40137357)
+description: 'Brazil - LATIN AMERICA AND CARIBBEAN- P180429- Bahia Sustainable Rural Development Project
+  - Procurement Plan — a published World Bank project document for the financed operation ''BR-Bahia Sustainable
+  Rural Development Project -- P180429'' (country: Brazil; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-03).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110326144584002/pdf/P180429-591f5cb3-682e-42de-bbc8-f9e5cb6d9f1a.pdf
+      (World Bank Documents & Records API; document D40137357; operation BR-Bahia Sustainable Rural Development
+      Project -- P180429)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- brazil
+change_scope: structure
+slug: d40137357-brazil-latin-america-and-caribbean-p18

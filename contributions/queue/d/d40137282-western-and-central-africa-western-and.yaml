@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137282
+name: 'Western and Central Africa - WESTERN AND CENTRAL AFRICA- P515184- WA-REMP MPA Phase II: Regional
+  Access Increase and Sustainable Energy - Procurement Plan (D40137282)'
+description: 'Western and Central Africa - WESTERN AND CENTRAL AFRICA- P515184- WA-REMP MPA Phase II:
+  Regional Access Increase and Sustainable Energy - Procurement Plan — a published World Bank project
+  document for the financed operation ''3W-WA-REMP MPA Phase II: Regional Access Increase and Sustainable
+  Energy -- P515184'' (country: Western and Central Africa; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-03).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://documents.worldbank.org/curated/en/099110326091040228/pdf/P515184-0cd0443e-6936-46e6-92e1-072702b03c44.pdf
+      (World Bank Documents & Records API; document D40137282; operation 3W-WA-REMP MPA Phase II: Regional
+      Access Increase and Sustainable Energy -- P515184)'
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- western-and-central
+change_scope: structure
+slug: d40137282-western-and-central-africa-western-and

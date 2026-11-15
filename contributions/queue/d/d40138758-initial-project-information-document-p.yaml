@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138758
+name: Initial Project Information Document (PID) - First Resilient Growth and Jobs Development Policy
+  Operation - P519837 (D40138758)
+description: 'Initial Project Information Document (PID) - First Resilient Growth and Jobs Development
+  Policy Operation - P519837 — a published World Bank project document for the financed operation ''SC-First
+  Resilient Growth and Jobs Development Policy Operation -- P519837'' (country: Seychelles; lending instrument:
+  Development Policy Lending; major theme: n/a; document date 2026-11-12).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111226024033511/pdf/P519837-9ae6c56f-d6eb-4be2-a29d-0581e7cbd3e8.pdf
+      (World Bank Documents & Records API; document D40138758; operation SC-First Resilient Growth and
+      Jobs Development Policy Operation -- P519837)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- seychelles
+change_scope: structure
+slug: d40138758-initial-project-information-document-p

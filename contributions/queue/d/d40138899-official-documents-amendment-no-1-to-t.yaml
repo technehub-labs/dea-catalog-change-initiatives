@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138899
+name: Official Documents- Amendment No. 1 to the Letter Agreement for GFPP Grant E7660-SN.pdf (D40138899)
+description: 'Official Documents- Amendment No. 1 to the Letter Agreement for GFPP Grant E7660-SN.pdf
+  — a published World Bank project document for the financed operation ''SN-Senegal-Mauritania Accelerating
+  Gas Resources for economic Transformation - Phase 1 -- P518726'' (country: Senegal; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-12).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111226125048107/pdf/P518726-e5e11e18-bdd5-4eb2-8766-1fe024f4baed.pdf
+      (World Bank Documents & Records API; document D40138899; operation SN-Senegal-Mauritania Accelerating
+      Gas Resources for economic Transformation - Phase 1 -- P518726)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- senegal
+change_scope: structure
+slug: d40138899-official-documents-amendment-no-1-to-t

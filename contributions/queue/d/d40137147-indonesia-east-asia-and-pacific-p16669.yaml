@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137147
+name: Indonesia - EAST ASIA AND PACIFIC- P166693- Labor Market Information and Skills System Transformation
+  for Labor Market Flexibility - Procurement Plan (D40137147)
+description: 'Indonesia - EAST ASIA AND PACIFIC- P166693- Labor Market Information and Skills System Transformation
+  for Labor Market Flexibility - Procurement Plan — a published World Bank project document for the financed
+  operation ''ID-Labor Market Information and Skills System Transformation for Labor Market Flexibility
+  -- P166693'' (country: Indonesia; lending instrument: Investment Project Financing; major theme: n/a;
+  document date 2026-11-03).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110226202070941/pdf/P166693-cbe9dfd9-d0d1-4c46-a44b-0fb342c43781.pdf
+      (World Bank Documents & Records API; document D40137147; operation ID-Labor Market Information and
+      Skills System Transformation for Labor Market Flexibility -- P166693)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- indonesia
+change_scope: structure
+slug: d40137147-indonesia-east-asia-and-pacific-p16669

@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137533
+name: Haiti - LATIN AMERICA AND CARIBBEAN- P174707- Promoting a more Equitable, Sustainable and Safer
+  Education - Procurement Plan (D40137533)
+description: 'Haiti - LATIN AMERICA AND CARIBBEAN- P174707- Promoting a more Equitable, Sustainable and
+  Safer Education - Procurement Plan — a published World Bank project document for the financed operation
+  ''HT-Promoting a more Equitable, Sustainable and Safer Education -- P174707'' (country: Haiti; lending
+  instrument: Investment Project Financing; major theme: n/a; document date 2026-11-04).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110426134514110/pdf/P174707-d5f6eba9-24fa-4757-85c6-cfa65319b713.pdf
+      (World Bank Documents & Records API; document D40137533; operation HT-Promoting a more Equitable,
+      Sustainable and Safer Education -- P174707)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- haiti
+change_scope: structure
+slug: d40137533-haiti-latin-america-and-caribbean-p174

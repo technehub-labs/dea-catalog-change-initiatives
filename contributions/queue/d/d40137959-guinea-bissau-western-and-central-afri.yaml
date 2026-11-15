@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137959
+name: Guinea-Bissau - WESTERN AND CENTRAL AFRICA- P176383- Guinea-Bissau Public Sector Strengthening Project
+  II - Procurement Plan (D40137959)
+description: 'Guinea-Bissau - WESTERN AND CENTRAL AFRICA- P176383- Guinea-Bissau Public Sector Strengthening
+  Project II - Procurement Plan — a published World Bank project document for the financed operation ''GW-Guinea-Bissau
+  Public Sector Strengthening Project II -- P176383'' (country: Guinea-Bissau; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-06).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110626131562757/pdf/P176383-e19fe492-bcdf-4a8d-a4b6-dd9e769aa50b.pdf
+      (World Bank Documents & Records API; document D40137959; operation GW-Guinea-Bissau Public Sector
+      Strengthening Project II -- P176383)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- guinea-bissau
+change_scope: structure
+slug: d40137959-guinea-bissau-western-and-central-afri

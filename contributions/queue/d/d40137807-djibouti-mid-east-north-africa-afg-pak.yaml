@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137807
+name: Djibouti - MID EAST,NORTH AFRICA,AFG,PAK- P509082- Djibouti - Contingent Emergency Response Project  -
+  Procurement Plan (D40137807)
+description: 'Djibouti - MID EAST,NORTH AFRICA,AFG,PAK- P509082- Djibouti - Contingent Emergency Response
+  Project  - Procurement Plan — a published World Bank project document for the financed operation ''DJ-Djibouti
+  - Contingent Emergency Response Project -- P509082'' (country: Djibouti; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-06).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110526195022192/pdf/P509082-cd80cce9-dfac-49fd-9a3d-bb1951334ffc.pdf
+      (World Bank Documents & Records API; document D40137807; operation DJ-Djibouti - Contingent Emergency
+      Response Project -- P509082)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- djibouti
+change_scope: structure
+slug: d40137807-djibouti-mid-east-north-africa-afg-pak

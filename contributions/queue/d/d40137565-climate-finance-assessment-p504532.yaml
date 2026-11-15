@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137565
+name: Climate Finance Assessment (P504532) (D40137565)
+description: 'Climate Finance Assessment (P504532) — a published World Bank project document for the financed
+  operation ''ZR-Democratic Republic of Congo Health Emergency Preparedness, Response, and Resilience
+  Project -- P504532'' (country: Congo, Democratic Republic of; lending instrument: Investment Project
+  Financing; major theme: n/a; document date 2026-11-04).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110426162511055/pdf/P504532-73080abd-e5b5-4336-a657-5caab4ed5bb7.pdf
+      (World Bank Documents & Records API; document D40137565; operation ZR-Democratic Republic of Congo
+      Health Emergency Preparedness, Response, and Resilience Project -- P504532)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- congo-democratic-rep
+change_scope: structure
+slug: d40137565-climate-finance-assessment-p504532

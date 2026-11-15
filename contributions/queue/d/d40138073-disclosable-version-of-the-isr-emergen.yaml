@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138073
+name: 'Disclosable Version of the ISR - Emergency Food Security Project - P178280 - Sequence No : 12 (D40138073)'
+description: 'Disclosable Version of the ISR - Emergency Food Security Project - P178280 - Sequence No
+  : 12 — a published World Bank project document for the financed operation ''AF-Emergency Food Security
+  Project -- P178280'' (country: Afghanistan; lending instrument: Investment Project Financing; major
+  theme: n/a; document date 2026-11-08).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110826143031974/pdf/P178280-bd0fd5a4-234f-47f0-9af5-601212b472f0.pdf
+      (World Bank Documents & Records API; document D40138073; operation AF-Emergency Food Security Project
+      -- P178280)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- afghanistan
+change_scope: structure
+slug: d40138073-disclosable-version-of-the-isr-emergen

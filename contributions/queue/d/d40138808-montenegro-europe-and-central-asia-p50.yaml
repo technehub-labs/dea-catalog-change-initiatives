@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138808
+name: Montenegro - EUROPE AND CENTRAL ASIA- P509405- MONTENEGRO FINANCIAL INFRASTRUCTURE MODERNIZATION
+  AND ITS ALIGNMENT WITH SEPA STANDARDS PROJECT (TIPS CLONE PROJECT) - Procurement Plan (D40138808)
+description: 'Montenegro - EUROPE AND CENTRAL ASIA- P509405- MONTENEGRO FINANCIAL INFRASTRUCTURE MODERNIZATION
+  AND ITS ALIGNMENT WITH SEPA STANDARDS PROJECT (TIPS CLONE PROJECT) - Procurement Plan — a published
+  World Bank project document for the financed operation ''ME-MONTENEGRO FINANCIAL INFRASTRUCTURE MODERNIZATION
+  AND ITS ALIGNMENT WITH SEPA STANDARDS PROJECT (TIPS CLONE PROJECT) -- P509405'' (country: Montenegro;
+  lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-12).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111226052013050/pdf/P509405-91b66970-3ae2-46c9-b4fe-1d853e2769b0.pdf
+      (World Bank Documents & Records API; document D40138808; operation ME-MONTENEGRO FINANCIAL INFRASTRUCTURE
+      MODERNIZATION AND ITS ALIGNMENT WITH SEPA STANDARDS PROJECT (TIPS CLONE PROJECT) -- P509405)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- montenegro
+change_scope: structure
+slug: d40138808-montenegro-europe-and-central-asia-p50

@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138318
+name: Stakeholder Engagement Plan (SEP) - Indonesia Coral Reef Bond - P181486 (D40138318)
+description: 'Stakeholder Engagement Plan (SEP) - Indonesia Coral Reef Bond - P181486 — a published World
+  Bank project document for the financed operation ''ID-Indonesia Coral Reef Bond -- P181486'' (country:
+  Indonesia; lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-10).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111026031529878/pdf/P181486-c1a3f23e-eb23-437e-9166-8cb3c58951c6.pdf
+      (World Bank Documents & Records API; document D40138318; operation ID-Indonesia Coral Reef Bond
+      -- P181486)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- indonesia
+change_scope: structure
+slug: d40138318-stakeholder-engagement-plan-sep-indone

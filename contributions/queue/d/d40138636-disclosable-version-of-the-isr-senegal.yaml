@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138636
+name: 'Disclosable Version of the ISR - Senegal Energy Access Scale Up Project - P176620 - Sequence No
+  : 11 (D40138636)'
+description: 'Disclosable Version of the ISR - Senegal Energy Access Scale Up Project - P176620 - Sequence
+  No : 11 — a published World Bank project document for the financed operation ''SN-Senegal Energy Access
+  Scale Up Project -- P176620'' (country: Senegal; lending instrument: Investment Project Financing; major
+  theme: n/a; document date 2026-11-11).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111126110563934/pdf/P176620-81b97842-a449-4a72-b6f2-538d4c5d0830.pdf
+      (World Bank Documents & Records API; document D40138636; operation SN-Senegal Energy Access Scale
+      Up Project -- P176620)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- senegal
+change_scope: structure
+slug: d40138636-disclosable-version-of-the-isr-senegal

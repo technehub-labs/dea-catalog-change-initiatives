@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137557
+name: Climate Finance Assessment (P513113) (D40137557)
+description: 'Climate Finance Assessment (P513113) — a published World Bank project document for the financed
+  operation ''GM-The Gambia Water and Sanitation Project -- P513113'' (country: Gambia, The; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-04).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110426162034746/pdf/P513113-6989457f-024e-48b1-9363-29ae74e6f277.pdf
+      (World Bank Documents & Records API; document D40137557; operation GM-The Gambia Water and Sanitation
+      Project -- P513113)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- gambia-the
+change_scope: structure
+slug: d40137557-climate-finance-assessment-p513113

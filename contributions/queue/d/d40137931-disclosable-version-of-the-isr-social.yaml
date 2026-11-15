@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137931
+name: 'Disclosable Version of the ISR - Social Protection Project - P178973 - Sequence No : 7 (D40137931)'
+description: 'Disclosable Version of the ISR - Social Protection Project - P178973 - Sequence No : 7 —
+  a published World Bank project document for the financed operation ''LK-Social Protection Project --
+  P178973'' (country: Sri Lanka; lending instrument: Investment Project Financing; major theme: n/a; document
+  date 2026-11-06).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110626104024550/pdf/P178973-c3a50270-4230-4e28-85a5-eb201fa62000.pdf
+      (World Bank Documents & Records API; document D40137931; operation LK-Social Protection Project
+      -- P178973)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- sri-lanka
+change_scope: structure
+slug: d40137931-disclosable-version-of-the-isr-social

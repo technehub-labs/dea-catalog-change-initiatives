@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138816
+name: 'Disclosable Version of the ISR - Methane-Reducing and Water-Saving Paddy Rice Program for Results
+  (Hunan) - P178796 - Sequence No : 9 (D40138816)'
+description: 'Disclosable Version of the ISR - Methane-Reducing and Water-Saving Paddy Rice Program for
+  Results (Hunan) - P178796 - Sequence No : 9 — a published World Bank project document for the financed
+  operation ''CN-Methane-Reducing and Water-Saving Paddy Rice Program for Results (Hunan) -- P178796''
+  (country: China; lending instrument: Program-for-Results Financing; major theme: n/a; document date
+  2026-11-12).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111226061035173/pdf/P178796-ee996148-153f-45a8-a948-6ab89df094f3.pdf
+      (World Bank Documents & Records API; document D40138816; operation CN-Methane-Reducing and Water-Saving
+      Paddy Rice Program for Results (Hunan) -- P178796)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- china
+change_scope: structure
+slug: d40138816-disclosable-version-of-the-isr-methane

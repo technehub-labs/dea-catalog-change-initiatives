@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138227
+name: Brazil - LATIN AMERICA AND CARIBBEAN- P175723- Mato Grosso Sustainable Development of Family Farming
+  - Procurement Plan (D40138227)
+description: 'Brazil - LATIN AMERICA AND CARIBBEAN- P175723- Mato Grosso Sustainable Development of Family
+  Farming - Procurement Plan — a published World Bank project document for the financed operation ''BR-Mato
+  Grosso Sustainable Development of Family Farming -- P175723'' (country: Brazil; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-09).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110926113535374/pdf/P175723-245bca7f-de99-48db-8816-a585a69a082a.pdf
+      (World Bank Documents & Records API; document D40138227; operation BR-Mato Grosso Sustainable Development
+      of Family Farming -- P175723)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- brazil
+change_scope: structure
+slug: d40138227-brazil-latin-america-and-caribbean-p17

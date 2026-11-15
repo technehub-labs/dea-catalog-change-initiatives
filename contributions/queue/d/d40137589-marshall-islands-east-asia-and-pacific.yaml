@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137589
+name: Marshall Islands - EAST ASIA AND PACIFIC- P178544- Pacific Islands Regional Oceanscape Program -
+  Second Phase for Economic Resilience - Procurement Plan (D40137589)
+description: 'Marshall Islands - EAST ASIA AND PACIFIC- P178544- Pacific Islands Regional Oceanscape Program
+  - Second Phase for Economic Resilience - Procurement Plan — a published World Bank project document
+  for the financed operation ''MH-Pacific Islands Regional Oceanscape Program - Second Phase for Economic
+  Resilience -- P178544'' (country: Marshall Islands; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-05).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110426214016024/pdf/P178544-0e680bb6-e67f-4abf-86fd-541b6adf6105.pdf
+      (World Bank Documents & Records API; document D40137589; operation MH-Pacific Islands Regional Oceanscape
+      Program - Second Phase for Economic Resilience -- P178544)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- marshall-islands
+change_scope: structure
+slug: d40137589-marshall-islands-east-asia-and-pacific

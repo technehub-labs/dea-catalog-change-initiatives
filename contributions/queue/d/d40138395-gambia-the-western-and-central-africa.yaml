@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138395
+name: Gambia, The - WESTERN AND CENTRAL AFRICA- P513113- The Gambia Water and Sanitation Project - Procurement
+  Plan (D40138395)
+description: 'Gambia, The - WESTERN AND CENTRAL AFRICA- P513113- The Gambia Water and Sanitation Project
+  - Procurement Plan — a published World Bank project document for the financed operation ''GM-The Gambia
+  Water and Sanitation Project -- P513113'' (country: Gambia, The; lending instrument: Investment Project
+  Financing; major theme: n/a; document date 2026-11-10).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111026090018841/pdf/P513113-85bc7439-abdc-432d-82bd-d8f6f2b12acc.pdf
+      (World Bank Documents & Records API; document D40138395; operation GM-The Gambia Water and Sanitation
+      Project -- P513113)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- gambia-the
+change_scope: structure
+slug: d40138395-gambia-the-western-and-central-africa

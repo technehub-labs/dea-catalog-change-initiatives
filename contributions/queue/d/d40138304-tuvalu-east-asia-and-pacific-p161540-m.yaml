@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138304
+name: Tuvalu - EAST ASIA AND PACIFIC - P161540 - Maritime Investment in Climate Resilient Operations -
+  Audited Financial Statement (D40138304)
+description: 'Tuvalu - EAST ASIA AND PACIFIC - P161540 - Maritime Investment in Climate Resilient Operations
+  - Audited Financial Statement — a published World Bank project document for the financed operation ''TV-Maritime
+  Investment in Climate Resilient Operations -- P161540'' (country: Tuvalu; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-10).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111026023533998/pdf/P161540-cd341c39-e917-49c9-8d31-b75ce3aca605.pdf
+      (World Bank Documents & Records API; document D40138304; operation TV-Maritime Investment in Climate
+      Resilient Operations -- P161540)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- tuvalu
+change_scope: structure
+slug: d40138304-tuvalu-east-asia-and-pacific-p161540-m

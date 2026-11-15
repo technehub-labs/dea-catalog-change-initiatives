@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137333
+name: India - SOUTH ASIA- P179749- Uttarakhand Disaster Preparedness and Resilience Project - Procurement
+  Plan (D40137333)
+description: 'India - SOUTH ASIA- P179749- Uttarakhand Disaster Preparedness and Resilience Project -
+  Procurement Plan — a published World Bank project document for the financed operation ''IN-Uttarakhand
+  Disaster Preparedness and Resilience Project -- P179749'' (country: India; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-03).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110326120526325/pdf/P179749-6185c232-53ce-4d73-9bf4-a04a2dca40ad.pdf
+      (World Bank Documents & Records API; document D40137333; operation IN-Uttarakhand Disaster Preparedness
+      and Resilience Project -- P179749)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- india
+change_scope: structure
+slug: d40137333-india-south-asia-p179749-uttarakhand-d

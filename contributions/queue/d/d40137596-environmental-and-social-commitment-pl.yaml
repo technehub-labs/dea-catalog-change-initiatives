@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137596
+name: Environmental and Social Commitment Plan (ESCP) Digital Federated States of Micronesia 2 (P518944)
+  (D40137596)
+description: 'Environmental and Social Commitment Plan (ESCP) Digital Federated States of Micronesia 2
+  (P518944) — a published World Bank project document for the financed operation ''FM-Digital Federated
+  States of Micronesia 2 -- P518944'' (country: Micronesia, Federated States of; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-05).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110526002021819/pdf/P518944-ae22c251-b0b1-4ca9-963e-4d68d70b18c5.pdf
+      (World Bank Documents & Records API; document D40137596; operation FM-Digital Federated States of
+      Micronesia 2 -- P518944)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- micronesia-federated
+change_scope: structure
+slug: d40137596-environmental-and-social-commitment-pl

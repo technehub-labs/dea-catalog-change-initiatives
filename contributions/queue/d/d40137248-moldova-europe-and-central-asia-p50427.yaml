@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137248
+name: Moldova - EUROPE AND CENTRAL ASIA- P504278- Strengthening Moldova's Disaster Risk Management and
+  Resilience Project - Procurement Plan (D40137248)
+description: 'Moldova - EUROPE AND CENTRAL ASIA- P504278- Strengthening Moldova''s Disaster Risk Management
+  and Resilience Project - Procurement Plan — a published World Bank project document for the financed
+  operation ''MD-Strengthening Moldova''s Disaster Risk Management and Resilience Project -- P504278''
+  (country: Moldova; lending instrument: Investment Project Financing; major theme: n/a; document date
+  2026-11-03).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110326053522378/pdf/P504278-a65e186e-90a2-4453-b1e8-4808c3155228.pdf
+      (World Bank Documents & Records API; document D40137248; operation MD-Strengthening Moldova's Disaster
+      Risk Management and Resilience Project -- P504278)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- moldova
+change_scope: structure
+slug: d40137248-moldova-europe-and-central-asia-p50427

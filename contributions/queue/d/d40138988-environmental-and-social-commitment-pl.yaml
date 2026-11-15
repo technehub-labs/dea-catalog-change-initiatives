@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138988
+name: Environmental and Social Commitment Plan (ESCP) South Sudan Resilient Agricultural Livelihoods Project
+  (P169120) (D40138988)
+description: 'Environmental and Social Commitment Plan (ESCP) South Sudan Resilient Agricultural Livelihoods
+  Project (P169120) — a published World Bank project document for the financed operation ''SS-South Sudan
+  Resilient Agricultural Livelihoods Project -- P169120'' (country: South Sudan; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-13).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111326012015858/pdf/P169120-30535101-9527-4d08-ba01-021a0e20e2e3.pdf
+      (World Bank Documents & Records API; document D40138988; operation SS-South Sudan Resilient Agricultural
+      Livelihoods Project -- P169120)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- south-sudan
+change_scope: structure
+slug: d40138988-environmental-and-social-commitment-pl

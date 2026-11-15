@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137336
+name: Rwanda - EASTERN AND SOUTHERN AFRICA- P175273- Access to Finance for Recovery and Resilience Project
+  - Procurement Plan (D40137336)
+description: 'Rwanda - EASTERN AND SOUTHERN AFRICA- P175273- Access to Finance for Recovery and Resilience
+  Project - Procurement Plan — a published World Bank project document for the financed operation ''RW-Access
+  to Finance for Recovery and Resilience Project -- P175273'' (country: Rwanda; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-03).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110326122531876/pdf/P175273-8e2a7424-a58d-4335-8bc9-6243d77a5361.pdf
+      (World Bank Documents & Records API; document D40137336; operation RW-Access to Finance for Recovery
+      and Resilience Project -- P175273)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- rwanda
+change_scope: structure
+slug: d40137336-rwanda-eastern-and-southern-africa-p17

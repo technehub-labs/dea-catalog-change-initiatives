@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138603
+name: 'Disclosable Version of the ISR - West Bengal Building State Capability for Inclusive Social Protection
+  Operation - P174564 - Sequence No : 10 (D40138603)'
+description: 'Disclosable Version of the ISR - West Bengal Building State Capability for Inclusive Social
+  Protection Operation - P174564 - Sequence No : 10 — a published World Bank project document for the
+  financed operation ''IN-West Bengal Building State Capability for Inclusive Social Protection Operation
+  -- P174564'' (country: India; lending instrument: Program-for-Results Financing; major theme: n/a; document
+  date 2026-11-11).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111126091033596/pdf/P174564-032160d3-5558-4a83-b1eb-ceda753e9196.pdf
+      (World Bank Documents & Records API; document D40138603; operation IN-West Bengal Building State
+      Capability for Inclusive Social Protection Operation -- P174564)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- india
+change_scope: structure
+slug: d40138603-disclosable-version-of-the-isr-west-be

@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138070
+name: Montenegro - Revenue Administration Reform Project (D40138070)
+description: 'Montenegro - Revenue Administration Reform Project — a published World Bank project document
+  for the financed operation ''ME-Revenue Administration Reform Project -- P149743'' (country: Montenegro;
+  lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-03).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110826135089700/pdf/BOSIB-75215f85-8f61-4b10-a27d-eef8db2d5730.pdf
+      (World Bank Documents & Records API; document D40138070; operation ME-Revenue Administration Reform
+      Project -- P149743)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- montenegro
+change_scope: structure
+slug: d40138070-montenegro-revenue-administration-refo

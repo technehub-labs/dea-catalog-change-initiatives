@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138409
+name: Fiji - EAST ASIA AND PACIFIC- P178694- Fiji Tourism Development Program in Vanua Levu - Procurement
+  Plan (D40138409)
+description: 'Fiji - EAST ASIA AND PACIFIC- P178694- Fiji Tourism Development Program in Vanua Levu -
+  Procurement Plan — a published World Bank project document for the financed operation ''FJ-Fiji Tourism
+  Development Program in Vanua Levu -- P178694'' (country: Fiji; lending instrument: Investment Project
+  Financing; major theme: n/a; document date 2026-11-10).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111026100013564/pdf/P178694-31873a58-ee7b-4ea9-9825-1ed3f8d01c80.pdf
+      (World Bank Documents & Records API; document D40138409; operation FJ-Fiji Tourism Development Program
+      in Vanua Levu -- P178694)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- fiji
+change_scope: structure
+slug: d40138409-fiji-east-asia-and-pacific-p178694-fij

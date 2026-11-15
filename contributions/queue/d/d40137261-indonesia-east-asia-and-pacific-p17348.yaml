@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137261
+name: Indonesia - EAST ASIA AND PACIFIC- P173487- Agriculture Value Chain Development Project (ICARE)
+  - Procurement Plan (D40137261)
+description: 'Indonesia - EAST ASIA AND PACIFIC- P173487- Agriculture Value Chain Development Project
+  (ICARE) - Procurement Plan — a published World Bank project document for the financed operation ''ID-Agriculture
+  Value Chain Development Project (ICARE) -- P173487'' (country: Indonesia; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-03).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110326071514333/pdf/P173487-3ec4948a-634f-421a-9d9a-7c89b80067f8.pdf
+      (World Bank Documents & Records API; document D40137261; operation ID-Agriculture Value Chain Development
+      Project (ICARE) -- P173487)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- indonesia
+change_scope: structure
+slug: d40137261-indonesia-east-asia-and-pacific-p17348

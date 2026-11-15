@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138017
+name: 'Disclosable Version of the ISR - Lesotho Education Improvement Project  - P500587 - Sequence No
+  : 6 (D40138017)'
+description: 'Disclosable Version of the ISR - Lesotho Education Improvement Project  - P500587 - Sequence
+  No : 6 — a published World Bank project document for the financed operation ''LS-Lesotho Education Improvement
+  Project -- P500587'' (country: Lesotho; lending instrument: Investment Project Financing; major theme:
+  n/a; document date 2026-11-07).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110726010039101/pdf/P500587-98162a3b-f157-42d9-913d-4aed0778fa10.pdf
+      (World Bank Documents & Records API; document D40138017; operation LS-Lesotho Education Improvement
+      Project -- P500587)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- lesotho
+change_scope: structure
+slug: d40138017-disclosable-version-of-the-isr-lesotho

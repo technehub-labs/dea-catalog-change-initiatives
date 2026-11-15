@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137736
+name: 'Disclosable Version of the ISR - Assam Inland Water Transport Project - P157929 - Sequence No :
+  17 (D40137736)'
+description: 'Disclosable Version of the ISR - Assam Inland Water Transport Project - P157929 - Sequence
+  No : 17 — a published World Bank project document for the financed operation ''IN-Assam Inland Water
+  Transport Project -- P157929'' (country: India; lending instrument: Investment Project Financing; major
+  theme: n/a; document date 2026-11-05).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110526104042070/pdf/P157929-c63a6750-1528-4377-9f05-4ddfbf41525f.pdf
+      (World Bank Documents & Records API; document D40137736; operation IN-Assam Inland Water Transport
+      Project -- P157929)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- india
+change_scope: structure
+slug: d40137736-disclosable-version-of-the-isr-assam-i

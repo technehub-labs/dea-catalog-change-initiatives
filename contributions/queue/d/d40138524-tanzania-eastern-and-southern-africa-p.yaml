@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138524
+name: Tanzania - EASTERN AND SOUTHERN AFRICA- P166415- Higher Education for Economic Transformation Project
+  - Procurement Plan (D40138524)
+description: 'Tanzania - EASTERN AND SOUTHERN AFRICA- P166415- Higher Education for Economic Transformation
+  Project - Procurement Plan — a published World Bank project document for the financed operation ''TZ-Higher
+  Education for Economic Transformation Project -- P166415'' (country: Tanzania; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-11).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111126014527920/pdf/P166415-65689e30-2d26-4c08-aa18-50f5655fa259.pdf
+      (World Bank Documents & Records API; document D40138524; operation TZ-Higher Education for Economic
+      Transformation Project -- P166415)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- tanzania
+change_scope: structure
+slug: d40138524-tanzania-eastern-and-southern-africa-p

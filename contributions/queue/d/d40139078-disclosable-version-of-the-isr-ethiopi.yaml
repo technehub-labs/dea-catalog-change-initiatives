@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40139078
+name: 'Disclosable Version of the ISR - Ethiopia Flood Management Project - P176327 - Sequence No : 9
+  (D40139078)'
+description: 'Disclosable Version of the ISR - Ethiopia Flood Management Project - P176327 - Sequence
+  No : 9 — a published World Bank project document for the financed operation ''ET-Ethiopia Flood Management
+  Project -- P176327'' (country: Ethiopia; lending instrument: Investment Project Financing; major theme:
+  n/a; document date 2026-11-13).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111326103033786/pdf/P176327-f76ab500-2875-4329-bcef-2e3edbc1e311.pdf
+      (World Bank Documents & Records API; document D40139078; operation ET-Ethiopia Flood Management
+      Project -- P176327)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- ethiopia
+change_scope: structure
+slug: d40139078-disclosable-version-of-the-isr-ethiopi
