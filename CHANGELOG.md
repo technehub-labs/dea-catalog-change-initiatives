@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### CR-CHI-CAT-08: Shard Re-spread (R5 Remedy)
+
+Degenerate sub-shard entries re-spread by slug tail (R5 findings resolved); ids and content untouched.
+
 ### CR-CHI-CAT-07: Shard Subdivision (R5 Remedy)
 
 Over-cap shard subdivided into two-character sub-shards (R5 findings resolved); vendored toolchain upgraded to depth-3 shard walking; ids untouched.

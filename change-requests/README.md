@@ -19,3 +19,4 @@ repository are recorded here with their home-repo identifier.
 | [CR-CHI-CAT-05](CR-CHI-CAT-05-cr-chi-cat-05.md) | CR Numbering Correction | **Landed (this PR)** | Colliding batch CR numbers renumbered (mapping in the CR); content unchanged. |
 | [CR-CHI-CAT-06](CR-CHI-CAT-06-cr-chi-cat-06.md) | Canonical Admission Wave (999) | **Landed (this PR)** | 999 records promoted candidates/ -> canonical root; ladder completed; evidence preserved; canonical 999, candidates 0. |
 | [CR-CHI-CAT-07](CR-CHI-CAT-07-cr-chi-cat-07.md) | Shard Subdivision (R5 Remedy) | **Landed (this PR)** | Over-cap shard subdivided; toolchain depth-3; ids untouched. |
+| [CR-CHI-CAT-08](CR-CHI-CAT-08-cr-chi-cat-08.md) | Shard Re-spread (R5 Remedy) | **Landed (this PR)** | Degenerate sub-shard re-spread by slug tail; ids untouched. |
