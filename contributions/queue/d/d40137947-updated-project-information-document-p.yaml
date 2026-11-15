@@ -1,26 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137947
-name: Updated Project Information Document (PID) - Learning and Evidence for Accelerated PHC Transformation
-  (LEAP) Project  - P519547 (D40137947)
-description: 'Updated Project Information Document (PID) - Learning and Evidence for Accelerated PHC Transformation
-  (LEAP) Project  - P519547 — a published World Bank project document for the financed operation ''3E-Learning
-  and Evidence for Accelerated PHC Transformation (LEAP) Project -- P519547'' (country: Eastern and Southern
-  Africa; lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-06).'
+name: Updated Project Information Document (PID) - Learning and Evidence for Accelerated
+  PHC Transformation (LEAP) Project  - P519547 (D40137947)
+description: 'Updated Project Information Document (PID) - Learning and Evidence for
+  Accelerated PHC Transformation (LEAP) Project  - P519547 — a published World Bank
+  project document for the financed operation ''3E-Learning and Evidence for Accelerated
+  PHC Transformation (LEAP) Project -- P519547'' (country: Eastern and Southern Africa;
+  lending instrument: Investment Project Financing; major theme: n/a; document date
+  2026-11-06).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110626115064157/pdf/P519547-afa6bf1e-6e21-4861-a654-35cc2d924c3e.pdf
-      (World Bank Documents & Records API; document D40137947; operation 3E-Learning and Evidence for
-      Accelerated PHC Transformation (LEAP) Project -- P519547)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137947; operation 3E-Learning
+      and Evidence for Accelerated PHC Transformation (LEAP) Project -- P519547)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - eastern-and-southern
 change_scope: structure
 slug: d40137947-updated-project-information-document-p
+assigned_id: dea:change-initiative-d40137947-updated-project-information-document-p-wujw7t
+admitted: '2026-11-15'

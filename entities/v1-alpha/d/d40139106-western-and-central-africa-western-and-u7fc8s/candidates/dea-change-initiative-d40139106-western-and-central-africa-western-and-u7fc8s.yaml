@@ -1,0 +1,41 @@
+id: dea:change-initiative-d40139106-western-and-central-africa-western-and-u7fc8s
+type: ChangeInitiative
+name: Western and Central Africa - WESTERN AND CENTRAL AFRICA- P172769- West Africa
+  Food System Resilience Program (FSRP) - Procurement Plan (D40139106)
+description: 'Western and Central Africa - WESTERN AND CENTRAL AFRICA- P172769- West
+  Africa Food System Resilience Program (FSRP) - Procurement Plan — a published World
+  Bank project document for the financed operation ''3W-West Africa Food System Resilience
+  Program (FSRP) -- P172769'' (country: Western and Central Africa; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-13).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111326114013377/pdf/P172769-511125c0-e79e-44ce-a6ac-1b17beda7417.pdf
+      (World Bank Documents & Records API; document D40139106; operation 3W-West Africa
+      Food System Resilience Program (FSRP) -- P172769)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- western-and-central

@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137984
-name: 'Disclosable Version of the ISR - Rwanda Quality Basic Education for Human Capital Development Project
-  - P168551 - Sequence No : 15 (D40137984)'
-description: 'Disclosable Version of the ISR - Rwanda Quality Basic Education for Human Capital Development
-  Project - P168551 - Sequence No : 15 — a published World Bank project document for the financed operation
-  ''RW-Rwanda Quality Basic Education for Human Capital Development Project -- P168551'' (country: Rwanda;
-  lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-06).'
+name: 'Disclosable Version of the ISR - Rwanda Quality Basic Education for Human Capital
+  Development Project - P168551 - Sequence No : 15 (D40137984)'
+description: 'Disclosable Version of the ISR - Rwanda Quality Basic Education for
+  Human Capital Development Project - P168551 - Sequence No : 15 — a published World
+  Bank project document for the financed operation ''RW-Rwanda Quality Basic Education
+  for Human Capital Development Project -- P168551'' (country: Rwanda; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-06).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110626143022340/pdf/P168551-9d2b42c7-1810-49bd-a635-eed493644288.pdf
-      (World Bank Documents & Records API; document D40137984; operation RW-Rwanda Quality Basic Education
-      for Human Capital Development Project -- P168551)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137984; operation RW-Rwanda
+      Quality Basic Education for Human Capital Development Project -- P168551)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - rwanda
 change_scope: structure
 slug: d40137984-disclosable-version-of-the-isr-rwanda
+assigned_id: dea:change-initiative-d40137984-disclosable-version-of-the-isr-rwanda-qn6zun
+admitted: '2026-11-15'

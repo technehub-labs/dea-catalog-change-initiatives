@@ -1,26 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138871
-name: Niger - WESTERN AND CENTRAL AFRICA- P509601- Niger Food Security and Emergency Access to Essential  Services
-  Project - Procurement Plan (D40138871)
-description: 'Niger - WESTERN AND CENTRAL AFRICA- P509601- Niger Food Security and Emergency Access to
-  Essential  Services Project - Procurement Plan — a published World Bank project document for the financed
-  operation ''NE-Niger Food Security and Emergency Access to Essential  Services Project -- P509601''
-  (country: Niger; lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-12).'
+name: Niger - WESTERN AND CENTRAL AFRICA- P509601- Niger Food Security and Emergency
+  Access to Essential  Services Project - Procurement Plan (D40138871)
+description: 'Niger - WESTERN AND CENTRAL AFRICA- P509601- Niger Food Security and
+  Emergency Access to Essential  Services Project - Procurement Plan — a published
+  World Bank project document for the financed operation ''NE-Niger Food Security
+  and Emergency Access to Essential  Services Project -- P509601'' (country: Niger;
+  lending instrument: Investment Project Financing; major theme: n/a; document date
+  2026-11-12).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111226110026968/pdf/P509601-c60730c7-6559-4974-befa-f45bf782b09e.pdf
-      (World Bank Documents & Records API; document D40138871; operation NE-Niger Food Security and Emergency
-      Access to Essential  Services Project -- P509601)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138871; operation NE-Niger
+      Food Security and Emergency Access to Essential  Services Project -- P509601)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - niger
 change_scope: structure
 slug: d40138871-niger-western-and-central-africa-p5096
+assigned_id: dea:change-initiative-d40138871-niger-western-and-central-africa-p5096-pufzgt
+admitted: '2026-11-15'

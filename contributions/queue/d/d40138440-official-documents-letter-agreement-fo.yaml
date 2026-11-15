@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138440
 name: Official Documents- Letter Agreement for GFPP Grant TF0D1627-EC.pdf (D40138440)
-description: 'Official Documents- Letter Agreement for GFPP Grant TF0D1627-EC.pdf — a published World
-  Bank project document for the financed operation ''EC-MPA Linking Family Farmers to Markets (AgriConnect
-  Flagship for Ecuador) -- P516480'' (country: Ecuador; lending instrument: Investment Project Financing;
-  major theme: n/a; document date 2026-11-05).'
+description: 'Official Documents- Letter Agreement for GFPP Grant TF0D1627-EC.pdf
+  — a published World Bank project document for the financed operation ''EC-MPA Linking
+  Family Farmers to Markets (AgriConnect Flagship for Ecuador) -- P516480'' (country:
+  Ecuador; lending instrument: Investment Project Financing; major theme: n/a; document
+  date 2026-11-05).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111026120521184/pdf/P516480-38ec09f2-8e00-4b61-acce-3d4541558f42.pdf
-      (World Bank Documents & Records API; document D40138440; operation EC-MPA Linking Family Farmers
-      to Markets (AgriConnect Flagship for Ecuador) -- P516480)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138440; operation EC-MPA Linking
+      Family Farmers to Markets (AgriConnect Flagship for Ecuador) -- P516480)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - ecuador
 change_scope: structure
 slug: d40138440-official-documents-letter-agreement-fo
+assigned_id: dea:change-initiative-d40138440-official-documents-letter-agreement-fo-q4vabx
+admitted: '2026-11-15'

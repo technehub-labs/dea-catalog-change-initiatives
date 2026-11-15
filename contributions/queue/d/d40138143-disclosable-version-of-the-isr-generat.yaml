@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138143
-name: 'Disclosable Version of the ISR - Generating Resilience Opportunities and Welfare for a Thriving
-  Egypt (GROWTH) 2 - P514501 - Sequence No : 1 (D40138143)'
-description: 'Disclosable Version of the ISR - Generating Resilience Opportunities and Welfare for a Thriving
-  Egypt (GROWTH) 2 - P514501 - Sequence No : 1 — a published World Bank project document for the financed
-  operation ''EG-Generating Resilience Opportunities and Welfare for a Thriving Egypt (GROWTH) 2 -- P514501''
-  (country: Egypt, Arab Republic of; lending instrument: Development Policy Lending; major theme: n/a;
-  document date 2026-11-09).'
+name: 'Disclosable Version of the ISR - Generating Resilience Opportunities and Welfare
+  for a Thriving Egypt (GROWTH) 2 - P514501 - Sequence No : 1 (D40138143)'
+description: 'Disclosable Version of the ISR - Generating Resilience Opportunities
+  and Welfare for a Thriving Egypt (GROWTH) 2 - P514501 - Sequence No : 1 — a published
+  World Bank project document for the financed operation ''EG-Generating Resilience
+  Opportunities and Welfare for a Thriving Egypt (GROWTH) 2 -- P514501'' (country:
+  Egypt, Arab Republic of; lending instrument: Development Policy Lending; major theme:
+  n/a; document date 2026-11-09).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110926050531961/pdf/P514501-85ceb836-9fcb-4cf7-82ed-4dd137275409.pdf
-      (World Bank Documents & Records API; document D40138143; operation EG-Generating Resilience Opportunities
-      and Welfare for a Thriving Egypt (GROWTH) 2 -- P514501)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138143; operation EG-Generating
+      Resilience Opportunities and Welfare for a Thriving Egypt (GROWTH) 2 -- P514501)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - egypt-arab-republic
 change_scope: structure
 slug: d40138143-disclosable-version-of-the-isr-generat
+assigned_id: dea:change-initiative-d40138143-disclosable-version-of-the-isr-generat-4cx6bt
+admitted: '2026-11-15'

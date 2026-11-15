@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137180
-name: Madagascar - EASTERN AND SOUTHERN AFRICA- P512330- Multimodal Transport and Logistics Project. -
-  Procurement Plan (D40137180)
-description: 'Madagascar - EASTERN AND SOUTHERN AFRICA- P512330- Multimodal Transport and Logistics Project.
-  - Procurement Plan — a published World Bank project document for the financed operation ''MG-Multimodal
-  Transport and Logistics Project. -- P512330'' (country: Madagascar; lending instrument: Investment Project
-  Financing; major theme: n/a; document date 2026-11-03).'
+name: Madagascar - EASTERN AND SOUTHERN AFRICA- P512330- Multimodal Transport and
+  Logistics Project. - Procurement Plan (D40137180)
+description: 'Madagascar - EASTERN AND SOUTHERN AFRICA- P512330- Multimodal Transport
+  and Logistics Project. - Procurement Plan — a published World Bank project document
+  for the financed operation ''MG-Multimodal Transport and Logistics Project. -- P512330''
+  (country: Madagascar; lending instrument: Investment Project Financing; major theme:
+  n/a; document date 2026-11-03).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110326002520786/pdf/P512330-66eeaf20-5971-4506-a18e-38142978a607.pdf
-      (World Bank Documents & Records API; document D40137180; operation MG-Multimodal Transport and Logistics
-      Project. -- P512330)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137180; operation MG-Multimodal
+      Transport and Logistics Project. -- P512330)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - madagascar
 change_scope: structure
 slug: d40137180-madagascar-eastern-and-southern-africa
+assigned_id: dea:change-initiative-d40137180-madagascar-eastern-and-southern-africa-sfp8ce
+admitted: '2026-11-15'

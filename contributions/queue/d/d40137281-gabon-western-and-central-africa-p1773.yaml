@@ -1,26 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137281
-name: Gabon - WESTERN AND CENTRAL AFRICA- P177372- Gabon Urban Development Project - Procurement Plan
-  (D40137281)
-description: 'Gabon - WESTERN AND CENTRAL AFRICA- P177372- Gabon Urban Development Project - Procurement
-  Plan — a published World Bank project document for the financed operation ''GA-Gabon Urban Development
-  Project -- P177372'' (country: Gabon; lending instrument: Investment Project Financing; major theme:
-  n/a; document date 2026-11-03).'
+name: Gabon - WESTERN AND CENTRAL AFRICA- P177372- Gabon Urban Development Project
+  - Procurement Plan (D40137281)
+description: 'Gabon - WESTERN AND CENTRAL AFRICA- P177372- Gabon Urban Development
+  Project - Procurement Plan — a published World Bank project document for the financed
+  operation ''GA-Gabon Urban Development Project -- P177372'' (country: Gabon; lending
+  instrument: Investment Project Financing; major theme: n/a; document date 2026-11-03).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110326090056459/pdf/P177372-249adc2b-76eb-441d-95c6-367ffe73bcb1.pdf
-      (World Bank Documents & Records API; document D40137281; operation GA-Gabon Urban Development Project
-      -- P177372)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137281; operation GA-Gabon
+      Urban Development Project -- P177372)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - gabon
 change_scope: structure
 slug: d40137281-gabon-western-and-central-africa-p1773
+assigned_id: dea:change-initiative-d40137281-gabon-western-and-central-africa-p1773-6xz6m8
+admitted: '2026-11-15'

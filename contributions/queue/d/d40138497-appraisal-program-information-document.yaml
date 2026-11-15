@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138497
 name: Appraisal Program Information Document (PID) (D40138497)
-description: 'Appraisal Program Information Document (PID) — a published World Bank project document for
-  the financed operation ''TV-First Inclusive Resilience Development Policy Financing -- P513267'' (country:
-  Tuvalu; lending instrument: Development Policy Lending; major theme: n/a; document date 2026-11-10).'
+description: 'Appraisal Program Information Document (PID) — a published World Bank
+  project document for the financed operation ''TV-First Inclusive Resilience Development
+  Policy Financing -- P513267'' (country: Tuvalu; lending instrument: Development
+  Policy Lending; major theme: n/a; document date 2026-11-10).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111026212526435/pdf/P513267-c82a7600-2501-445d-801e-368f54d40370.pdf
-      (World Bank Documents & Records API; document D40138497; operation TV-First Inclusive Resilience
-      Development Policy Financing -- P513267)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138497; operation TV-First
+      Inclusive Resilience Development Policy Financing -- P513267)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - tuvalu
 change_scope: structure
 slug: d40138497-appraisal-program-information-document
+assigned_id: dea:change-initiative-d40138497-appraisal-program-information-document-7eyngh
+admitted: '2026-11-15'

@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137264
-name: Georgia - EUROPE AND CENTRAL ASIA- P175629- Georgia Resilient Agriculture, Irrigation, and Land
-  Project - Procurement Plan (D40137264)
-description: 'Georgia - EUROPE AND CENTRAL ASIA- P175629- Georgia Resilient Agriculture, Irrigation, and
-  Land Project - Procurement Plan — a published World Bank project document for the financed operation
-  ''GE-Georgia Resilient Agriculture, Irrigation, and Land Project -- P175629'' (country: Georgia; lending
-  instrument: Investment Project Financing; major theme: n/a; document date 2026-11-03).'
+name: Georgia - EUROPE AND CENTRAL ASIA- P175629- Georgia Resilient Agriculture, Irrigation,
+  and Land Project - Procurement Plan (D40137264)
+description: 'Georgia - EUROPE AND CENTRAL ASIA- P175629- Georgia Resilient Agriculture,
+  Irrigation, and Land Project - Procurement Plan — a published World Bank project
+  document for the financed operation ''GE-Georgia Resilient Agriculture, Irrigation,
+  and Land Project -- P175629'' (country: Georgia; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-03).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110326072538662/pdf/P175629-a1a71f08-85d3-4df8-9d09-614d80639e58.pdf
-      (World Bank Documents & Records API; document D40137264; operation GE-Georgia Resilient Agriculture,
-      Irrigation, and Land Project -- P175629)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137264; operation GE-Georgia
+      Resilient Agriculture, Irrigation, and Land Project -- P175629)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - georgia
 change_scope: structure
 slug: d40137264-georgia-europe-and-central-asia-p17562
+assigned_id: dea:change-initiative-d40137264-georgia-europe-and-central-asia-p17562-3kebwf
+admitted: '2026-11-15'

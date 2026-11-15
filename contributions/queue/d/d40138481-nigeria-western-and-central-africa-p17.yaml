@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138481
-name: Nigeria - WESTERN AND CENTRAL AFRICA- P179447- Nigeria for Women Program Scale Up Project - Procurement
-  Plan (D40138481)
-description: 'Nigeria - WESTERN AND CENTRAL AFRICA- P179447- Nigeria for Women Program Scale Up Project
-  - Procurement Plan — a published World Bank project document for the financed operation ''NG-Nigeria
-  for Women Program Scale Up Project -- P179447'' (country: Nigeria; lending instrument: Investment Project
-  Financing; major theme: n/a; document date 2026-11-10).'
+name: Nigeria - WESTERN AND CENTRAL AFRICA- P179447- Nigeria for Women Program Scale
+  Up Project - Procurement Plan (D40138481)
+description: 'Nigeria - WESTERN AND CENTRAL AFRICA- P179447- Nigeria for Women Program
+  Scale Up Project - Procurement Plan — a published World Bank project document for
+  the financed operation ''NG-Nigeria for Women Program Scale Up Project -- P179447''
+  (country: Nigeria; lending instrument: Investment Project Financing; major theme:
+  n/a; document date 2026-11-10).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111026161592350/pdf/P179447-60ca7fcb-d177-4b04-9d66-8551149d18b5.pdf
-      (World Bank Documents & Records API; document D40138481; operation NG-Nigeria for Women Program
-      Scale Up Project -- P179447)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138481; operation NG-Nigeria
+      for Women Program Scale Up Project -- P179447)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - nigeria
 change_scope: structure
 slug: d40138481-nigeria-western-and-central-africa-p17
+assigned_id: dea:change-initiative-d40138481-nigeria-western-and-central-africa-p17-wnnnuc
+admitted: '2026-11-15'

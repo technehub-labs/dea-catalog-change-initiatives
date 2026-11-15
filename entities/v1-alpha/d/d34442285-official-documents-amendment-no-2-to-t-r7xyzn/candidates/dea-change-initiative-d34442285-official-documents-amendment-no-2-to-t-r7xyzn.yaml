@@ -1,0 +1,41 @@
+id: dea:change-initiative-d34442285-official-documents-amendment-no-2-to-t-r7xyzn
+type: ChangeInitiative
+name: Official Documents- Amendment No. 2 to the GPE Grant Agreement for Grant TF0B0846.pdf
+  (D34442285)
+description: 'Official Documents- Amendment No. 2 to the GPE Grant Agreement for Grant
+  TF0B0846.pdf — a published World Bank project document for the financed operation
+  ''GH-Ghana Accountability for Learning Outcomes Project -- P165557'' (country: Ghana;
+  lending instrument: Investment Project Financing; major theme: n/a; document date
+  2026-12-31).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099010125191591417/pdf/P165557-f25f8ee3-ba39-43fe-a0eb-cd711d88eb49.pdf
+      (World Bank Documents & Records API; document D34442285; operation GH-Ghana
+      Accountability for Learning Outcomes Project -- P165557)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- ghana

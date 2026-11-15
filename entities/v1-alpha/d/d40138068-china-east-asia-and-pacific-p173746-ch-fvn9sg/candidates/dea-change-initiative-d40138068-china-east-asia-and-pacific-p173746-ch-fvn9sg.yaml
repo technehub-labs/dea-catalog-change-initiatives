@@ -1,0 +1,43 @@
+id: dea:change-initiative-d40138068-china-east-asia-and-pacific-p173746-ch-fvn9sg
+type: ChangeInitiative
+name: China - EAST ASIA AND PACIFIC- P173746- China Emerging Infectious Diseases Prevention,
+  Preparedness and Response Project - Procurement Plan (D40138068)
+description: 'China - EAST ASIA AND PACIFIC- P173746- China Emerging Infectious Diseases
+  Prevention, Preparedness and Response Project - Procurement Plan — a published World
+  Bank project document for the financed operation ''CN-China Emerging Infectious
+  Diseases Prevention, Preparedness and Response Project -- P173746'' (country: China;
+  lending instrument: Investment Project Financing; major theme: n/a; document date
+  2026-11-08).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110826122015042/pdf/P173746-1d3a8677-1d93-4e63-b206-040dfcec97ce.pdf
+      (World Bank Documents & Records API; document D40138068; operation CN-China
+      Emerging Infectious Diseases Prevention, Preparedness and Response Project --
+      P173746)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- china

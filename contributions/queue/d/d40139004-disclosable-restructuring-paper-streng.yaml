@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40139004
-name: Disclosable Restructuring Paper - Strengthening Preparedness and Critical Emergency Infrastructure
-  Project - P168120 (D40139004)
-description: 'Disclosable Restructuring Paper - Strengthening Preparedness and Critical Emergency Infrastructure
-  Project - P168120 — a published World Bank project document for the financed operation ''RO-Strengthening
-  Preparedness and Critical Emergency Infrastructure Project -- P168120'' (country: Romania; lending instrument:
-  Investment Project Financing; major theme: n/a; document date 2026-11-13).'
+name: Disclosable Restructuring Paper - Strengthening Preparedness and Critical Emergency
+  Infrastructure Project - P168120 (D40139004)
+description: 'Disclosable Restructuring Paper - Strengthening Preparedness and Critical
+  Emergency Infrastructure Project - P168120 — a published World Bank project document
+  for the financed operation ''RO-Strengthening Preparedness and Critical Emergency
+  Infrastructure Project -- P168120'' (country: Romania; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-13).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111326024037234/pdf/P168120-a474bd57-9516-48ef-84eb-6f3ecad27c2b.pdf
-      (World Bank Documents & Records API; document D40139004; operation RO-Strengthening Preparedness
-      and Critical Emergency Infrastructure Project -- P168120)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40139004; operation RO-Strengthening
+      Preparedness and Critical Emergency Infrastructure Project -- P168120)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - romania
 change_scope: structure
 slug: d40139004-disclosable-restructuring-paper-streng
+assigned_id: dea:change-initiative-d40139004-disclosable-restructuring-paper-streng-makar9
+admitted: '2026-11-15'

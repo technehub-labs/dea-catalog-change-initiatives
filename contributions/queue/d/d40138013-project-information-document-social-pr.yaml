@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138013
-name: Project Information Document - Social Protection Project for Inclusion Resilience Innovation and
-  Transformation (SPIRIT) - P513322 (D40138013)
-description: 'Project Information Document - Social Protection Project for Inclusion Resilience Innovation
-  and Transformation (SPIRIT) - P513322 — a published World Bank project document for the financed operation
-  ''UA-Social Protection Project for Inclusion, Resilience, Innovation, and Transformation (SPIRIT) --
-  P513322'' (country: Ukraine; lending instrument: Investment Project Financing; major theme: n/a; document
-  date 2026-11-06).'
+name: Project Information Document - Social Protection Project for Inclusion Resilience
+  Innovation and Transformation (SPIRIT) - P513322 (D40138013)
+description: 'Project Information Document - Social Protection Project for Inclusion
+  Resilience Innovation and Transformation (SPIRIT) - P513322 — a published World
+  Bank project document for the financed operation ''UA-Social Protection Project
+  for Inclusion, Resilience, Innovation, and Transformation (SPIRIT) -- P513322''
+  (country: Ukraine; lending instrument: Investment Project Financing; major theme:
+  n/a; document date 2026-11-06).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110626220014583/pdf/P513322-d1d9d1f3-c86a-47cb-8be3-163dbf566633.pdf
-      (World Bank Documents & Records API; document D40138013; operation UA-Social Protection Project
-      for Inclusion, Resilience, Innovation, and Transformation (SPIRIT) -- P513322)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138013; operation UA-Social
+      Protection Project for Inclusion, Resilience, Innovation, and Transformation
+      (SPIRIT) -- P513322)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - ukraine
 change_scope: structure
 slug: d40138013-project-information-document-social-pr
+assigned_id: dea:change-initiative-d40138013-project-information-document-social-pr-qgcwxs
+admitted: '2026-11-15'

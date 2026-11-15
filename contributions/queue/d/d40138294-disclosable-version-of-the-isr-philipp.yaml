@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138294
-name: 'Disclosable Version of the ISR - Philippines Community Resilience Project - Pagkilos - P506594
-  - Sequence No : 3 (D40138294)'
-description: 'Disclosable Version of the ISR - Philippines Community Resilience Project - Pagkilos - P506594
-  - Sequence No : 3 — a published World Bank project document for the financed operation ''PH-Philippines
-  Community Resilience Project - Pagkilos -- P506594'' (country: Philippines; lending instrument: Investment
-  Project Financing; major theme: n/a; document date 2026-11-10).'
+name: 'Disclosable Version of the ISR - Philippines Community Resilience Project -
+  Pagkilos - P506594 - Sequence No : 3 (D40138294)'
+description: 'Disclosable Version of the ISR - Philippines Community Resilience Project
+  - Pagkilos - P506594 - Sequence No : 3 — a published World Bank project document
+  for the financed operation ''PH-Philippines Community Resilience Project - Pagkilos
+  -- P506594'' (country: Philippines; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-10).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111026020530004/pdf/P506594-2d64d2dc-7c69-4868-8dda-7997d22bb38b.pdf
-      (World Bank Documents & Records API; document D40138294; operation PH-Philippines Community Resilience
-      Project - Pagkilos -- P506594)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138294; operation PH-Philippines
+      Community Resilience Project - Pagkilos -- P506594)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - philippines
 change_scope: structure
 slug: d40138294-disclosable-version-of-the-isr-philipp
+assigned_id: dea:change-initiative-d40138294-disclosable-version-of-the-isr-philipp-g4rtwu
+admitted: '2026-11-15'

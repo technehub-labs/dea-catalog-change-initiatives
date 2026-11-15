@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40139203
-name: Stakeholder Engagement Plan (SEP) - Sanitation Action for Emergency Recovery (SAFER) - P519914 (D40139203)
-description: 'Stakeholder Engagement Plan (SEP) - Sanitation Action for Emergency Recovery (SAFER) - P519914
-  — a published World Bank project document for the financed operation ''GZ-Sanitation Action for Emergency
-  Recovery (SAFER) -- P519914'' (country: West Bank and Gaza; lending instrument: Investment Project Financing;
-  major theme: n/a; document date 2026-11-14).'
+name: Stakeholder Engagement Plan (SEP) - Sanitation Action for Emergency Recovery
+  (SAFER) - P519914 (D40139203)
+description: 'Stakeholder Engagement Plan (SEP) - Sanitation Action for Emergency
+  Recovery (SAFER) - P519914 — a published World Bank project document for the financed
+  operation ''GZ-Sanitation Action for Emergency Recovery (SAFER) -- P519914'' (country:
+  West Bank and Gaza; lending instrument: Investment Project Financing; major theme:
+  n/a; document date 2026-11-14).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111426125012686/pdf/P519914-e57faa57-6fc3-4a80-95f2-6960e494dd30.pdf
-      (World Bank Documents & Records API; document D40139203; operation GZ-Sanitation Action for Emergency
-      Recovery (SAFER) -- P519914)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40139203; operation GZ-Sanitation
+      Action for Emergency Recovery (SAFER) -- P519914)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - west-bank-and-gaza
 change_scope: structure
 slug: d40139203-stakeholder-engagement-plan-sep-sanita
+assigned_id: dea:change-initiative-d40139203-stakeholder-engagement-plan-sep-sanita-xgu7fv
+admitted: '2026-11-15'

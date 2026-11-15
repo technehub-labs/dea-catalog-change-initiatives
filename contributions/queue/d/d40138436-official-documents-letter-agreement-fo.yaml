@@ -1,25 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138436
 name: Official Documents- Letter Agreement for Grant TF0D1701-EC.pdf (D40138436)
-description: 'Official Documents- Letter Agreement for Grant TF0D1701-EC.pdf — a published World Bank
-  project document for the financed operation ''EC-Ecuador: STEP Skills and Transition to Employment (PPFG)
-  -- P516556'' (country: Ecuador; lending instrument: Investment Project Financing; major theme: n/a;
-  document date 2026-11-05).'
+description: 'Official Documents- Letter Agreement for Grant TF0D1701-EC.pdf — a published
+  World Bank project document for the financed operation ''EC-Ecuador: STEP Skills
+  and Transition to Employment (PPFG) -- P516556'' (country: Ecuador; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-05).'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://documents.worldbank.org/curated/en/099111026115589442/pdf/P516556-76769481-9381-41e5-a606-4fb889c4f8c3.pdf
-      (World Bank Documents & Records API; document D40138436; operation EC-Ecuador: STEP Skills and Transition
-      to Employment (PPFG) -- P516556)'
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138436; operation EC-Ecuador:
+      STEP Skills and Transition to Employment (PPFG) -- P516556)'
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - ecuador
 change_scope: structure
 slug: d40138436-official-documents-letter-agreement-fo
+assigned_id: dea:change-initiative-d40138436-official-documents-letter-agreement-fo-r2u54n
+admitted: '2026-11-15'

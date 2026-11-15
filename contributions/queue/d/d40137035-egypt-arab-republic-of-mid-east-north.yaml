@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137035
-name: Egypt, Arab Republic of - MID EAST,NORTH AFRICA,AFG,PAK- P162835- Catalyzing Entrepreneurship for
-  Job Creation - Procurement Plan (D40137035)
-description: 'Egypt, Arab Republic of - MID EAST,NORTH AFRICA,AFG,PAK- P162835- Catalyzing Entrepreneurship
-  for Job Creation - Procurement Plan — a published World Bank project document for the financed operation
-  ''EG-Catalyzing Entrepreneurship for Job Creation -- P162835'' (country: Egypt, Arab Republic of; lending
-  instrument: Investment Project Financing; major theme: n/a; document date 2026-11-02).'
+name: Egypt, Arab Republic of - MID EAST,NORTH AFRICA,AFG,PAK- P162835- Catalyzing
+  Entrepreneurship for Job Creation - Procurement Plan (D40137035)
+description: 'Egypt, Arab Republic of - MID EAST,NORTH AFRICA,AFG,PAK- P162835- Catalyzing
+  Entrepreneurship for Job Creation - Procurement Plan — a published World Bank project
+  document for the financed operation ''EG-Catalyzing Entrepreneurship for Job Creation
+  -- P162835'' (country: Egypt, Arab Republic of; lending instrument: Investment Project
+  Financing; major theme: n/a; document date 2026-11-02).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110226090521293/pdf/P162835-8c8c9020-dea9-4f8d-823a-44b1ad7a0564.pdf
-      (World Bank Documents & Records API; document D40137035; operation EG-Catalyzing Entrepreneurship
-      for Job Creation -- P162835)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137035; operation EG-Catalyzing
+      Entrepreneurship for Job Creation -- P162835)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - egypt-arab-republic
 change_scope: structure
 slug: d40137035-egypt-arab-republic-of-mid-east-north
+assigned_id: dea:change-initiative-d40137035-egypt-arab-republic-of-mid-east-north-z854rw
+admitted: '2026-11-15'

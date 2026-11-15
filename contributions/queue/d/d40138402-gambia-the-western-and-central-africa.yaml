@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138402
-name: Gambia, The - WESTERN AND CENTRAL AFRICA- P173070- Gambia Inclusive and Resilient Agricultural Value
-  Chain Development Project (GIRAV) - Procurement Plan (D40138402)
-description: 'Gambia, The - WESTERN AND CENTRAL AFRICA- P173070- Gambia Inclusive and Resilient Agricultural
-  Value Chain Development Project (GIRAV) - Procurement Plan — a published World Bank project document
-  for the financed operation ''GM-Gambia Inclusive and Resilient Agricultural Value Chain Development
-  Project (GIRAV) -- P173070'' (country: Gambia, The; lending instrument: Investment Project Financing;
+name: Gambia, The - WESTERN AND CENTRAL AFRICA- P173070- Gambia Inclusive and Resilient
+  Agricultural Value Chain Development Project (GIRAV) - Procurement Plan (D40138402)
+description: 'Gambia, The - WESTERN AND CENTRAL AFRICA- P173070- Gambia Inclusive
+  and Resilient Agricultural Value Chain Development Project (GIRAV) - Procurement
+  Plan — a published World Bank project document for the financed operation ''GM-Gambia
+  Inclusive and Resilient Agricultural Value Chain Development Project (GIRAV) --
+  P173070'' (country: Gambia, The; lending instrument: Investment Project Financing;
   major theme: n/a; document date 2026-11-10).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111026091539563/pdf/P173070-287f6880-634f-40c6-9b23-90256cc2de7a.pdf
-      (World Bank Documents & Records API; document D40138402; operation GM-Gambia Inclusive and Resilient
-      Agricultural Value Chain Development Project (GIRAV) -- P173070)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138402; operation GM-Gambia
+      Inclusive and Resilient Agricultural Value Chain Development Project (GIRAV)
+      -- P173070)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - gambia-the
 change_scope: structure
 slug: d40138402-gambia-the-western-and-central-africa
+assigned_id: dea:change-initiative-d40138402-gambia-the-western-and-central-africa-r3xar5
+admitted: '2026-11-15'

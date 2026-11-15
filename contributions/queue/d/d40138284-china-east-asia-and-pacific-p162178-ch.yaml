@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138284
-name: China - EAST ASIA AND PACIFIC- P162178- China Food Safety Improvement Project - Procurement Plan
-  (D40138284)
-description: 'China - EAST ASIA AND PACIFIC- P162178- China Food Safety Improvement Project - Procurement
-  Plan — a published World Bank project document for the financed operation ''CN-China Food Safety Improvement
-  Project -- P162178'' (country: China; lending instrument: Investment Project Financing; major theme:
-  n/a; document date 2026-11-10).'
+name: China - EAST ASIA AND PACIFIC- P162178- China Food Safety Improvement Project
+  - Procurement Plan (D40138284)
+description: 'China - EAST ASIA AND PACIFIC- P162178- China Food Safety Improvement
+  Project - Procurement Plan — a published World Bank project document for the financed
+  operation ''CN-China Food Safety Improvement Project -- P162178'' (country: China;
+  lending instrument: Investment Project Financing; major theme: n/a; document date
+  2026-11-10).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110926213576933/pdf/P162178-1fc0a43d-9a75-4aca-adef-6616a31f7098.pdf
-      (World Bank Documents & Records API; document D40138284; operation CN-China Food Safety Improvement
-      Project -- P162178)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138284; operation CN-China
+      Food Safety Improvement Project -- P162178)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - china
 change_scope: structure
 slug: d40138284-china-east-asia-and-pacific-p162178-ch
+assigned_id: dea:change-initiative-d40138284-china-east-asia-and-pacific-p162178-ch-6dmsrg
+admitted: '2026-11-15'

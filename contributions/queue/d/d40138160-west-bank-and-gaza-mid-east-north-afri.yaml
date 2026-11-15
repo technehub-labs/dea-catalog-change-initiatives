@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138160
-name: West Bank and Gaza - MID EAST,NORTH AFRICA,AFG,PAK- P178723- West Bank and Gaza Resilient Municipal
-  Services Project - Procurement Plan (D40138160)
-description: 'West Bank and Gaza - MID EAST,NORTH AFRICA,AFG,PAK- P178723- West Bank and Gaza Resilient
-  Municipal Services Project - Procurement Plan — a published World Bank project document for the financed
-  operation ''GZ-West Bank and Gaza Resilient Municipal Services Project -- P178723'' (country: West Bank
-  and Gaza; lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-09).'
+name: West Bank and Gaza - MID EAST,NORTH AFRICA,AFG,PAK- P178723- West Bank and Gaza
+  Resilient Municipal Services Project - Procurement Plan (D40138160)
+description: 'West Bank and Gaza - MID EAST,NORTH AFRICA,AFG,PAK- P178723- West Bank
+  and Gaza Resilient Municipal Services Project - Procurement Plan — a published World
+  Bank project document for the financed operation ''GZ-West Bank and Gaza Resilient
+  Municipal Services Project -- P178723'' (country: West Bank and Gaza; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-09).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110926062523050/pdf/P178723-3797f269-6f2d-4c2a-a77d-8490c1d5ddb9.pdf
-      (World Bank Documents & Records API; document D40138160; operation GZ-West Bank and Gaza Resilient
-      Municipal Services Project -- P178723)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138160; operation GZ-West Bank
+      and Gaza Resilient Municipal Services Project -- P178723)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - west-bank-and-gaza
 change_scope: structure
 slug: d40138160-west-bank-and-gaza-mid-east-north-afri
+assigned_id: dea:change-initiative-d40138160-west-bank-and-gaza-mid-east-north-afri-rtv9z9
+admitted: '2026-11-15'

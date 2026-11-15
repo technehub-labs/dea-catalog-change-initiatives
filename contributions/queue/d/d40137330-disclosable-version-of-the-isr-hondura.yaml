@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137330
-name: 'Disclosable Version of the ISR - Honduras Sustainable Connectivity Project - P181166 - Sequence
-  No : 4 (D40137330)'
-description: 'Disclosable Version of the ISR - Honduras Sustainable Connectivity Project - P181166 - Sequence
-  No : 4 — a published World Bank project document for the financed operation ''HN-Honduras Sustainable
-  Connectivity Project -- P181166'' (country: Honduras; lending instrument: Investment Project Financing;
-  major theme: n/a; document date 2026-11-03).'
+name: 'Disclosable Version of the ISR - Honduras Sustainable Connectivity Project
+  - P181166 - Sequence No : 4 (D40137330)'
+description: 'Disclosable Version of the ISR - Honduras Sustainable Connectivity Project
+  - P181166 - Sequence No : 4 — a published World Bank project document for the financed
+  operation ''HN-Honduras Sustainable Connectivity Project -- P181166'' (country:
+  Honduras; lending instrument: Investment Project Financing; major theme: n/a; document
+  date 2026-11-03).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110326114534637/pdf/P181166-ce0199fa-fbda-423c-a289-b9112a3d1373.pdf
-      (World Bank Documents & Records API; document D40137330; operation HN-Honduras Sustainable Connectivity
-      Project -- P181166)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137330; operation HN-Honduras
+      Sustainable Connectivity Project -- P181166)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - honduras
 change_scope: structure
 slug: d40137330-disclosable-version-of-the-isr-hondura
+assigned_id: dea:change-initiative-d40137330-disclosable-version-of-the-isr-hondura-yqfar3
+admitted: '2026-11-15'

@@ -1,27 +1,33 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138442
-name: Honduras - LATIN AMERICA AND CARIBBEAN- P176532- Restoring Essential Services for Health and Advancing
-  Preparedness for Emergencies Project - Procurement Plan (D40138442)
-description: 'Honduras - LATIN AMERICA AND CARIBBEAN- P176532- Restoring Essential Services for Health
-  and Advancing Preparedness for Emergencies Project - Procurement Plan — a published World Bank project
-  document for the financed operation ''HN-Restoring Essential Services for Health and Advancing Preparedness
-  for Emergencies Project -- P176532'' (country: Honduras; lending instrument: Investment Project Financing;
+name: Honduras - LATIN AMERICA AND CARIBBEAN- P176532- Restoring Essential Services
+  for Health and Advancing Preparedness for Emergencies Project - Procurement Plan
+  (D40138442)
+description: 'Honduras - LATIN AMERICA AND CARIBBEAN- P176532- Restoring Essential
+  Services for Health and Advancing Preparedness for Emergencies Project - Procurement
+  Plan — a published World Bank project document for the financed operation ''HN-Restoring
+  Essential Services for Health and Advancing Preparedness for Emergencies Project
+  -- P176532'' (country: Honduras; lending instrument: Investment Project Financing;
   major theme: n/a; document date 2026-11-10).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111026121033992/pdf/P176532-167812a2-ab5c-4d74-afd1-9a10c7ef333f.pdf
-      (World Bank Documents & Records API; document D40138442; operation HN-Restoring Essential Services
-      for Health and Advancing Preparedness for Emergencies Project -- P176532)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138442; operation HN-Restoring
+      Essential Services for Health and Advancing Preparedness for Emergencies Project
+      -- P176532)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - honduras
 change_scope: structure
 slug: d40138442-honduras-latin-america-and-caribbean-p
+assigned_id: dea:change-initiative-d40138442-honduras-latin-america-and-caribbean-p-a4yq4y
+admitted: '2026-11-15'

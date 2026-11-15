@@ -1,0 +1,45 @@
+id: dea:change-initiative-d40138029-nepal-south-asia-p518207-preparatory-g-gn433h
+type: ChangeInitiative
+name: 'Nepal - SOUTH ASIA- P518207- Preparatory Grant for Kathmandu Valley ? Livable,
+  Integrated and Functional Urban Transport Project (MPA Program: Phase 1) - Procurement
+  Plan (D40138029)'
+description: 'Nepal - SOUTH ASIA- P518207- Preparatory Grant for Kathmandu Valley
+  ? Livable, Integrated and Functional Urban Transport Project (MPA Program: Phase
+  1) - Procurement Plan — a published World Bank project document for the financed
+  operation ''NP-Preparatory Grant for Kathmandu Valley – Livable, Integrated and
+  Functional Urban Transport Project (MPA Program: Phase 1) -- P518207'' (country:
+  Nepal; lending instrument: Investment Project Financing; major theme: n/a; document
+  date 2026-11-07).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://documents.worldbank.org/curated/en/099110726103014627/pdf/P518207-47dccf1c-c5d3-4d49-b70a-58e02f819301.pdf
+      (World Bank Documents & Records API; document D40138029; operation NP-Preparatory
+      Grant for Kathmandu Valley – Livable, Integrated and Functional Urban Transport
+      Project (MPA Program: Phase 1) -- P518207)'
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- nepal

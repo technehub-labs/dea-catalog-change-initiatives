@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40125918
-name: Cameroon - WESTERN AND CENTRAL AFRICA - P175846 - Local Governance and Resilient Communities Project
-  - Audited Financial Statement (D40125918)
-description: 'Cameroon - WESTERN AND CENTRAL AFRICA - P175846 - Local Governance and Resilient Communities
-  Project - Audited Financial Statement — a published World Bank project document for the financed operation
-  ''CM-Local Governance and Resilient Communities Project -- P175846'' (country: Cameroon; lending instrument:
-  Investment Project Financing; major theme: n/a; document date 2026-12-08).'
+name: Cameroon - WESTERN AND CENTRAL AFRICA - P175846 - Local Governance and Resilient
+  Communities Project - Audited Financial Statement (D40125918)
+description: 'Cameroon - WESTERN AND CENTRAL AFRICA - P175846 - Local Governance and
+  Resilient Communities Project - Audited Financial Statement — a published World
+  Bank project document for the financed operation ''CM-Local Governance and Resilient
+  Communities Project -- P175846'' (country: Cameroon; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-12-08).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099090626034042413/pdf/P175846-58c69975-9cc5-4586-93e0-eae04c6781fa.pdf
-      (World Bank Documents & Records API; document D40125918; operation CM-Local Governance and Resilient
-      Communities Project -- P175846)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40125918; operation CM-Local
+      Governance and Resilient Communities Project -- P175846)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - cameroon
 change_scope: structure
 slug: d40125918-cameroon-western-and-central-africa-p1
+assigned_id: dea:change-initiative-d40125918-cameroon-western-and-central-africa-p1-86r536
+admitted: '2026-11-15'

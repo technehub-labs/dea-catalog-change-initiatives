@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137593
-name: Lao People's Democratic Republic - EAST ASIA AND PACIFIC- P510690- Lao PDR Southeast Asia Disaster
-  Risk Management Project II - Procurement Plan (D40137593)
-description: 'Lao People''s Democratic Republic - EAST ASIA AND PACIFIC- P510690- Lao PDR Southeast Asia
-  Disaster Risk Management Project II - Procurement Plan — a published World Bank project document for
-  the financed operation ''LA-Lao PDR Southeast Asia Disaster Risk Management Project II -- P510690''
-  (country: Lao People''s Democratic Republic; lending instrument: Investment Project Financing; major
-  theme: n/a; document date 2026-11-05).'
+name: Lao People's Democratic Republic - EAST ASIA AND PACIFIC- P510690- Lao PDR Southeast
+  Asia Disaster Risk Management Project II - Procurement Plan (D40137593)
+description: 'Lao People''s Democratic Republic - EAST ASIA AND PACIFIC- P510690-
+  Lao PDR Southeast Asia Disaster Risk Management Project II - Procurement Plan —
+  a published World Bank project document for the financed operation ''LA-Lao PDR
+  Southeast Asia Disaster Risk Management Project II -- P510690'' (country: Lao People''s
+  Democratic Republic; lending instrument: Investment Project Financing; major theme:
+  n/a; document date 2026-11-05).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110426224027086/pdf/P510690-156aeac2-74d2-48b7-b745-00767c93ec8e.pdf
-      (World Bank Documents & Records API; document D40137593; operation LA-Lao PDR Southeast Asia Disaster
-      Risk Management Project II -- P510690)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137593; operation LA-Lao PDR
+      Southeast Asia Disaster Risk Management Project II -- P510690)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - lao-people-s-democra
 change_scope: structure
 slug: d40137593-lao-people-s-democratic-republic-east
+assigned_id: dea:change-initiative-d40137593-lao-people-s-democratic-republic-east-msgcbn
+admitted: '2026-11-15'

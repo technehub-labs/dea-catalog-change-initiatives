@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137556
 name: Climate Finance Assessment (P513143) (D40137556)
-description: 'Climate Finance Assessment (P513143) — a published World Bank project document for the financed
-  operation ''BJ-Benin Public Resource Management for Jobs and Growth -- P513143'' (country: Benin; lending
-  instrument: Program-for-Results Financing; major theme: n/a; document date 2026-11-04).'
+description: 'Climate Finance Assessment (P513143) — a published World Bank project
+  document for the financed operation ''BJ-Benin Public Resource Management for Jobs
+  and Growth -- P513143'' (country: Benin; lending instrument: Program-for-Results
+  Financing; major theme: n/a; document date 2026-11-04).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110426162012626/pdf/P513143-c68fc8ca-228c-4089-8936-235ac58b0384.pdf
-      (World Bank Documents & Records API; document D40137556; operation BJ-Benin Public Resource Management
-      for Jobs and Growth -- P513143)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137556; operation BJ-Benin
+      Public Resource Management for Jobs and Growth -- P513143)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - benin
 change_scope: structure
 slug: d40137556-climate-finance-assessment-p513143
+assigned_id: dea:change-initiative-d40137556-climate-finance-assessment-p513143-bctgvv
+admitted: '2026-11-15'

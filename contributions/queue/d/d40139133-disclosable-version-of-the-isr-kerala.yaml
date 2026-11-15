@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40139133
-name: 'Disclosable Version of the ISR - Kerala Solid Waste Management Project - P168633 - Sequence No
-  : 11 (D40139133)'
-description: 'Disclosable Version of the ISR - Kerala Solid Waste Management Project - P168633 - Sequence
-  No : 11 — a published World Bank project document for the financed operation ''IN-Kerala Solid Waste
-  Management Project -- P168633'' (country: India; lending instrument: Investment Project Financing; major
-  theme: n/a; document date 2026-11-13).'
+name: 'Disclosable Version of the ISR - Kerala Solid Waste Management Project - P168633
+  - Sequence No : 11 (D40139133)'
+description: 'Disclosable Version of the ISR - Kerala Solid Waste Management Project
+  - P168633 - Sequence No : 11 — a published World Bank project document for the financed
+  operation ''IN-Kerala Solid Waste Management Project -- P168633'' (country: India;
+  lending instrument: Investment Project Financing; major theme: n/a; document date
+  2026-11-13).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111326124567514/pdf/P168633-fcd1c97c-66b8-4bbc-9ad3-34dc9f67edeb.pdf
-      (World Bank Documents & Records API; document D40139133; operation IN-Kerala Solid Waste Management
-      Project -- P168633)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40139133; operation IN-Kerala
+      Solid Waste Management Project -- P168633)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - india
 change_scope: structure
 slug: d40139133-disclosable-version-of-the-isr-kerala
+assigned_id: dea:change-initiative-d40139133-disclosable-version-of-the-isr-kerala-28rj2e
+admitted: '2026-11-15'

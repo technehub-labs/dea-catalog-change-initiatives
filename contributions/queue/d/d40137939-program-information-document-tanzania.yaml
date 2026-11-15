@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137939
-name: Program Information Document - Tanzania Maternal and Child Health Investment Program - P170435 (D40137939)
-description: 'Program Information Document - Tanzania Maternal and Child Health Investment Program - P170435
-  — a published World Bank project document for the financed operation ''TZ-Tanzania Maternal and Child
-  Health Investment Program -- P170435'' (country: Tanzania; lending instrument: Program-for-Results Financing;
-  major theme: n/a; document date 2026-11-06).'
+name: Program Information Document - Tanzania Maternal and Child Health Investment
+  Program - P170435 (D40137939)
+description: 'Program Information Document - Tanzania Maternal and Child Health Investment
+  Program - P170435 — a published World Bank project document for the financed operation
+  ''TZ-Tanzania Maternal and Child Health Investment Program -- P170435'' (country:
+  Tanzania; lending instrument: Program-for-Results Financing; major theme: n/a; document
+  date 2026-11-06).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110626111022254/pdf/P170435-3f049749-12e1-4634-bc9d-22a9ac5513ba.pdf
-      (World Bank Documents & Records API; document D40137939; operation TZ-Tanzania Maternal and Child
-      Health Investment Program -- P170435)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137939; operation TZ-Tanzania
+      Maternal and Child Health Investment Program -- P170435)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - tanzania
 change_scope: structure
 slug: d40137939-program-information-document-tanzania
+assigned_id: dea:change-initiative-d40137939-program-information-document-tanzania-yma6u5
+admitted: '2026-11-15'

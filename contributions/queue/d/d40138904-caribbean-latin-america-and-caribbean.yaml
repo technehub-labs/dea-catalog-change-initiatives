@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138904
-name: Caribbean - LATIN AMERICA AND CARIBBEAN- P171833- Unleashing the Blue Economy of the Caribbean (UBEC)
-  - Procurement Plan (D40138904)
-description: 'Caribbean - LATIN AMERICA AND CARIBBEAN- P171833- Unleashing the Blue Economy of the Caribbean
-  (UBEC) - Procurement Plan — a published World Bank project document for the financed operation ''6R-Unleashing
-  the Blue Economy of the Caribbean (UBEC) -- P171833'' (country: Caribbean; lending instrument: Investment
-  Project Financing; major theme: n/a; document date 2026-11-12).'
+name: Caribbean - LATIN AMERICA AND CARIBBEAN- P171833- Unleashing the Blue Economy
+  of the Caribbean (UBEC) - Procurement Plan (D40138904)
+description: 'Caribbean - LATIN AMERICA AND CARIBBEAN- P171833- Unleashing the Blue
+  Economy of the Caribbean (UBEC) - Procurement Plan — a published World Bank project
+  document for the financed operation ''6R-Unleashing the Blue Economy of the Caribbean
+  (UBEC) -- P171833'' (country: Caribbean; lending instrument: Investment Project
+  Financing; major theme: n/a; document date 2026-11-12).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111226131055147/pdf/P171833-02a317c7-9e5a-42d6-88a2-c5c2a3d83fef.pdf
-      (World Bank Documents & Records API; document D40138904; operation 6R-Unleashing the Blue Economy
-      of the Caribbean (UBEC) -- P171833)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138904; operation 6R-Unleashing
+      the Blue Economy of the Caribbean (UBEC) -- P171833)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - caribbean
 change_scope: structure
 slug: d40138904-caribbean-latin-america-and-caribbean
+assigned_id: dea:change-initiative-d40138904-caribbean-latin-america-and-caribbean-rzgq95
+admitted: '2026-11-15'

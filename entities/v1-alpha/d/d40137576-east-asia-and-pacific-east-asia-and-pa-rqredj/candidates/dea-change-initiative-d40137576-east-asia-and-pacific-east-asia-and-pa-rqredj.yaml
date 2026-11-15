@@ -1,0 +1,41 @@
+id: dea:change-initiative-d40137576-east-asia-and-pacific-east-asia-and-pa-rqredj
+type: ChangeInitiative
+name: East Asia and Pacific - EAST ASIA AND PACIFIC- P508537- Accelerating Trade Facilitation
+  In The Pacific - Procurement Plan (D40137576)
+description: 'East Asia and Pacific - EAST ASIA AND PACIFIC- P508537- Accelerating
+  Trade Facilitation In The Pacific - Procurement Plan — a published World Bank project
+  document for the financed operation ''4E-Accelerating Trade Facilitation In The
+  Pacific -- P508537'' (country: East Asia and Pacific; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-04).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110426190030335/pdf/P508537-660955fa-0433-4512-8b3d-08d43a01002d.pdf
+      (World Bank Documents & Records API; document D40137576; operation 4E-Accelerating
+      Trade Facilitation In The Pacific -- P508537)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- east-asia-and-pacifi

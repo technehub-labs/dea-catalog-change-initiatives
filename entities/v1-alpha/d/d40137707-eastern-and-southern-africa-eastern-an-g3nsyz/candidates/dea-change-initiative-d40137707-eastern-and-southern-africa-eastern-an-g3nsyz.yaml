@@ -1,0 +1,42 @@
+id: dea:change-initiative-d40137707-eastern-and-southern-africa-eastern-an-g3nsyz
+type: ChangeInitiative
+name: Eastern and Southern Africa - EASTERN AND SOUTHERN AFRICA- P176181- Eastern
+  Africa Regional Digital Integration Project - Procurement Plan (D40137707)
+description: 'Eastern and Southern Africa - EASTERN AND SOUTHERN AFRICA- P176181-
+  Eastern Africa Regional Digital Integration Project - Procurement Plan — a published
+  World Bank project document for the financed operation ''3E-Eastern Africa Regional
+  Digital Integration Project -- P176181'' (country: Eastern and Southern Africa;
+  lending instrument: Investment Project Financing; major theme: n/a; document date
+  2026-11-05).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110526085560170/pdf/P176181-7500b370-96dd-4822-9406-9e4b449b49e2.pdf
+      (World Bank Documents & Records API; document D40137707; operation 3E-Eastern
+      Africa Regional Digital Integration Project -- P176181)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- eastern-and-southern

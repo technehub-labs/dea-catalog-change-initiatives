@@ -1,0 +1,45 @@
+id: dea:change-initiative-d40137260-western-and-central-africa-western-and-3hp4zx
+type: ChangeInitiative
+name: Western and Central Africa - WESTERN AND CENTRAL AFRICA- P178497- Harmonizing
+  and Improving Statistics in West and Central Africa - Series of Projects 1 (HISWACA
+  - SOP 1) - Procurement Plan (D40137260
+description: 'Western and Central Africa - WESTERN AND CENTRAL AFRICA- P178497- Harmonizing
+  and Improving Statistics in West and Central Africa - Series of Projects 1 (HISWACA
+  - SOP 1) - Procurement Plan — a published World Bank project document for the financed
+  operation ''3W-Harmonizing and Improving Statistics in West and Central Africa -
+  Series of Projects 1 (HISWACA - SOP 1) -- P178497'' (country: Western and Central
+  Africa; lending instrument: Investment Project Financing; major theme: n/a; document
+  date 2026-11-03).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110326071038934/pdf/P178497-9daf1296-8f50-47c5-877d-f2c95501fcb6.pdf
+      (World Bank Documents & Records API; document D40137260; operation 3W-Harmonizing
+      and Improving Statistics in West and Central Africa - Series of Projects 1 (HISWACA
+      - SOP 1) -- P178497)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- western-and-central

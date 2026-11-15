@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138689
-name: Emergency Response and Contingency Component Manual Mato Grosso Sustainable Development of Family
-  Farming (P175723) (D40138689)
-description: 'Emergency Response and Contingency Component Manual Mato Grosso Sustainable Development
-  of Family Farming (P175723) — a published World Bank project document for the financed operation ''BR-Mato
-  Grosso Sustainable Development of Family Farming -- P175723'' (country: Brazil; lending instrument:
-  Investment Project Financing; major theme: n/a; document date 2026-11-11).'
+name: Emergency Response and Contingency Component Manual Mato Grosso Sustainable
+  Development of Family Farming (P175723) (D40138689)
+description: 'Emergency Response and Contingency Component Manual Mato Grosso Sustainable
+  Development of Family Farming (P175723) — a published World Bank project document
+  for the financed operation ''BR-Mato Grosso Sustainable Development of Family Farming
+  -- P175723'' (country: Brazil; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-11).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111126195098222/pdf/P175723-276458df-14ab-4fe8-a339-34b9fdcbd9c1.pdf
-      (World Bank Documents & Records API; document D40138689; operation BR-Mato Grosso Sustainable Development
-      of Family Farming -- P175723)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138689; operation BR-Mato Grosso
+      Sustainable Development of Family Farming -- P175723)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - brazil
 change_scope: structure
 slug: d40138689-emergency-response-and-contingency-com
+assigned_id: dea:change-initiative-d40138689-emergency-response-and-contingency-com-32uzsq
+admitted: '2026-11-15'

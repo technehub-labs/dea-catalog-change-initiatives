@@ -1,0 +1,40 @@
+id: dea:change-initiative-d40137314-official-documents-amendment-no-7-to-t-mftv72
+type: ChangeInitiative
+name: Official Documents- Amendment No. 7 to the Administration Agreement with the
+  Swiss Agency for Development and Cooperation for TF072701.pdf (D40137314)
+description: 'Official Documents- Amendment No. 7 to the Administration Agreement
+  with the Swiss Agency for Development and Cooperation for TF072701.pdf — a published
+  World Bank project document for the financed operation ''Official Documents- Amendment
+  No. 7 to the Administration Agreement with the Swiss Agency for Development and
+  Cooperation for TF072701.pdf'' (country: n/a; lending instrument: n/a; major theme:
+  n/a; document date 2026-11-03).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110326112029518/pdf/TF072701-40b7148c-2a8d-4eed-92a8-9de659eedf22.pdf
+      (World Bank Documents & Records API; document D40137314; operation n/a)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank

@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138562
-name: Cote d'Ivoire - WESTERN AND CENTRAL AFRICA- P177800- C?te d'Ivoire Strengthening Basic Education
-  System Operation - Procurement Plan (D40138562)
-description: 'Cote d''Ivoire - WESTERN AND CENTRAL AFRICA- P177800- C?te d''Ivoire Strengthening Basic
-  Education System Operation - Procurement Plan — a published World Bank project document for the financed
-  operation ''CI-Côte d''Ivoire Strengthening Basic Education System Operation -- P177800'' (country:
-  Cote d''Ivoire; lending instrument: Program-for-Results Financing; major theme: n/a; document date 2026-11-11).'
+name: Cote d'Ivoire - WESTERN AND CENTRAL AFRICA- P177800- C?te d'Ivoire Strengthening
+  Basic Education System Operation - Procurement Plan (D40138562)
+description: 'Cote d''Ivoire - WESTERN AND CENTRAL AFRICA- P177800- C?te d''Ivoire
+  Strengthening Basic Education System Operation - Procurement Plan — a published
+  World Bank project document for the financed operation ''CI-Côte d''Ivoire Strengthening
+  Basic Education System Operation -- P177800'' (country: Cote d''Ivoire; lending
+  instrument: Program-for-Results Financing; major theme: n/a; document date 2026-11-11).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111126045019760/pdf/P177800-3b3d4000-9436-4194-ab3f-b62bd5168a38.pdf
-      (World Bank Documents & Records API; document D40138562; operation CI-Côte d'Ivoire Strengthening
-      Basic Education System Operation -- P177800)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138562; operation CI-Côte d'Ivoire
+      Strengthening Basic Education System Operation -- P177800)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - cote-d-ivoire
 change_scope: structure
 slug: d40138562-cote-d-ivoire-western-and-central-afri
+assigned_id: dea:change-initiative-d40138562-cote-d-ivoire-western-and-central-afri-qczhbr
+admitted: '2026-11-15'

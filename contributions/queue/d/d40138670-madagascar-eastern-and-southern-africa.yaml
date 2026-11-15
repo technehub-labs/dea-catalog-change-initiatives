@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138670
-name: Madagascar - EASTERN AND SOUTHERN AFRICA- P179466-  Madagascar Safety Nets and Resilience Project
-  - Procurement Plan (D40138670)
-description: 'Madagascar - EASTERN AND SOUTHERN AFRICA- P179466-  Madagascar Safety Nets and Resilience
-  Project - Procurement Plan — a published World Bank project document for the financed operation ''MG-Madagascar
-  Safety Nets and Resilience Project -- P179466'' (country: Madagascar; lending instrument: Investment
-  Project Financing; major theme: n/a; document date 2026-11-11).'
+name: Madagascar - EASTERN AND SOUTHERN AFRICA- P179466-  Madagascar Safety Nets and
+  Resilience Project - Procurement Plan (D40138670)
+description: 'Madagascar - EASTERN AND SOUTHERN AFRICA- P179466-  Madagascar Safety
+  Nets and Resilience Project - Procurement Plan — a published World Bank project
+  document for the financed operation ''MG-Madagascar Safety Nets and Resilience Project
+  -- P179466'' (country: Madagascar; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-11).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111126145014958/pdf/P179466-2eaa1137-f60e-4fb9-a38c-03ed85eb8c73.pdf
-      (World Bank Documents & Records API; document D40138670; operation MG-Madagascar Safety Nets and
-      Resilience Project -- P179466)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138670; operation MG-Madagascar
+      Safety Nets and Resilience Project -- P179466)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - madagascar
 change_scope: structure
 slug: d40138670-madagascar-eastern-and-southern-africa
+assigned_id: dea:change-initiative-d40138670-madagascar-eastern-and-southern-africa-xaspxn
+admitted: '2026-11-15'

@@ -1,26 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137763
-name: Brazil - LATIN AMERICA AND CARIBBEAN- P508221- Santa Catarina Flood Infrastructure and Resilience
-  Improvement Project - Procurement Plan (D40137763)
-description: 'Brazil - LATIN AMERICA AND CARIBBEAN- P508221- Santa Catarina Flood Infrastructure and Resilience
-  Improvement Project - Procurement Plan — a published World Bank project document for the financed operation
-  ''BR-Santa Catarina Flood Infrastructure and Resilience Improvement Project -- P508221'' (country: Brazil;
-  lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-05).'
+name: Brazil - LATIN AMERICA AND CARIBBEAN- P508221- Santa Catarina Flood Infrastructure
+  and Resilience Improvement Project - Procurement Plan (D40137763)
+description: 'Brazil - LATIN AMERICA AND CARIBBEAN- P508221- Santa Catarina Flood
+  Infrastructure and Resilience Improvement Project - Procurement Plan — a published
+  World Bank project document for the financed operation ''BR-Santa Catarina Flood
+  Infrastructure and Resilience Improvement Project -- P508221'' (country: Brazil;
+  lending instrument: Investment Project Financing; major theme: n/a; document date
+  2026-11-05).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110526123031726/pdf/P508221-7d9bf8d7-0688-44d1-b522-73101300fd22.pdf
-      (World Bank Documents & Records API; document D40137763; operation BR-Santa Catarina Flood Infrastructure
-      and Resilience Improvement Project -- P508221)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137763; operation BR-Santa
+      Catarina Flood Infrastructure and Resilience Improvement Project -- P508221)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - brazil
 change_scope: structure
 slug: d40137763-brazil-latin-america-and-caribbean-p50
+assigned_id: dea:change-initiative-d40137763-brazil-latin-america-and-caribbean-p50-wvcvaq
+admitted: '2026-11-15'

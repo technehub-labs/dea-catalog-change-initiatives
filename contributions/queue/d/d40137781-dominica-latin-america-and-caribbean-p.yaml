@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137781
-name: Dominica - LATIN AMERICA AND CARIBBEAN- P182095- GFPP Dominica Caribbean Resilient Renewable Energy
-  Infrastructure Investment Facility - Procurement Plan (D40137781)
-description: 'Dominica - LATIN AMERICA AND CARIBBEAN- P182095- GFPP Dominica Caribbean Resilient Renewable
-  Energy Infrastructure Investment Facility - Procurement Plan — a published World Bank project document
-  for the financed operation ''DM-GFPP Dominica Caribbean Resilient Renewable Energy Infrastructure Investment
-  Facility -- P182095'' (country: Dominica; lending instrument: Investment Project Financing; major theme:
+name: Dominica - LATIN AMERICA AND CARIBBEAN- P182095- GFPP Dominica Caribbean Resilient
+  Renewable Energy Infrastructure Investment Facility - Procurement Plan (D40137781)
+description: 'Dominica - LATIN AMERICA AND CARIBBEAN- P182095- GFPP Dominica Caribbean
+  Resilient Renewable Energy Infrastructure Investment Facility - Procurement Plan
+  — a published World Bank project document for the financed operation ''DM-GFPP Dominica
+  Caribbean Resilient Renewable Energy Infrastructure Investment Facility -- P182095''
+  (country: Dominica; lending instrument: Investment Project Financing; major theme:
   n/a; document date 2026-11-05).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110526141013648/pdf/P182095-bb3c7235-e93b-4afa-a240-46b2986c83d2.pdf
-      (World Bank Documents & Records API; document D40137781; operation DM-GFPP Dominica Caribbean Resilient
-      Renewable Energy Infrastructure Investment Facility -- P182095)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137781; operation DM-GFPP Dominica
+      Caribbean Resilient Renewable Energy Infrastructure Investment Facility -- P182095)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - dominica
 change_scope: structure
 slug: d40137781-dominica-latin-america-and-caribbean-p
+assigned_id: dea:change-initiative-d40137781-dominica-latin-america-and-caribbean-p-kqmcxc
+admitted: '2026-11-15'

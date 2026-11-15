@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138410
-name: 'Western and Central Africa - WESTERN AND CENTRAL AFRICA- P515184- WA-REMP MPA Phase II: Regional
-  Access Increase and Sustainable Energy - Procurement Plan (D40138410)'
-description: 'Western and Central Africa - WESTERN AND CENTRAL AFRICA- P515184- WA-REMP MPA Phase II:
-  Regional Access Increase and Sustainable Energy - Procurement Plan — a published World Bank project
-  document for the financed operation ''3W-WA-REMP MPA Phase II: Regional Access Increase and Sustainable
-  Energy -- P515184'' (country: Western and Central Africa; lending instrument: Investment Project Financing;
-  major theme: n/a; document date 2026-11-10).'
+name: 'Western and Central Africa - WESTERN AND CENTRAL AFRICA- P515184- WA-REMP MPA
+  Phase II: Regional Access Increase and Sustainable Energy - Procurement Plan (D40138410)'
+description: 'Western and Central Africa - WESTERN AND CENTRAL AFRICA- P515184- WA-REMP
+  MPA Phase II: Regional Access Increase and Sustainable Energy - Procurement Plan
+  — a published World Bank project document for the financed operation ''3W-WA-REMP
+  MPA Phase II: Regional Access Increase and Sustainable Energy -- P515184'' (country:
+  Western and Central Africa; lending instrument: Investment Project Financing; major
+  theme: n/a; document date 2026-11-10).'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://documents.worldbank.org/curated/en/099111026101510909/pdf/P515184-80a02343-0cfd-4d77-a0c4-0f1efd3d952a.pdf
-      (World Bank Documents & Records API; document D40138410; operation 3W-WA-REMP MPA Phase II: Regional
-      Access Increase and Sustainable Energy -- P515184)'
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138410; operation 3W-WA-REMP
+      MPA Phase II: Regional Access Increase and Sustainable Energy -- P515184)'
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - western-and-central
 change_scope: structure
 slug: d40138410-western-and-central-africa-western-and
+assigned_id: dea:change-initiative-d40138410-western-and-central-africa-western-and-kzec97
+admitted: '2026-11-15'

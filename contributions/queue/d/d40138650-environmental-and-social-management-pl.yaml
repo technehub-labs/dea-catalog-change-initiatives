@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138650
-name: Environmental and Social Management Plan (ESMP) Yemen Food Security Response and Resilience Project
-  (P176129) (D40138650)
-description: 'Environmental and Social Management Plan (ESMP) Yemen Food Security Response and Resilience
-  Project (P176129) — a published World Bank project document for the financed operation ''RY-Yemen Food
-  Security Response and Resilience Project -- P176129'' (country: Yemen, Republic of; lending instrument:
-  Investment Project Financing; major theme: n/a; document date 2026-11-11).'
+name: Environmental and Social Management Plan (ESMP) Yemen Food Security Response
+  and Resilience Project (P176129) (D40138650)
+description: 'Environmental and Social Management Plan (ESMP) Yemen Food Security
+  Response and Resilience Project (P176129) — a published World Bank project document
+  for the financed operation ''RY-Yemen Food Security Response and Resilience Project
+  -- P176129'' (country: Yemen, Republic of; lending instrument: Investment Project
+  Financing; major theme: n/a; document date 2026-11-11).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111126124039496/pdf/P176129-a70f6114-2528-42c0-b451-2cd0cdb46aeb.pdf
-      (World Bank Documents & Records API; document D40138650; operation RY-Yemen Food Security Response
-      and Resilience Project -- P176129)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138650; operation RY-Yemen
+      Food Security Response and Resilience Project -- P176129)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - yemen-republic-of
 change_scope: structure
 slug: d40138650-environmental-and-social-management-pl
+assigned_id: dea:change-initiative-d40138650-environmental-and-social-management-pl-nc9jjb
+admitted: '2026-11-15'

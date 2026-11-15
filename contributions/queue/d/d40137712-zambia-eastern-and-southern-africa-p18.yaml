@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137712
-name: Zambia - EASTERN AND SOUTHERN AFRICA- P180337- Green, Resilient and Transformational Tourism Development
-  Project (GREAT-TDP) - Procurement Plan (D40137712)
-description: 'Zambia - EASTERN AND SOUTHERN AFRICA- P180337- Green, Resilient and Transformational Tourism
-  Development Project (GREAT-TDP) - Procurement Plan — a published World Bank project document for the
-  financed operation ''ZM-Green, Resilient and Transformational Tourism Development Project (GREAT-TDP)
-  -- P180337'' (country: Zambia; lending instrument: Investment Project Financing; major theme: n/a; document
+name: Zambia - EASTERN AND SOUTHERN AFRICA- P180337- Green, Resilient and Transformational
+  Tourism Development Project (GREAT-TDP) - Procurement Plan (D40137712)
+description: 'Zambia - EASTERN AND SOUTHERN AFRICA- P180337- Green, Resilient and
+  Transformational Tourism Development Project (GREAT-TDP) - Procurement Plan — a
+  published World Bank project document for the financed operation ''ZM-Green, Resilient
+  and Transformational Tourism Development Project (GREAT-TDP) -- P180337'' (country:
+  Zambia; lending instrument: Investment Project Financing; major theme: n/a; document
   date 2026-11-05).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110526092529214/pdf/P180337-51e3320a-731e-42d1-9383-86753702fc68.pdf
-      (World Bank Documents & Records API; document D40137712; operation ZM-Green, Resilient and Transformational
-      Tourism Development Project (GREAT-TDP) -- P180337)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137712; operation ZM-Green,
+      Resilient and Transformational Tourism Development Project (GREAT-TDP) -- P180337)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - zambia
 change_scope: structure
 slug: d40137712-zambia-eastern-and-southern-africa-p18
+assigned_id: dea:change-initiative-d40137712-zambia-eastern-and-southern-africa-p18-kegybw
+admitted: '2026-11-15'

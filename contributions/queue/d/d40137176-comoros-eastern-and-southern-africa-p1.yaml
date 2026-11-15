@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137176
-name: Comoros - EASTERN AND SOUTHERN AFRICA- P182075- Comoros  Multi Sector Skills for Job and Economic
-  Transformation Preparation Grant - Procurement Plan (D40137176)
-description: 'Comoros - EASTERN AND SOUTHERN AFRICA- P182075- Comoros  Multi Sector Skills for Job and
-  Economic Transformation Preparation Grant - Procurement Plan — a published World Bank project document
-  for the financed operation ''KM-Comoros  Multi Sector Skills for Job and Economic Transformation Preparation
-  Grant -- P182075'' (country: Comoros; lending instrument: Investment Project Financing; major theme:
+name: Comoros - EASTERN AND SOUTHERN AFRICA- P182075- Comoros  Multi Sector Skills
+  for Job and Economic Transformation Preparation Grant - Procurement Plan (D40137176)
+description: 'Comoros - EASTERN AND SOUTHERN AFRICA- P182075- Comoros  Multi Sector
+  Skills for Job and Economic Transformation Preparation Grant - Procurement Plan
+  — a published World Bank project document for the financed operation ''KM-Comoros  Multi
+  Sector Skills for Job and Economic Transformation Preparation Grant -- P182075''
+  (country: Comoros; lending instrument: Investment Project Financing; major theme:
   n/a; document date 2026-11-03).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110326000517671/pdf/P182075-aa958d52-0ceb-4616-a3f9-3ee747fb63ab.pdf
-      (World Bank Documents & Records API; document D40137176; operation KM-Comoros  Multi Sector Skills
-      for Job and Economic Transformation Preparation Grant -- P182075)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137176; operation KM-Comoros  Multi
+      Sector Skills for Job and Economic Transformation Preparation Grant -- P182075)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - comoros
 change_scope: structure
 slug: d40137176-comoros-eastern-and-southern-africa-p1
+assigned_id: dea:change-initiative-d40137176-comoros-eastern-and-southern-africa-p1-gs9d6f
+admitted: '2026-11-15'

@@ -1,0 +1,41 @@
+id: dea:change-initiative-d40138150-environmental-and-social-commitment-pl-sqenyp
+type: ChangeInitiative
+name: Environmental and Social Commitment Plan (ESCP) - Lesotho Multisectoral Nutrition
+  Project - P519176 (D40138150)
+description: 'Environmental and Social Commitment Plan (ESCP) - Lesotho Multisectoral
+  Nutrition Project - P519176 — a published World Bank project document for the financed
+  operation ''LS-Lesotho Multisectoral Nutrition Project -- P519176'' (country: Lesotho;
+  lending instrument: Investment Project Financing; major theme: n/a; document date
+  2026-11-09).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110926052579534/pdf/P519176-86380156-8a3d-499e-a3ed-e9c84e2bf4e5.pdf
+      (World Bank Documents & Records API; document D40138150; operation LS-Lesotho
+      Multisectoral Nutrition Project -- P519176)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- lesotho

@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137785
-name: 'Additional Financing Environmental and Social Review Summary (ESRS) - Enhancing Community Resilience
-  and Local Governance Project Phase II - P177093 - AF No: 2 (D40137785)'
-description: 'Additional Financing Environmental and Social Review Summary (ESRS) - Enhancing Community
-  Resilience and Local Governance Project Phase II - P177093 - AF No: 2 — a published World Bank project
-  document for the financed operation ''SS-Enhancing Community Resilience and Local Governance Project
-  Phase II -- P177093'' (country: South Sudan; lending instrument: Investment Project Financing; major
-  theme: n/a; document date 2026-11-05).'
+name: 'Additional Financing Environmental and Social Review Summary (ESRS) - Enhancing
+  Community Resilience and Local Governance Project Phase II - P177093 - AF No: 2
+  (D40137785)'
+description: 'Additional Financing Environmental and Social Review Summary (ESRS)
+  - Enhancing Community Resilience and Local Governance Project Phase II - P177093
+  - AF No: 2 — a published World Bank project document for the financed operation
+  ''SS-Enhancing Community Resilience and Local Governance Project Phase II -- P177093''
+  (country: South Sudan; lending instrument: Investment Project Financing; major theme:
+  n/a; document date 2026-11-05).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110526143067060/pdf/P177093-8b8715ff-a5db-44f1-ac4c-7a3df0dd3c31.pdf
-      (World Bank Documents & Records API; document D40137785; operation SS-Enhancing Community Resilience
-      and Local Governance Project Phase II -- P177093)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137785; operation SS-Enhancing
+      Community Resilience and Local Governance Project Phase II -- P177093)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - south-sudan
 change_scope: structure
 slug: d40137785-additional-financing-environmental-and
+assigned_id: dea:change-initiative-d40137785-additional-financing-environmental-and-k9km3v
+admitted: '2026-11-15'

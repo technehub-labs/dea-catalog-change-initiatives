@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137697
-name: Central Africa - WESTERN AND CENTRAL AFRICA- P513683- Douala-Bangui Economic Corridor Project  -
-  Procurement Plan (D40137697)
-description: 'Central Africa - WESTERN AND CENTRAL AFRICA- P513683- Douala-Bangui Economic Corridor Project  -
-  Procurement Plan — a published World Bank project document for the financed operation ''3T-Douala-Bangui
-  Economic Corridor Project -- P513683'' (country: Central Africa; lending instrument: Investment Project
-  Financing; major theme: n/a; document date 2026-11-05).'
+name: Central Africa - WESTERN AND CENTRAL AFRICA- P513683- Douala-Bangui Economic
+  Corridor Project  - Procurement Plan (D40137697)
+description: 'Central Africa - WESTERN AND CENTRAL AFRICA- P513683- Douala-Bangui
+  Economic Corridor Project  - Procurement Plan — a published World Bank project document
+  for the financed operation ''3T-Douala-Bangui Economic Corridor Project -- P513683''
+  (country: Central Africa; lending instrument: Investment Project Financing; major
+  theme: n/a; document date 2026-11-05).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110526081015386/pdf/P513683-c806c95c-d2cb-4f49-ac0c-22281ea6d1ab.pdf
-      (World Bank Documents & Records API; document D40137697; operation 3T-Douala-Bangui Economic Corridor
-      Project -- P513683)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137697; operation 3T-Douala-Bangui
+      Economic Corridor Project -- P513683)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - central-africa
 change_scope: structure
 slug: d40137697-central-africa-western-and-central-afr
+assigned_id: dea:change-initiative-d40137697-central-africa-western-and-central-afr-6mderq
+admitted: '2026-11-15'

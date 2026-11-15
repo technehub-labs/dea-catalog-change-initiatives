@@ -1,0 +1,44 @@
+id: dea:change-initiative-d40137889-initial-environmental-and-social-revie-bsv5qe
+type: ChangeInitiative
+name: Initial Environmental and Social Review Summary (ESRS) - Integrated Mobility
+  and Urban Development for Sustainable Growth in Abidjan MPA - Phase 1 - P519431
+  (D40137889)
+description: 'Initial Environmental and Social Review Summary (ESRS) - Integrated
+  Mobility and Urban Development for Sustainable Growth in Abidjan MPA - Phase 1 -
+  P519431 — a published World Bank project document for the financed operation ''CI-Integrated
+  Mobility and Urban Development for Sustainable Growth in Abidjan MPA - Phase 1 --
+  P519431'' (country: Cote d''Ivoire; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-06).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110626075042079/pdf/P519431-3ca16b8c-9820-4ccc-ac41-7e7cc5cc11a3.pdf
+      (World Bank Documents & Records API; document D40137889; operation CI-Integrated
+      Mobility and Urban Development for Sustainable Growth in Abidjan MPA - Phase
+      1 -- P519431)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- cote-d-ivoire

@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138872
-name: Senegal - WESTERN AND CENTRAL AFRICA- P161477- Senegal Municipal Solid Waste Management Project
-  - Procurement Plan (D40138872)
-description: 'Senegal - WESTERN AND CENTRAL AFRICA- P161477- Senegal Municipal Solid Waste Management
-  Project - Procurement Plan — a published World Bank project document for the financed operation ''SN-Senegal
-  Municipal Solid Waste Management Project -- P161477'' (country: Senegal; lending instrument: Investment
-  Project Financing; major theme: n/a; document date 2026-11-12).'
+name: Senegal - WESTERN AND CENTRAL AFRICA- P161477- Senegal Municipal Solid Waste
+  Management Project - Procurement Plan (D40138872)
+description: 'Senegal - WESTERN AND CENTRAL AFRICA- P161477- Senegal Municipal Solid
+  Waste Management Project - Procurement Plan — a published World Bank project document
+  for the financed operation ''SN-Senegal Municipal Solid Waste Management Project
+  -- P161477'' (country: Senegal; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-12).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111226110520244/pdf/P161477-4d1bf7d7-e9c6-4195-b51d-f1c485030d13.pdf
-      (World Bank Documents & Records API; document D40138872; operation SN-Senegal Municipal Solid Waste
-      Management Project -- P161477)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138872; operation SN-Senegal
+      Municipal Solid Waste Management Project -- P161477)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - senegal
 change_scope: structure
 slug: d40138872-senegal-western-and-central-africa-p16
+assigned_id: dea:change-initiative-d40138872-senegal-western-and-central-africa-p16-vx9jpu
+admitted: '2026-11-15'

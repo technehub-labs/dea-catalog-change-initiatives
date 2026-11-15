@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138435
-name: Uganda - EASTERN AND SOUTHERN AFRICA- P163782- Integrated Water Management and Development Project
-  - Procurement Plan (D40138435)
-description: 'Uganda - EASTERN AND SOUTHERN AFRICA- P163782- Integrated Water Management and Development
-  Project - Procurement Plan — a published World Bank project document for the financed operation ''UG-Integrated
-  Water Management and Development Project -- P163782'' (country: Uganda; lending instrument: Investment
-  Project Financing; major theme: n/a; document date 2026-11-10).'
+name: Uganda - EASTERN AND SOUTHERN AFRICA- P163782- Integrated Water Management and
+  Development Project - Procurement Plan (D40138435)
+description: 'Uganda - EASTERN AND SOUTHERN AFRICA- P163782- Integrated Water Management
+  and Development Project - Procurement Plan — a published World Bank project document
+  for the financed operation ''UG-Integrated Water Management and Development Project
+  -- P163782'' (country: Uganda; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-10).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111026115035684/pdf/P163782-1a3ca23f-ef24-4650-ac24-de00513841b6.pdf
-      (World Bank Documents & Records API; document D40138435; operation UG-Integrated Water Management
-      and Development Project -- P163782)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138435; operation UG-Integrated
+      Water Management and Development Project -- P163782)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - uganda
 change_scope: structure
 slug: d40138435-uganda-eastern-and-southern-africa-p16
+assigned_id: dea:change-initiative-d40138435-uganda-eastern-and-southern-africa-p16-8wpata
+admitted: '2026-11-15'

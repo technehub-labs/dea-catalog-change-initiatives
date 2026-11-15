@@ -1,28 +1,34 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137580
-name: 'Micronesia, Federated States of - EAST ASIA AND PACIFIC - P178237 - Pacific Islands Regional Oceanscape
-  Program - Second Phase for Economic Resilience: Federated States of Micronesia (FSM PROPER) - Au'
-description: 'Micronesia, Federated States of - EAST ASIA AND PACIFIC - P178237 - Pacific Islands Regional
-  Oceanscape Program - Second Phase for Economic Resilience: Federated States of Micronesia (FSM PROPER)
-  - Audited Financial Statement — a published World Bank project document for the financed operation ''FM-Pacific
-  Islands Regional Oceanscape Program - Second Phase for Economic Resilience: Federated States of Micronesia
-  (FSM PROPER) -- P178237'' (country: Micronesia, Federated States of; lending instrument: Investment
-  Project Financing; major theme: n/a; document date 2026-11-05).'
+name: 'Micronesia, Federated States of - EAST ASIA AND PACIFIC - P178237 - Pacific
+  Islands Regional Oceanscape Program - Second Phase for Economic Resilience: Federated
+  States of Micronesia (FSM PROPER) - Au'
+description: 'Micronesia, Federated States of - EAST ASIA AND PACIFIC - P178237 -
+  Pacific Islands Regional Oceanscape Program - Second Phase for Economic Resilience:
+  Federated States of Micronesia (FSM PROPER) - Audited Financial Statement — a published
+  World Bank project document for the financed operation ''FM-Pacific Islands Regional
+  Oceanscape Program - Second Phase for Economic Resilience: Federated States of Micronesia
+  (FSM PROPER) -- P178237'' (country: Micronesia, Federated States of; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-05).'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://documents.worldbank.org/curated/en/099110426194035294/pdf/P178237-b1cb76a8-fdfa-4c45-bd77-5176d6f956c9.pdf
-      (World Bank Documents & Records API; document D40137580; operation FM-Pacific Islands Regional Oceanscape
-      Program - Second Phase for Economic Resilience: Federated States of Micronesia (FSM PROPER) -- P178237)'
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137580; operation FM-Pacific
+      Islands Regional Oceanscape Program - Second Phase for Economic Resilience:
+      Federated States of Micronesia (FSM PROPER) -- P178237)'
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - micronesia-federated
 change_scope: structure
 slug: d40137580-micronesia-federated-states-of-east-as
+assigned_id: dea:change-initiative-d40137580-micronesia-federated-states-of-east-as-fa8q9c
+admitted: '2026-11-15'

@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138174
-name: Turkiye - EUROPE AND CENTRAL ASIA- P180781- T?rkiye Preparedness for Public Health Emergencies Project
-  - Procurement Plan (D40138174)
-description: 'Turkiye - EUROPE AND CENTRAL ASIA- P180781- T?rkiye Preparedness for Public Health Emergencies
-  Project - Procurement Plan — a published World Bank project document for the financed operation ''TR-Türkiye
-  Preparedness for Public Health Emergencies Project -- P180781'' (country: Turkiye; lending instrument:
-  Investment Project Financing; major theme: n/a; document date 2026-11-09).'
+name: Turkiye - EUROPE AND CENTRAL ASIA- P180781- T?rkiye Preparedness for Public
+  Health Emergencies Project - Procurement Plan (D40138174)
+description: 'Turkiye - EUROPE AND CENTRAL ASIA- P180781- T?rkiye Preparedness for
+  Public Health Emergencies Project - Procurement Plan — a published World Bank project
+  document for the financed operation ''TR-Türkiye Preparedness for Public Health
+  Emergencies Project -- P180781'' (country: Turkiye; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-09).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110926084012051/pdf/P180781-b377fbaf-caff-4fed-8383-de64aec054d9.pdf
-      (World Bank Documents & Records API; document D40138174; operation TR-Türkiye Preparedness for Public
-      Health Emergencies Project -- P180781)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138174; operation TR-Türkiye
+      Preparedness for Public Health Emergencies Project -- P180781)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - turkiye
 change_scope: structure
 slug: d40138174-turkiye-europe-and-central-asia-p18078
+assigned_id: dea:change-initiative-d40138174-turkiye-europe-and-central-asia-p18078-xkeqn9
+admitted: '2026-11-15'

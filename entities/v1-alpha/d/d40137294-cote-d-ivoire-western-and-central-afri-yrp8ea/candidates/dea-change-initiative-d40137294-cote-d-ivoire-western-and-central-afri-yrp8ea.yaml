@@ -1,0 +1,41 @@
+id: dea:change-initiative-d40137294-cote-d-ivoire-western-and-central-afri-yrp8ea
+type: ChangeInitiative
+name: Cote d'Ivoire - WESTERN AND CENTRAL AFRICA- P508716- CIV Health, Nutrition  and  ECD
+  MPA - Phase 2 - Procurement Plan (D40137294)
+description: 'Cote d''Ivoire - WESTERN AND CENTRAL AFRICA- P508716- CIV Health, Nutrition  and  ECD
+  MPA - Phase 2 - Procurement Plan — a published World Bank project document for the
+  financed operation ''CI-CIV Health, Nutrition & ECD MPA - Phase 2 -- P508716'' (country:
+  Cote d''Ivoire; lending instrument: Program-for-Results Financing; major theme:
+  n/a; document date 2026-11-03).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110326095539662/pdf/P508716-819ba6e7-ff71-421b-af74-01cef8209dc9.pdf
+      (World Bank Documents & Records API; document D40137294; operation CI-CIV Health,
+      Nutrition & ECD MPA - Phase 2 -- P508716)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- cote-d-ivoire

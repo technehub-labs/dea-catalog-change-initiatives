@@ -1,0 +1,41 @@
+id: dea:change-initiative-d40137787-nigeria-western-and-central-africa-p17-9tgvq6
+type: ChangeInitiative
+name: Nigeria - WESTERN AND CENTRAL AFRICA- P179447- Nigeria for Women Program Scale
+  Up Project - Procurement Plan (D40137787)
+description: 'Nigeria - WESTERN AND CENTRAL AFRICA- P179447- Nigeria for Women Program
+  Scale Up Project - Procurement Plan — a published World Bank project document for
+  the financed operation ''NG-Nigeria for Women Program Scale Up Project -- P179447''
+  (country: Nigeria; lending instrument: Investment Project Financing; major theme:
+  n/a; document date 2026-11-05).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110526150081923/pdf/P179447-26001982-d4b6-4bef-96bb-0ef27c132b42.pdf
+      (World Bank Documents & Records API; document D40137787; operation NG-Nigeria
+      for Women Program Scale Up Project -- P179447)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- nigeria

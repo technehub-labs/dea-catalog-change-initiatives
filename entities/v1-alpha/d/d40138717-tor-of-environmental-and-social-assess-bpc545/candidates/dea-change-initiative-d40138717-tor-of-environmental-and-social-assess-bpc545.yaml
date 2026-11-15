@@ -1,0 +1,41 @@
+id: dea:change-initiative-d40138717-tor-of-environmental-and-social-assess-bpc545
+type: ChangeInitiative
+name: ToR of Environmental and Social Assessment Second Timor-Leste Branch Roads Project
+  (P516518) (D40138717)
+description: 'ToR of Environmental and Social Assessment Second Timor-Leste Branch
+  Roads Project (P516518) — a published World Bank project document for the financed
+  operation ''TP-Second Timor-Leste Branch Roads Project -- P516518'' (country: Timor-Leste;
+  lending instrument: Investment Project Financing; major theme: n/a; document date
+  2026-11-12).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111226002057874/pdf/P516518-7deb7377-1058-4c73-9fac-b0116fc30377.pdf
+      (World Bank Documents & Records API; document D40138717; operation TP-Second
+      Timor-Leste Branch Roads Project -- P516518)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- timor-leste

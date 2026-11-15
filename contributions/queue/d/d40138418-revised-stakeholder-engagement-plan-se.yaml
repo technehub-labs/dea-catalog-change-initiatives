@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138418
-name: Revised  Stakeholder Engagement Plan (SEP) CAR Investment and Business Competitiveness for Employment
-  (P176274) (D40138418)
-description: 'Revised  Stakeholder Engagement Plan (SEP) CAR Investment and Business Competitiveness for
-  Employment (P176274) — a published World Bank project document for the financed operation ''CF-CAR Investment
-  and Business Competitiveness for Employment -- P176274'' (country: Central African Republic; lending
-  instrument: Investment Project Financing; major theme: n/a; document date 2026-11-10).'
+name: Revised  Stakeholder Engagement Plan (SEP) CAR Investment and Business Competitiveness
+  for Employment (P176274) (D40138418)
+description: 'Revised  Stakeholder Engagement Plan (SEP) CAR Investment and Business
+  Competitiveness for Employment (P176274) — a published World Bank project document
+  for the financed operation ''CF-CAR Investment and Business Competitiveness for
+  Employment -- P176274'' (country: Central African Republic; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-10).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111026105051234/pdf/P176274-5f41b95e-6d24-41a3-87c1-8a0518984aa6.pdf
-      (World Bank Documents & Records API; document D40138418; operation CF-CAR Investment and Business
-      Competitiveness for Employment -- P176274)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138418; operation CF-CAR Investment
+      and Business Competitiveness for Employment -- P176274)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - central-african-repu
 change_scope: structure
 slug: d40138418-revised-stakeholder-engagement-plan-se
+assigned_id: dea:change-initiative-d40138418-revised-stakeholder-engagement-plan-se-qve6hx
+admitted: '2026-11-15'

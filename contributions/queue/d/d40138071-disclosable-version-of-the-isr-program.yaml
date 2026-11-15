@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138071
-name: 'Disclosable Version of the ISR - Program for improving learning outcomes and socioemotional education
-  (PROMISE) - P176006 - Sequence No : 8 (D40138071)'
-description: 'Disclosable Version of the ISR - Program for improving learning outcomes and socioemotional
-  education (PROMISE) - P176006 - Sequence No : 8 — a published World Bank project document for the financed
-  operation ''CO-Program for improving learning outcomes and socioemotional education (PROMISE) -- P176006''
-  (country: Colombia; lending instrument: Program-for-Results Financing; major theme: n/a; document date
-  2026-11-08).'
+name: 'Disclosable Version of the ISR - Program for improving learning outcomes and
+  socioemotional education (PROMISE) - P176006 - Sequence No : 8 (D40138071)'
+description: 'Disclosable Version of the ISR - Program for improving learning outcomes
+  and socioemotional education (PROMISE) - P176006 - Sequence No : 8 — a published
+  World Bank project document for the financed operation ''CO-Program for improving
+  learning outcomes and socioemotional education (PROMISE) -- P176006'' (country:
+  Colombia; lending instrument: Program-for-Results Financing; major theme: n/a; document
+  date 2026-11-08).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110826135534901/pdf/P176006-a3e0788a-d17f-42da-92c1-b6744c3151cf.pdf
-      (World Bank Documents & Records API; document D40138071; operation CO-Program for improving learning
-      outcomes and socioemotional education (PROMISE) -- P176006)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138071; operation CO-Program
+      for improving learning outcomes and socioemotional education (PROMISE) -- P176006)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - colombia
 change_scope: structure
 slug: d40138071-disclosable-version-of-the-isr-program
+assigned_id: dea:change-initiative-d40138071-disclosable-version-of-the-isr-program-8tzaae
+admitted: '2026-11-15'

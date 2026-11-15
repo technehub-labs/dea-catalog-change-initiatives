@@ -1,0 +1,42 @@
+id: dea:change-initiative-d40139173-bolivia-latin-america-and-caribbean-p1-zwtz5k
+type: ChangeInitiative
+name: Bolivia - LATIN AMERICA AND CARIBBEAN- P175672- Innovation for Resilient Food
+  Systems (Alianzas Rurales - PAR III) Project - Procurement Plan (D40139173)
+description: 'Bolivia - LATIN AMERICA AND CARIBBEAN- P175672- Innovation for Resilient
+  Food Systems (Alianzas Rurales - PAR III) Project - Procurement Plan — a published
+  World Bank project document for the financed operation ''BO-Innovation for Resilient
+  Food Systems (Alianzas Rurales - PAR III) Project -- P175672'' (country: Bolivia;
+  lending instrument: Investment Project Financing; major theme: n/a; document date
+  2026-11-14).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111326192042319/pdf/P175672-1434f546-a5df-4888-aa4d-2ed52f5467c4.pdf
+      (World Bank Documents & Records API; document D40139173; operation BO-Innovation
+      for Resilient Food Systems (Alianzas Rurales - PAR III) Project -- P175672)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- bolivia

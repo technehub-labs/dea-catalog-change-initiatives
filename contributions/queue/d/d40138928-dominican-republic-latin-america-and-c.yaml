@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138928
-name: Dominican Republic - LATIN AMERICA AND CARIBBEAN- P180302- Support for the Implementation of the
-  Public Administration Reform and Modernization Plan - Procurement Plan (D40138928)
-description: 'Dominican Republic - LATIN AMERICA AND CARIBBEAN- P180302- Support for the Implementation
-  of the Public Administration Reform and Modernization Plan - Procurement Plan — a published World Bank
-  project document for the financed operation ''DO-Support for the Implementation of the Public Administration
-  Reform and Modernization Plan -- P180302'' (country: Dominican Republic; lending instrument: Investment
-  Project Financing; major theme: n/a; document date 2026-11-12).'
+name: Dominican Republic - LATIN AMERICA AND CARIBBEAN- P180302- Support for the Implementation
+  of the Public Administration Reform and Modernization Plan - Procurement Plan (D40138928)
+description: 'Dominican Republic - LATIN AMERICA AND CARIBBEAN- P180302- Support for
+  the Implementation of the Public Administration Reform and Modernization Plan -
+  Procurement Plan — a published World Bank project document for the financed operation
+  ''DO-Support for the Implementation of the Public Administration Reform and Modernization
+  Plan -- P180302'' (country: Dominican Republic; lending instrument: Investment Project
+  Financing; major theme: n/a; document date 2026-11-12).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111226180062180/pdf/P180302-0ab8c9bc-6790-4ca0-a9b7-a4249b105da8.pdf
-      (World Bank Documents & Records API; document D40138928; operation DO-Support for the Implementation
-      of the Public Administration Reform and Modernization Plan -- P180302)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138928; operation DO-Support
+      for the Implementation of the Public Administration Reform and Modernization
+      Plan -- P180302)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - dominican-republic
 change_scope: structure
 slug: d40138928-dominican-republic-latin-america-and-c
+assigned_id: dea:change-initiative-d40138928-dominican-republic-latin-america-and-c-42yvt9
+admitted: '2026-11-15'

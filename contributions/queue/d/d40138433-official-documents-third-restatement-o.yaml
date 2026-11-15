@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138433
-name: Official Documents- Third Restatement of Disbursement and Financial Information Letter for the Original,
-  First and Second Additional Financing for Credit 7069-CI, Credit 8058-CI, Credit 8146-CI, and G
-description: 'Official Documents- Third Restatement of Disbursement and Financial Information Letter for
-  the Original, First and Second Additional Financing for Credit 7069-CI, Credit 8058-CI, Credit 8146-CI,
-  and Grant E787-CI.pdf — a published World Bank project document for the financed operation ''3W-Gulf
-  of Guinea Northern Regions Social Cohesion project -- P175043'' (country: Western and Central Africa;
-  lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-10).'
+name: Official Documents- Third Restatement of Disbursement and Financial Information
+  Letter for the Original, First and Second Additional Financing for Credit 7069-CI,
+  Credit 8058-CI, Credit 8146-CI, and G
+description: 'Official Documents- Third Restatement of Disbursement and Financial
+  Information Letter for the Original, First and Second Additional Financing for Credit
+  7069-CI, Credit 8058-CI, Credit 8146-CI, and Grant E787-CI.pdf — a published World
+  Bank project document for the financed operation ''3W-Gulf of Guinea Northern Regions
+  Social Cohesion project -- P175043'' (country: Western and Central Africa; lending
+  instrument: Investment Project Financing; major theme: n/a; document date 2026-11-10).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111026114540516/pdf/P175043-f89149a7-fcfa-4540-b395-203a5a648c0d.pdf
-      (World Bank Documents & Records API; document D40138433; operation 3W-Gulf of Guinea Northern Regions
-      Social Cohesion project -- P175043)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138433; operation 3W-Gulf of
+      Guinea Northern Regions Social Cohesion project -- P175043)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - western-and-central
 change_scope: structure
 slug: d40138433-official-documents-third-restatement-o
+assigned_id: dea:change-initiative-d40138433-official-documents-third-restatement-o-c27xrs
+admitted: '2026-11-15'
