@@ -1,0 +1,51 @@
+id: dea:change-initiative-d40138291-tuvalu-east-asia-and-pacific-p177100-m-euy39n
+type: ChangeInitiative
+name: Tuvalu - EAST ASIA AND PACIFIC- P177100- Maritime Investment in Climate Resilient
+  Operations II - Procurement Plan (D40138291)
+description: 'Tuvalu - EAST ASIA AND PACIFIC- P177100- Maritime Investment in Climate
+  Resilient Operations II - Procurement Plan — a published World Bank project document
+  for the financed operation ''TV-Maritime Investment in Climate Resilient Operations
+  II -- P177100'' (country: Tuvalu; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-10).'
+version: 0.1.0
+lifecycle_status: active
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111026004012509/pdf/P177100-857e03b7-efb4-4d9a-b903-00643a1532c9.pdf
+      (World Bank Documents & Records API; document D40138291; operation TV-Maritime
+      Investment in Climate Resilient Operations II -- P177100)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- world-bank
+- tuvalu

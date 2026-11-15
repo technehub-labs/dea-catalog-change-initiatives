@@ -1,0 +1,52 @@
+id: dea:change-initiative-d40137917-bolivia-latin-america-and-caribbean-p5-nfrzuu
+type: ChangeInitiative
+name: Bolivia - LATIN AMERICA AND CARIBBEAN- P516619- Enhancing Transport Sector Institutional
+  and Financial Sustainability  - Procurement Plan (D40137917)
+description: 'Bolivia - LATIN AMERICA AND CARIBBEAN- P516619- Enhancing Transport
+  Sector Institutional and Financial Sustainability  - Procurement Plan — a published
+  World Bank project document for the financed operation ''BO-Enhancing Transport
+  Sector Institutional and Financial Sustainability -- P516619'' (country: Bolivia;
+  lending instrument: Investment Project Financing; major theme: n/a; document date
+  2026-11-06).'
+version: 0.1.0
+lifecycle_status: active
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110626093016471/pdf/P516619-c3b3ca21-eb05-4e30-b032-686a1c6a6c1a.pdf
+      (World Bank Documents & Records API; document D40137917; operation BO-Enhancing
+      Transport Sector Institutional and Financial Sustainability -- P516619)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- world-bank
+- bolivia

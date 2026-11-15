@@ -1,0 +1,55 @@
+id: dea:change-initiative-d40137580-micronesia-federated-states-of-east-as-fa8q9c
+type: ChangeInitiative
+name: 'Micronesia, Federated States of - EAST ASIA AND PACIFIC - P178237 - Pacific
+  Islands Regional Oceanscape Program - Second Phase for Economic Resilience: Federated
+  States of Micronesia (FSM PROPER) - Au'
+description: 'Micronesia, Federated States of - EAST ASIA AND PACIFIC - P178237 -
+  Pacific Islands Regional Oceanscape Program - Second Phase for Economic Resilience:
+  Federated States of Micronesia (FSM PROPER) - Audited Financial Statement — a published
+  World Bank project document for the financed operation ''FM-Pacific Islands Regional
+  Oceanscape Program - Second Phase for Economic Resilience: Federated States of Micronesia
+  (FSM PROPER) -- P178237'' (country: Micronesia, Federated States of; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-05).'
+version: 0.1.0
+lifecycle_status: active
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://documents.worldbank.org/curated/en/099110426194035294/pdf/P178237-b1cb76a8-fdfa-4c45-bd77-5176d6f956c9.pdf
+      (World Bank Documents & Records API; document D40137580; operation FM-Pacific
+      Islands Regional Oceanscape Program - Second Phase for Economic Resilience:
+      Federated States of Micronesia (FSM PROPER) -- P178237)'
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- world-bank
+- micronesia-federated

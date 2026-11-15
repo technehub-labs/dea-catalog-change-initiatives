@@ -1,0 +1,51 @@
+id: dea:change-initiative-d40137514-malawi-eastern-and-southern-africa-p50-q7h3fw
+type: ChangeInitiative
+name: Malawi - EASTERN AND SOUTHERN AFRICA- P507745- Malawi Foundational Learning
+  Program for Results - Procurement Plan (D40137514)
+description: 'Malawi - EASTERN AND SOUTHERN AFRICA- P507745- Malawi Foundational Learning
+  Program for Results - Procurement Plan — a published World Bank project document
+  for the financed operation ''MW-Malawi Foundational Learning Program for Results
+  -- P507745'' (country: Malawi; lending instrument: Program-for-Results Financing;
+  major theme: n/a; document date 2026-11-04).'
+version: 0.1.0
+lifecycle_status: active
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110426112522621/pdf/P507745-0899e9a1-6abd-4aed-b81a-6075248e0a00.pdf
+      (World Bank Documents & Records API; document D40137514; operation MW-Malawi
+      Foundational Learning Program for Results -- P507745)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- world-bank
+- malawi

@@ -1,0 +1,53 @@
+id: dea:change-initiative-d40138104-pakistan-mid-east-north-africa-afg-pak-29j4wq
+type: ChangeInitiative
+name: 'Pakistan - MID EAST,NORTH AFRICA,AFG,PAK- P507512- Getting Results: Access
+  and Delivery of Quality Education Services in Balochistan  - Procurement Plan (D40138104)'
+description: 'Pakistan - MID EAST,NORTH AFRICA,AFG,PAK- P507512- Getting Results:
+  Access and Delivery of Quality Education Services in Balochistan  - Procurement
+  Plan — a published World Bank project document for the financed operation ''PK-Getting
+  Results: Access and Delivery of Quality Education Services in Balochistan -- P507512''
+  (country: Pakistan; lending instrument: Investment Project Financing; major theme:
+  n/a; document date 2026-11-09).'
+version: 0.1.0
+lifecycle_status: active
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://documents.worldbank.org/curated/en/099110926004055971/pdf/P507512-e717c0bf-3362-40a1-946c-b5e324d98beb.pdf
+      (World Bank Documents & Records API; document D40138104; operation PK-Getting
+      Results: Access and Delivery of Quality Education Services in Balochistan --
+      P507512)'
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- world-bank
+- pakistan

@@ -1,0 +1,52 @@
+id: dea:change-initiative-d40138819-somalia-federal-republic-of-eastern-an-gw3aum
+type: ChangeInitiative
+name: Somalia, Federal Republic of - EASTERN AND SOUTHERN AFRICA- P177627- Barwaaqo
+  - Somalia Water for Rural Resilience Project - Procurement Plan (D40138819)
+description: 'Somalia, Federal Republic of - EASTERN AND SOUTHERN AFRICA- P177627-
+  Barwaaqo - Somalia Water for Rural Resilience Project - Procurement Plan — a published
+  World Bank project document for the financed operation ''SO-Barwaaqo - Somalia Water
+  for Rural Resilience Project -- P177627'' (country: Somalia, Federal Republic of;
+  lending instrument: Investment Project Financing; major theme: n/a; document date
+  2026-11-12).'
+version: 0.1.0
+lifecycle_status: active
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111226062512061/pdf/P177627-bfc59951-f04a-4b33-ab84-09010004487a.pdf
+      (World Bank Documents & Records API; document D40138819; operation SO-Barwaaqo
+      - Somalia Water for Rural Resilience Project -- P177627)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- world-bank
+- somalia-federal-repu

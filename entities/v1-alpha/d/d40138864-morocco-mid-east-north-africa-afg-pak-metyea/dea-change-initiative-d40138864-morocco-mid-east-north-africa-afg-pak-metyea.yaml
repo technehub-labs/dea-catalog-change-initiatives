@@ -1,0 +1,51 @@
+id: dea:change-initiative-d40138864-morocco-mid-east-north-africa-afg-pak-metyea
+type: ChangeInitiative
+name: Morocco - MID EAST,NORTH AFRICA,AFG,PAK- P500402- Morocco Sustainable Oasis
+  Ecosystems Management Project - Procurement Plan (D40138864)
+description: 'Morocco - MID EAST,NORTH AFRICA,AFG,PAK- P500402- Morocco Sustainable
+  Oasis Ecosystems Management Project - Procurement Plan — a published World Bank
+  project document for the financed operation ''MA-Morocco Sustainable Oasis Ecosystems
+  Management Project -- P500402'' (country: Morocco; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-12).'
+version: 0.1.0
+lifecycle_status: active
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111226101557123/pdf/P500402-dc359b9e-c4bb-4aec-8721-54e8a5826ac3.pdf
+      (World Bank Documents & Records API; document D40138864; operation MA-Morocco
+      Sustainable Oasis Ecosystems Management Project -- P500402)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- world-bank
+- morocco

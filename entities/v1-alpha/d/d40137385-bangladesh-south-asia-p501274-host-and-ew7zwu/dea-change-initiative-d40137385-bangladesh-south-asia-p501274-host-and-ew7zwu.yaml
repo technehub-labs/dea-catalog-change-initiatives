@@ -1,0 +1,51 @@
+id: dea:change-initiative-d40137385-bangladesh-south-asia-p501274-host-and-ew7zwu
+type: ChangeInitiative
+name: Bangladesh - SOUTH ASIA- P501274- Host and Rohingya Enhancement of Lives Project
+  - Procurement Plan (D40137385)
+description: 'Bangladesh - SOUTH ASIA- P501274- Host and Rohingya Enhancement of Lives
+  Project - Procurement Plan — a published World Bank project document for the financed
+  operation ''BD-Host and Rohingya Enhancement of Lives Project -- P501274'' (country:
+  Bangladesh; lending instrument: Investment Project Financing; major theme: n/a;
+  document date 2026-11-04).'
+version: 0.1.0
+lifecycle_status: active
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110426000532249/pdf/P501274-ffa497a3-9525-43b3-bd9d-4d729b9deea8.pdf
+      (World Bank Documents & Records API; document D40137385; operation BD-Host and
+      Rohingya Enhancement of Lives Project -- P501274)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- world-bank
+- bangladesh
