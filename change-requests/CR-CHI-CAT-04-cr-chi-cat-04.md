@@ -1,6 +1,8 @@
-# CR-CHI-CAT-01: ChangeInitiative Candidate Admission Batch 02 (Official Documents- Disbursement and Financial Information Letter for Additional Financing for TF0C6881 and TF0C6868.pdf (D34442276) … World Bank project document facets (facets))
+# CR-CHI-CAT-04: ChangeInitiative Candidate Admission Batch 02 (Official Documents- Disbursement and Financial Information Letter for Additional Financing for TF0C6881 and TF0C6868.pdf (D34442276) … World Bank project document facets (facets))
 
 **Status**: Landed (this PR)
+
+**Numbering correction**: this CR landed under `CR-CHI-CAT-01`, colliding with the foundation/groundwork CR number of the same series. Renumbered to `CR-CHI-CAT-04` by the naming-correction CR (BC-01A renumbering precedent); content unchanged.
 **Layer**: Catalog content (candidate corpus admission)
 **Owner**: Emmanuel A. Otchere
 **Date**: 2026-11-15
