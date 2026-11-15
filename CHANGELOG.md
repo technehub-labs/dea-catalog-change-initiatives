@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### CR-CHI-CAT-07: Shard Subdivision (R5 Remedy)
+
+Over-cap shard subdivided into two-character sub-shards (R5 findings resolved); vendored toolchain upgraded to depth-3 shard walking; ids untouched.
+
 ### CR-CHI-CAT-06: Canonical Admission Wave
 
 999 ChangeInitiative records promoted from the candidate slot to the canonical slot (provenance ladder completed per record; evidence citations preserved; ids untouched). Index: canonical 999, candidates 0. All gates green.

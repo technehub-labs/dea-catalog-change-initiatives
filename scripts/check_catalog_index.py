@@ -94,7 +94,7 @@ def _grouped_subtree_dirs(entities_root: Path) -> list[Path]:
 def is_shard_dir(name: str) -> bool:
     """True for a shard directory: a single lowercase letter or the digit
     bucket `0-9` (entity-storage-layout.md §4 / CR-SVC-016 recipe)."""
-    return name == "0-9" or (len(name) == 1 and name.isalpha() and name.islower())
+    return name == "0-9" or (len(name) in (1, 2) and name.isalnum() and (name.islower() or name.isdigit()))
 
 
 def list_subtrees(catalog_root: Path) -> list[Path]:
@@ -118,7 +118,11 @@ def list_subtrees(catalog_root: Path) -> list[Path]:
         if not top.is_dir():
             continue
         if is_shard_dir(top.name):
-            out.extend(sorted(p for p in top.iterdir() if p.is_dir()))
+            for child in sorted(top.iterdir()):
+                if child.is_dir() and is_shard_dir(child.name):
+                    out.extend(sorted(p for p in child.iterdir() if p.is_dir()))
+                elif child.is_dir():
+                    out.append(child)
         elif _is_top_state_grouping(top, entities_root):
             out.extend(_grouped_subtree_dirs(entities_root))
         else:

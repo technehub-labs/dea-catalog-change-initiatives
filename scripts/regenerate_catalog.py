@@ -250,18 +250,20 @@ def _subtree_rel_dir(subtree: Path) -> str:
     truth; falls back to the flat form for subtrees outside an entities
     tree (unit-test fixtures).
     """
-    parent = subtree.parent
-    if parent.parent.name == "v1-alpha" and (
-        parent.name in STATE_DIRS or is_shard_dir(parent.name)
-    ):
-        return f"entities/v1-alpha/{parent.name}/{subtree.name}"
+    root = None
+    for anc in subtree.parents:
+        if anc.name == "v1-alpha":
+            root = anc
+            break
+    if root is not None:
+        return f"entities/v1-alpha/{subtree.relative_to(root).as_posix()}"
     return f"entities/v1-alpha/{subtree.name}"
 
 
 def is_shard_dir(name: str) -> bool:
     """True for a shard directory: a single lowercase letter or the digit
     bucket `0-9` (entity-storage-layout.md §4 / CR-SVC-016 recipe)."""
-    return name == "0-9" or (len(name) == 1 and name.isalpha() and name.islower())
+    return name == "0-9" or (len(name) in (1, 2) and name.isalnum() and (name.islower() or name.isdigit()))
 
 
 def list_subtrees(catalog_root: Path) -> list[Path]:
@@ -285,7 +287,12 @@ def list_subtrees(catalog_root: Path) -> list[Path]:
         if not top.is_dir():
             continue
         if is_shard_dir(top.name):
-            out.extend(sorted(p for p in top.iterdir() if p.is_dir()))
+            # shard dirs may nest one more level (subdivide remedy)
+            for child in sorted(top.iterdir()):
+                if child.is_dir() and is_shard_dir(child.name):
+                    out.extend(sorted(p for p in child.iterdir() if p.is_dir()))
+                elif child.is_dir():
+                    out.append(child)
         elif _is_top_state_grouping(top, entities_root):
             out.extend(_grouped_subtree_dirs(entities_root))
         else:
