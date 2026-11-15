@@ -1,26 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138068
-name: China - EAST ASIA AND PACIFIC- P173746- China Emerging Infectious Diseases Prevention, Preparedness
-  and Response Project - Procurement Plan (D40138068)
-description: 'China - EAST ASIA AND PACIFIC- P173746- China Emerging Infectious Diseases Prevention, Preparedness
-  and Response Project - Procurement Plan — a published World Bank project document for the financed operation
-  ''CN-China Emerging Infectious Diseases Prevention, Preparedness and Response Project -- P173746'' (country:
-  China; lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-08).'
+name: China - EAST ASIA AND PACIFIC- P173746- China Emerging Infectious Diseases Prevention,
+  Preparedness and Response Project - Procurement Plan (D40138068)
+description: 'China - EAST ASIA AND PACIFIC- P173746- China Emerging Infectious Diseases
+  Prevention, Preparedness and Response Project - Procurement Plan — a published World
+  Bank project document for the financed operation ''CN-China Emerging Infectious
+  Diseases Prevention, Preparedness and Response Project -- P173746'' (country: China;
+  lending instrument: Investment Project Financing; major theme: n/a; document date
+  2026-11-08).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110826122015042/pdf/P173746-1d3a8677-1d93-4e63-b206-040dfcec97ce.pdf
-      (World Bank Documents & Records API; document D40138068; operation CN-China Emerging Infectious
-      Diseases Prevention, Preparedness and Response Project -- P173746)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138068; operation CN-China
+      Emerging Infectious Diseases Prevention, Preparedness and Response Project --
+      P173746)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - china
 change_scope: structure
 slug: d40138068-china-east-asia-and-pacific-p173746-ch
+assigned_id: dea:change-initiative-d40138068-china-east-asia-and-pacific-p173746-ch-fvn9sg
+admitted: '2026-11-15'

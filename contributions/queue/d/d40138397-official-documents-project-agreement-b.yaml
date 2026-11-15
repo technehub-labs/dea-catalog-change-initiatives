@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138397
-name: Official Documents- Project Agreement between Bangladesh Chemical Industries Corporation (BCIC)
-  and Bangladesh Agricultural Development Corporation (BADC) and IDA for Credit 8109-BD.pdf (D40138397)
-description: 'Official Documents- Project Agreement between Bangladesh Chemical Industries Corporation
-  (BCIC) and Bangladesh Agricultural Development Corporation (BADC) and IDA for Credit 8109-BD.pdf — a
-  published World Bank project document for the financed operation ''BD-Emergency Support for Food Security
-  -- P517487'' (country: Bangladesh; lending instrument: Investment Project Financing; major theme: n/a;
-  document date 2026-11-08).'
+name: Official Documents- Project Agreement between Bangladesh Chemical Industries
+  Corporation (BCIC) and Bangladesh Agricultural Development Corporation (BADC) and
+  IDA for Credit 8109-BD.pdf (D40138397)
+description: 'Official Documents- Project Agreement between Bangladesh Chemical Industries
+  Corporation (BCIC) and Bangladesh Agricultural Development Corporation (BADC) and
+  IDA for Credit 8109-BD.pdf — a published World Bank project document for the financed
+  operation ''BD-Emergency Support for Food Security -- P517487'' (country: Bangladesh;
+  lending instrument: Investment Project Financing; major theme: n/a; document date
+  2026-11-08).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111026090014617/pdf/P517487-67cfdac3-a10f-4fe0-b332-32fc94fd5e1a.pdf
-      (World Bank Documents & Records API; document D40138397; operation BD-Emergency Support for Food
-      Security -- P517487)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138397; operation BD-Emergency
+      Support for Food Security -- P517487)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - bangladesh
 change_scope: structure
 slug: d40138397-official-documents-project-agreement-b
+assigned_id: dea:change-initiative-d40138397-official-documents-project-agreement-b-2yrevx
+admitted: '2026-11-15'

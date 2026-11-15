@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138796
-name: 'Disclosable Version of the ISR - Burundi Water Supply and Sanitation Access Project - P507207 -
-  Sequence No : 3 (D40138796)'
-description: 'Disclosable Version of the ISR - Burundi Water Supply and Sanitation Access Project - P507207
-  - Sequence No : 3 — a published World Bank project document for the financed operation ''BI-Burundi
-  Water Supply and Sanitation Access Project -- P507207'' (country: Burundi; lending instrument: Investment
-  Project Financing; major theme: n/a; document date 2026-11-12).'
+name: 'Disclosable Version of the ISR - Burundi Water Supply and Sanitation Access
+  Project - P507207 - Sequence No : 3 (D40138796)'
+description: 'Disclosable Version of the ISR - Burundi Water Supply and Sanitation
+  Access Project - P507207 - Sequence No : 3 — a published World Bank project document
+  for the financed operation ''BI-Burundi Water Supply and Sanitation Access Project
+  -- P507207'' (country: Burundi; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-12).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111226043518957/pdf/P507207-3d05ae09-395a-4d30-862a-564df906a634.pdf
-      (World Bank Documents & Records API; document D40138796; operation BI-Burundi Water Supply and Sanitation
-      Access Project -- P507207)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138796; operation BI-Burundi
+      Water Supply and Sanitation Access Project -- P507207)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - burundi
 change_scope: structure
 slug: d40138796-disclosable-version-of-the-isr-burundi
+assigned_id: dea:change-initiative-d40138796-disclosable-version-of-the-isr-burundi-rq37y4
+admitted: '2026-11-15'

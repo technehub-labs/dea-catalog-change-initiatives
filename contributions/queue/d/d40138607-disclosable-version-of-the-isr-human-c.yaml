@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138607
-name: 'Disclosable Version of the ISR - Human Capital Recovery & Resilience Program - P174399 - Sequence
-  No : 9 (D40138607)'
-description: 'Disclosable Version of the ISR - Human Capital Recovery & Resilience Program - P174399 -
-  Sequence No : 9 — a published World Bank project document for the financed operation ''BT-Human Capital
-  Recovery & Resilience Program -- P174399'' (country: Bhutan; lending instrument: Program-for-Results
-  Financing; major theme: n/a; document date 2026-11-11).'
+name: 'Disclosable Version of the ISR - Human Capital Recovery & Resilience Program
+  - P174399 - Sequence No : 9 (D40138607)'
+description: 'Disclosable Version of the ISR - Human Capital Recovery & Resilience
+  Program - P174399 - Sequence No : 9 — a published World Bank project document for
+  the financed operation ''BT-Human Capital Recovery & Resilience Program -- P174399''
+  (country: Bhutan; lending instrument: Program-for-Results Financing; major theme:
+  n/a; document date 2026-11-11).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111126091542126/pdf/P174399-ef86edc4-8fa4-4e69-8984-67b05275e27a.pdf
-      (World Bank Documents & Records API; document D40138607; operation BT-Human Capital Recovery & Resilience
-      Program -- P174399)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138607; operation BT-Human
+      Capital Recovery & Resilience Program -- P174399)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - bhutan
 change_scope: structure
 slug: d40138607-disclosable-version-of-the-isr-human-c
+assigned_id: dea:change-initiative-d40138607-disclosable-version-of-the-isr-human-c-ndq4cu
+admitted: '2026-11-15'

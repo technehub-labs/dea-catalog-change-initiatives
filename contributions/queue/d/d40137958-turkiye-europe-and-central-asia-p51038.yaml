@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137958
-name: 'Turkiye - EUROPE AND CENTRAL ASIA- P510381- T?rkiye: Education for Job Market Readiness - Procurement
-  Plan (D40137958)'
-description: 'Turkiye - EUROPE AND CENTRAL ASIA- P510381- T?rkiye: Education for Job Market Readiness
-  - Procurement Plan — a published World Bank project document for the financed operation ''TR-Türkiye:
-  Education for Job Market Readiness -- P510381'' (country: Turkiye; lending instrument: Investment Project
-  Financing; major theme: n/a; document date 2026-11-06).'
+name: 'Turkiye - EUROPE AND CENTRAL ASIA- P510381- T?rkiye: Education for Job Market
+  Readiness - Procurement Plan (D40137958)'
+description: 'Turkiye - EUROPE AND CENTRAL ASIA- P510381- T?rkiye: Education for Job
+  Market Readiness - Procurement Plan — a published World Bank project document for
+  the financed operation ''TR-Türkiye: Education for Job Market Readiness -- P510381''
+  (country: Turkiye; lending instrument: Investment Project Financing; major theme:
+  n/a; document date 2026-11-06).'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://documents.worldbank.org/curated/en/099110626131512074/pdf/P510381-19565a8c-6cde-4e16-ae84-33f513518a45.pdf
-      (World Bank Documents & Records API; document D40137958; operation TR-Türkiye: Education for Job
-      Market Readiness -- P510381)'
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137958; operation TR-Türkiye:
+      Education for Job Market Readiness -- P510381)'
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - turkiye
 change_scope: structure
 slug: d40137958-turkiye-europe-and-central-asia-p51038
+assigned_id: dea:change-initiative-d40137958-turkiye-europe-and-central-asia-p51038-uqcx9v
+admitted: '2026-11-15'

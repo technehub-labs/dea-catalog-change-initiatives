@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138588
-name: Sierra Leone - WESTERN AND CENTRAL AFRICA- P167897- Sierra Leone Free Education Project - Procurement
-  Plan (D40138588)
-description: 'Sierra Leone - WESTERN AND CENTRAL AFRICA- P167897- Sierra Leone Free Education Project
-  - Procurement Plan — a published World Bank project document for the financed operation ''SL-Sierra
-  Leone Free Education Project -- P167897'' (country: Sierra Leone; lending instrument: Investment Project
-  Financing; major theme: n/a; document date 2026-11-11).'
+name: Sierra Leone - WESTERN AND CENTRAL AFRICA- P167897- Sierra Leone Free Education
+  Project - Procurement Plan (D40138588)
+description: 'Sierra Leone - WESTERN AND CENTRAL AFRICA- P167897- Sierra Leone Free
+  Education Project - Procurement Plan — a published World Bank project document for
+  the financed operation ''SL-Sierra Leone Free Education Project -- P167897'' (country:
+  Sierra Leone; lending instrument: Investment Project Financing; major theme: n/a;
+  document date 2026-11-11).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111126071015285/pdf/P167897-56a9d620-c71d-4776-bc9d-9889f4787536.pdf
-      (World Bank Documents & Records API; document D40138588; operation SL-Sierra Leone Free Education
-      Project -- P167897)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138588; operation SL-Sierra
+      Leone Free Education Project -- P167897)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - sierra-leone
 change_scope: structure
 slug: d40138588-sierra-leone-western-and-central-afric
+assigned_id: dea:change-initiative-d40138588-sierra-leone-western-and-central-afric-thh8t7
+admitted: '2026-11-15'

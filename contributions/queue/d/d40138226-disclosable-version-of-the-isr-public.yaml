@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138226
-name: 'Disclosable Version of the ISR - Public Financial Management for Development Effectiveness Project
-  - P505226 - Sequence No : 3 (D40138226)'
-description: 'Disclosable Version of the ISR - Public Financial Management for Development Effectiveness
-  Project - P505226 - Sequence No : 3 — a published World Bank project document for the financed operation
-  ''NP-Public Financial Management for Development Effectiveness Project -- P505226'' (country: Nepal;
-  lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-09).'
+name: 'Disclosable Version of the ISR - Public Financial Management for Development
+  Effectiveness Project - P505226 - Sequence No : 3 (D40138226)'
+description: 'Disclosable Version of the ISR - Public Financial Management for Development
+  Effectiveness Project - P505226 - Sequence No : 3 — a published World Bank project
+  document for the financed operation ''NP-Public Financial Management for Development
+  Effectiveness Project -- P505226'' (country: Nepal; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-09).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110926113512840/pdf/P505226-9fe16139-6532-453f-a350-4bb204c4889c.pdf
-      (World Bank Documents & Records API; document D40138226; operation NP-Public Financial Management
-      for Development Effectiveness Project -- P505226)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138226; operation NP-Public
+      Financial Management for Development Effectiveness Project -- P505226)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - nepal
 change_scope: structure
 slug: d40138226-disclosable-version-of-the-isr-public
+assigned_id: dea:change-initiative-d40138226-disclosable-version-of-the-isr-public-8d2ts4
+admitted: '2026-11-15'

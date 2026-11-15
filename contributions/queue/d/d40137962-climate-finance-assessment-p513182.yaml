@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137962
 name: Climate Finance Assessment (P513182) (D40137962)
-description: 'Climate Finance Assessment (P513182) — a published World Bank project document for the financed
-  operation ''MK-Improving Public Expenditure, Accountability and Tax Administration in North Macedonia
-  (IMPACT) -- P513182'' (country: North Macedonia; lending instrument: Program-for-Results Financing;
-  major theme: n/a; document date 2026-11-06).'
+description: 'Climate Finance Assessment (P513182) — a published World Bank project
+  document for the financed operation ''MK-Improving Public Expenditure, Accountability
+  and Tax Administration in North Macedonia (IMPACT) -- P513182'' (country: North
+  Macedonia; lending instrument: Program-for-Results Financing; major theme: n/a;
+  document date 2026-11-06).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110626132050539/pdf/P513182-6489d0ca-305e-4c9d-9b9d-e0c29a69bbf3.pdf
-      (World Bank Documents & Records API; document D40137962; operation MK-Improving Public Expenditure,
-      Accountability and Tax Administration in North Macedonia (IMPACT) -- P513182)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137962; operation MK-Improving
+      Public Expenditure, Accountability and Tax Administration in North Macedonia
+      (IMPACT) -- P513182)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - north-macedonia
 change_scope: structure
 slug: d40137962-climate-finance-assessment-p513182
+assigned_id: dea:change-initiative-d40137962-climate-finance-assessment-p513182-9pkseq
+admitted: '2026-11-15'

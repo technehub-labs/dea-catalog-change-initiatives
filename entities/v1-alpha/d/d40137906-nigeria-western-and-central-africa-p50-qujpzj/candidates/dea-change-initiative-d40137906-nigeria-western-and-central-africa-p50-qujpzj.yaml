@@ -1,0 +1,41 @@
+id: dea:change-initiative-d40137906-nigeria-western-and-central-africa-p50-qujpzj
+type: ChangeInitiative
+name: Nigeria - WESTERN AND CENTRAL AFRICA- P508383- Building Resilient Digital Infrastructure
+  for Growth - BRIDGE - Procurement Plan (D40137906)
+description: 'Nigeria - WESTERN AND CENTRAL AFRICA- P508383- Building Resilient Digital
+  Infrastructure for Growth - BRIDGE - Procurement Plan — a published World Bank project
+  document for the financed operation ''NG-Building Resilient Digital Infrastructure
+  for Growth - BRIDGE -- P508383'' (country: Nigeria; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-06).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110626085061834/pdf/P508383-a706927a-d0a3-4875-849e-ea110e83648b.pdf
+      (World Bank Documents & Records API; document D40137906; operation NG-Building
+      Resilient Digital Infrastructure for Growth - BRIDGE -- P508383)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- nigeria

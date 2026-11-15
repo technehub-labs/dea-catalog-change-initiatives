@@ -1,26 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137479
-name: Cabo Verde - WESTERN AND CENTRAL AFRICA- P171099- Digital Cabo Verde Project - Procurement Plan
-  (D40137479)
-description: 'Cabo Verde - WESTERN AND CENTRAL AFRICA- P171099- Digital Cabo Verde Project - Procurement
-  Plan — a published World Bank project document for the financed operation ''CV-Digital Cabo Verde Project
-  -- P171099'' (country: Cabo Verde; lending instrument: Investment Project Financing; major theme: n/a;
-  document date 2026-11-04).'
+name: Cabo Verde - WESTERN AND CENTRAL AFRICA- P171099- Digital Cabo Verde Project
+  - Procurement Plan (D40137479)
+description: 'Cabo Verde - WESTERN AND CENTRAL AFRICA- P171099- Digital Cabo Verde
+  Project - Procurement Plan — a published World Bank project document for the financed
+  operation ''CV-Digital Cabo Verde Project -- P171099'' (country: Cabo Verde; lending
+  instrument: Investment Project Financing; major theme: n/a; document date 2026-11-04).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110426092011710/pdf/P171099-84c8a3aa-bf27-40b1-a9f2-1bd4d26c1b0e.pdf
-      (World Bank Documents & Records API; document D40137479; operation CV-Digital Cabo Verde Project
-      -- P171099)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137479; operation CV-Digital
+      Cabo Verde Project -- P171099)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - cabo-verde
 change_scope: structure
 slug: d40137479-cabo-verde-western-and-central-africa
+assigned_id: dea:change-initiative-d40137479-cabo-verde-western-and-central-africa-6tn6g7
+admitted: '2026-11-15'

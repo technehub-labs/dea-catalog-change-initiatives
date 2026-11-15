@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137963
 name: Climate Finance Assessment (P513560) (D40137963)
-description: 'Climate Finance Assessment (P513560) — a published World Bank project document for the financed
-  operation ''MZ-Agribusiness Value Chains Development Program -- P513560'' (country: Mozambique; lending
-  instrument: Program-for-Results Financing; major theme: n/a; document date 2026-11-06).'
+description: 'Climate Finance Assessment (P513560) — a published World Bank project
+  document for the financed operation ''MZ-Agribusiness Value Chains Development Program
+  -- P513560'' (country: Mozambique; lending instrument: Program-for-Results Financing;
+  major theme: n/a; document date 2026-11-06).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110626132019002/pdf/P513560-7988fa41-c04e-46a5-9ddf-2e53af32ddcf.pdf
-      (World Bank Documents & Records API; document D40137963; operation MZ-Agribusiness Value Chains
-      Development Program -- P513560)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137963; operation MZ-Agribusiness
+      Value Chains Development Program -- P513560)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - mozambique
 change_scope: structure
 slug: d40137963-climate-finance-assessment-p513560
+assigned_id: dea:change-initiative-d40137963-climate-finance-assessment-p513560-97g3uy
+admitted: '2026-11-15'

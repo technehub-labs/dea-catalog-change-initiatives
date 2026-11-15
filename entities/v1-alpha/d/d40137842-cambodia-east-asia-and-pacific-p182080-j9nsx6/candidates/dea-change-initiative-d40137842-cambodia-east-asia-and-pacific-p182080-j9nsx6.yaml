@@ -1,0 +1,41 @@
+id: dea:change-initiative-d40137842-cambodia-east-asia-and-pacific-p182080-j9nsx6
+type: ChangeInitiative
+name: Cambodia - EAST ASIA AND PACIFIC- P182080- Cambodia Sustainable Energy Transition
+  Project Preparation - Procurement Plan (D40137842)
+description: 'Cambodia - EAST ASIA AND PACIFIC- P182080- Cambodia Sustainable Energy
+  Transition Project Preparation - Procurement Plan — a published World Bank project
+  document for the financed operation ''KH-Cambodia Sustainable Energy Transition
+  Project Preparation -- P182080'' (country: Cambodia; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-06).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110626011539893/pdf/P182080-19045edf-2bab-4008-b19f-909282eed452.pdf
+      (World Bank Documents & Records API; document D40137842; operation KH-Cambodia
+      Sustainable Energy Transition Project Preparation -- P182080)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- cambodia

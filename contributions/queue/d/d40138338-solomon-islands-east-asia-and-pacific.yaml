@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138338
-name: Solomon Islands - EAST ASIA AND PACIFIC- P181295- Community Access and Urban Services Enhancement
-  Project II  - Procurement Plan (D40138338)
-description: 'Solomon Islands - EAST ASIA AND PACIFIC- P181295- Community Access and Urban Services Enhancement
-  Project II  - Procurement Plan — a published World Bank project document for the financed operation
-  ''SB-Community Access and Urban Services Enhancement Project II -- P181295'' (country: Solomon Islands;
-  lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-10).'
+name: Solomon Islands - EAST ASIA AND PACIFIC- P181295- Community Access and Urban
+  Services Enhancement Project II  - Procurement Plan (D40138338)
+description: 'Solomon Islands - EAST ASIA AND PACIFIC- P181295- Community Access and
+  Urban Services Enhancement Project II  - Procurement Plan — a published World Bank
+  project document for the financed operation ''SB-Community Access and Urban Services
+  Enhancement Project II -- P181295'' (country: Solomon Islands; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-10).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111026050510035/pdf/P181295-5f8d7bb9-77fc-440e-9c88-7c0198f6c290.pdf
-      (World Bank Documents & Records API; document D40138338; operation SB-Community Access and Urban
-      Services Enhancement Project II -- P181295)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138338; operation SB-Community
+      Access and Urban Services Enhancement Project II -- P181295)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - solomon-islands
 change_scope: structure
 slug: d40138338-solomon-islands-east-asia-and-pacific
+assigned_id: dea:change-initiative-d40138338-solomon-islands-east-asia-and-pacific-j6mk7c
+admitted: '2026-11-15'

@@ -1,23 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138716
-name: Georgia - EUROPE AND CENTRAL ASIA- P169698- Log-In Georgia - Procurement Plan (D40138716)
-description: 'Georgia - EUROPE AND CENTRAL ASIA- P169698- Log-In Georgia - Procurement Plan — a published
-  World Bank project document for the financed operation ''GE-Log-In Georgia -- P169698'' (country: Georgia;
-  lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-12).'
+name: Georgia - EUROPE AND CENTRAL ASIA- P169698- Log-In Georgia - Procurement Plan
+  (D40138716)
+description: 'Georgia - EUROPE AND CENTRAL ASIA- P169698- Log-In Georgia - Procurement
+  Plan — a published World Bank project document for the financed operation ''GE-Log-In
+  Georgia -- P169698'' (country: Georgia; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-12).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111226001040152/pdf/P169698-aa8e75d8-a0e9-4dee-8080-eb6de3dbda00.pdf
-      (World Bank Documents & Records API; document D40138716; operation GE-Log-In Georgia -- P169698)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138716; operation GE-Log-In
+      Georgia -- P169698)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - georgia
 change_scope: structure
 slug: d40138716-georgia-europe-and-central-asia-p16969
+assigned_id: dea:change-initiative-d40138716-georgia-europe-and-central-asia-p16969-twzzt2
+admitted: '2026-11-15'

@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137674
-name: 'Disclosable Version of the ISR - PHSPP: Transforming India’s Public Health Systems for Pandemic
-  Preparedness Program - P175676 - Sequence No : 11 (D40137674)'
-description: 'Disclosable Version of the ISR - PHSPP: Transforming India’s Public Health Systems for Pandemic
-  Preparedness Program - P175676 - Sequence No : 11 — a published World Bank project document for the
-  financed operation ''IN-PHSPP: Transforming India’s Public Health Systems for Pandemic Preparedness
-  Program -- P175676'' (country: India; lending instrument: Program-for-Results Financing; major theme:
-  n/a; document date 2026-11-05).'
+name: 'Disclosable Version of the ISR - PHSPP: Transforming India’s Public Health
+  Systems for Pandemic Preparedness Program - P175676 - Sequence No : 11 (D40137674)'
+description: 'Disclosable Version of the ISR - PHSPP: Transforming India’s Public
+  Health Systems for Pandemic Preparedness Program - P175676 - Sequence No : 11 —
+  a published World Bank project document for the financed operation ''IN-PHSPP: Transforming
+  India’s Public Health Systems for Pandemic Preparedness Program -- P175676'' (country:
+  India; lending instrument: Program-for-Results Financing; major theme: n/a; document
+  date 2026-11-05).'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://documents.worldbank.org/curated/en/099110526061022037/pdf/P175676-7c3ac191-91b6-40f8-843c-104961750d74.pdf
-      (World Bank Documents & Records API; document D40137674; operation IN-PHSPP: Transforming India’s
-      Public Health Systems for Pandemic Preparedness Program -- P175676)'
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137674; operation IN-PHSPP:
+      Transforming India’s Public Health Systems for Pandemic Preparedness Program
+      -- P175676)'
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - india
 change_scope: structure
 slug: d40137674-disclosable-version-of-the-isr-phspp-t
+assigned_id: dea:change-initiative-d40137674-disclosable-version-of-the-isr-phspp-t-6rvzse
+admitted: '2026-11-15'

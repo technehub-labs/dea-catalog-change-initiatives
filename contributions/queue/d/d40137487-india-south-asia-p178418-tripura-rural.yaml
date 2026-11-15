@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137487
-name: India - SOUTH ASIA- P178418- Tripura Rural Economic Growth and Service Delivery Project - Procurement
-  Plan (D40137487)
-description: 'India - SOUTH ASIA- P178418- Tripura Rural Economic Growth and Service Delivery Project
-  - Procurement Plan — a published World Bank project document for the financed operation ''IN-Tripura
-  Rural Economic Growth and Service Delivery Project -- P178418'' (country: India; lending instrument:
-  Investment Project Financing; major theme: n/a; document date 2026-11-04).'
+name: India - SOUTH ASIA- P178418- Tripura Rural Economic Growth and Service Delivery
+  Project - Procurement Plan (D40137487)
+description: 'India - SOUTH ASIA- P178418- Tripura Rural Economic Growth and Service
+  Delivery Project - Procurement Plan — a published World Bank project document for
+  the financed operation ''IN-Tripura Rural Economic Growth and Service Delivery Project
+  -- P178418'' (country: India; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-04).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110426094529229/pdf/P178418-3ee98676-7513-456f-80dc-fea7dae827de.pdf
-      (World Bank Documents & Records API; document D40137487; operation IN-Tripura Rural Economic Growth
-      and Service Delivery Project -- P178418)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137487; operation IN-Tripura
+      Rural Economic Growth and Service Delivery Project -- P178418)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - india
 change_scope: structure
 slug: d40137487-india-south-asia-p178418-tripura-rural
+assigned_id: dea:change-initiative-d40137487-india-south-asia-p178418-tripura-rural-r6zrq5
+admitted: '2026-11-15'

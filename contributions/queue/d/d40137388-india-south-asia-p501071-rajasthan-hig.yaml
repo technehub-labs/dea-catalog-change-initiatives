@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137388
-name: India - SOUTH ASIA- P501071- Rajasthan Highway Modernization Project (RHMP)  - Procurement Plan
-  (D40137388)
-description: 'India - SOUTH ASIA- P501071- Rajasthan Highway Modernization Project (RHMP)  - Procurement
-  Plan — a published World Bank project document for the financed operation ''IN-Rajasthan Highway Modernization
-  Project (RHMP) -- P501071'' (country: India; lending instrument: Investment Project Financing; major
-  theme: n/a; document date 2026-11-04).'
+name: India - SOUTH ASIA- P501071- Rajasthan Highway Modernization Project (RHMP)  -
+  Procurement Plan (D40137388)
+description: 'India - SOUTH ASIA- P501071- Rajasthan Highway Modernization Project
+  (RHMP)  - Procurement Plan — a published World Bank project document for the financed
+  operation ''IN-Rajasthan Highway Modernization Project (RHMP) -- P501071'' (country:
+  India; lending instrument: Investment Project Financing; major theme: n/a; document
+  date 2026-11-04).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110426005734998/pdf/P501071-2b6a02ee-93a9-4425-a08d-3cc999bb9ef5.pdf
-      (World Bank Documents & Records API; document D40137388; operation IN-Rajasthan Highway Modernization
-      Project (RHMP) -- P501071)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137388; operation IN-Rajasthan
+      Highway Modernization Project (RHMP) -- P501071)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - india
 change_scope: structure
 slug: d40137388-india-south-asia-p501071-rajasthan-hig
+assigned_id: dea:change-initiative-d40137388-india-south-asia-p501071-rajasthan-hig-e99adh
+admitted: '2026-11-15'

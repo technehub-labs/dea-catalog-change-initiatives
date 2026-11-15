@@ -1,0 +1,45 @@
+id: dea:change-initiative-d40137631-eastern-and-southern-africa-eastern-an-8zrp35
+type: ChangeInitiative
+name: Eastern and Southern Africa - EASTERN AND SOUTHERN AFRICA- P512975- Regional
+  Acceleration Project 1 under the Africa Resilient Irrigation for Sustainable Economies
+  Multi-Phase Approach (RISE-RAP) - Pr
+description: 'Eastern and Southern Africa - EASTERN AND SOUTHERN AFRICA- P512975-
+  Regional Acceleration Project 1 under the Africa Resilient Irrigation for Sustainable
+  Economies Multi-Phase Approach (RISE-RAP) - Procurement Plan — a published World
+  Bank project document for the financed operation ''3E-Regional Acceleration Project
+  1 under the Africa Resilient Irrigation for Sustainable Economies Multi-Phase Approach
+  (RISE-RAP) -- P512975'' (country: Eastern and Southern Africa; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-05).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110526020027872/pdf/P512975-09418d84-e805-4982-83fe-03d0056fd5c7.pdf
+      (World Bank Documents & Records API; document D40137631; operation 3E-Regional
+      Acceleration Project 1 under the Africa Resilient Irrigation for Sustainable
+      Economies Multi-Phase Approach (RISE-RAP) -- P512975)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- eastern-and-southern

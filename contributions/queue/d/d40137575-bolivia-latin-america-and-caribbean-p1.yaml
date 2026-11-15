@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137575
-name: Bolivia - LATIN AMERICA AND CARIBBEAN- P175672- Innovation for Resilient Food Systems (Alianzas
-  Rurales - PAR III) Project - Procurement Plan (D40137575)
-description: 'Bolivia - LATIN AMERICA AND CARIBBEAN- P175672- Innovation for Resilient Food Systems (Alianzas
-  Rurales - PAR III) Project - Procurement Plan — a published World Bank project document for the financed
-  operation ''BO-Innovation for Resilient Food Systems (Alianzas Rurales - PAR III) Project -- P175672''
-  (country: Bolivia; lending instrument: Investment Project Financing; major theme: n/a; document date
+name: Bolivia - LATIN AMERICA AND CARIBBEAN- P175672- Innovation for Resilient Food
+  Systems (Alianzas Rurales - PAR III) Project - Procurement Plan (D40137575)
+description: 'Bolivia - LATIN AMERICA AND CARIBBEAN- P175672- Innovation for Resilient
+  Food Systems (Alianzas Rurales - PAR III) Project - Procurement Plan — a published
+  World Bank project document for the financed operation ''BO-Innovation for Resilient
+  Food Systems (Alianzas Rurales - PAR III) Project -- P175672'' (country: Bolivia;
+  lending instrument: Investment Project Financing; major theme: n/a; document date
   2026-11-04).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110426185529345/pdf/P175672-78c428fa-08da-490e-b6a9-ddd911db0532.pdf
-      (World Bank Documents & Records API; document D40137575; operation BO-Innovation for Resilient Food
-      Systems (Alianzas Rurales - PAR III) Project -- P175672)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137575; operation BO-Innovation
+      for Resilient Food Systems (Alianzas Rurales - PAR III) Project -- P175672)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - bolivia
 change_scope: structure
 slug: d40137575-bolivia-latin-america-and-caribbean-p1
+assigned_id: dea:change-initiative-d40137575-bolivia-latin-america-and-caribbean-p1-bje69d
+admitted: '2026-11-15'

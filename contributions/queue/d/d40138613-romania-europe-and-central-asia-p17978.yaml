@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138613
-name: Romania - EUROPE AND CENTRAL ASIA- P179786- Romania Rural Pollution Prevention and Reduction Project
-  (RAPID) - Procurement Plan (D40138613)
-description: 'Romania - EUROPE AND CENTRAL ASIA- P179786- Romania Rural Pollution Prevention and Reduction
-  Project (RAPID) - Procurement Plan — a published World Bank project document for the financed operation
-  ''RO-Romania Rural Pollution Prevention and Reduction Project (RAPID) -- P179786'' (country: Romania;
-  lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-11).'
+name: Romania - EUROPE AND CENTRAL ASIA- P179786- Romania Rural Pollution Prevention
+  and Reduction Project (RAPID) - Procurement Plan (D40138613)
+description: 'Romania - EUROPE AND CENTRAL ASIA- P179786- Romania Rural Pollution
+  Prevention and Reduction Project (RAPID) - Procurement Plan — a published World
+  Bank project document for the financed operation ''RO-Romania Rural Pollution Prevention
+  and Reduction Project (RAPID) -- P179786'' (country: Romania; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-11).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111126094026516/pdf/P179786-4b22e58e-bcde-4474-b85a-05342dfd7c15.pdf
-      (World Bank Documents & Records API; document D40138613; operation RO-Romania Rural Pollution Prevention
-      and Reduction Project (RAPID) -- P179786)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138613; operation RO-Romania
+      Rural Pollution Prevention and Reduction Project (RAPID) -- P179786)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - romania
 change_scope: structure
 slug: d40138613-romania-europe-and-central-asia-p17978
+assigned_id: dea:change-initiative-d40138613-romania-europe-and-central-asia-p17978-7am2b8
+admitted: '2026-11-15'

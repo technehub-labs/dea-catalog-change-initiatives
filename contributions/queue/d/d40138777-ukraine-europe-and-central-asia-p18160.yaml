@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138777
-name: Ukraine - EUROPE AND CENTRAL ASIA- P181604- Center for Advancement in Restoration and Modernization
-  Capacity - Procurement Plan (D40138777)
-description: 'Ukraine - EUROPE AND CENTRAL ASIA- P181604- Center for Advancement in Restoration and Modernization
-  Capacity - Procurement Plan — a published World Bank project document for the financed operation ''UA-Center
-  for Advancement in Restoration and Modernization Capacity -- P181604'' (country: Ukraine; lending instrument:
-  Investment Project Financing; major theme: n/a; document date 2026-11-12).'
+name: Ukraine - EUROPE AND CENTRAL ASIA- P181604- Center for Advancement in Restoration
+  and Modernization Capacity - Procurement Plan (D40138777)
+description: 'Ukraine - EUROPE AND CENTRAL ASIA- P181604- Center for Advancement in
+  Restoration and Modernization Capacity - Procurement Plan — a published World Bank
+  project document for the financed operation ''UA-Center for Advancement in Restoration
+  and Modernization Capacity -- P181604'' (country: Ukraine; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-12).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111226040030882/pdf/P181604-51213f2a-4b30-4bb2-9625-6201b51f7084.pdf
-      (World Bank Documents & Records API; document D40138777; operation UA-Center for Advancement in
-      Restoration and Modernization Capacity -- P181604)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138777; operation UA-Center
+      for Advancement in Restoration and Modernization Capacity -- P181604)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - ukraine
 change_scope: structure
 slug: d40138777-ukraine-europe-and-central-asia-p18160
+assigned_id: dea:change-initiative-d40138777-ukraine-europe-and-central-asia-p18160-vrkg83
+admitted: '2026-11-15'

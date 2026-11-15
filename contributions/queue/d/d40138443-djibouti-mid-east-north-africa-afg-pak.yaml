@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138443
-name: Djibouti - MID EAST,NORTH AFRICA,AFG,PAK- P182067- Djibouti Economic Diversification PforR - Procurement
-  Plan (D40138443)
-description: 'Djibouti - MID EAST,NORTH AFRICA,AFG,PAK- P182067- Djibouti Economic Diversification PforR
-  - Procurement Plan — a published World Bank project document for the financed operation ''DJ-Djibouti
-  Economic Diversification PforR -- P182067'' (country: Djibouti; lending instrument: Investment Project
-  Financing; major theme: n/a; document date 2026-11-10).'
+name: Djibouti - MID EAST,NORTH AFRICA,AFG,PAK- P182067- Djibouti Economic Diversification
+  PforR - Procurement Plan (D40138443)
+description: 'Djibouti - MID EAST,NORTH AFRICA,AFG,PAK- P182067- Djibouti Economic
+  Diversification PforR - Procurement Plan — a published World Bank project document
+  for the financed operation ''DJ-Djibouti Economic Diversification PforR -- P182067''
+  (country: Djibouti; lending instrument: Investment Project Financing; major theme:
+  n/a; document date 2026-11-10).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111026123021865/pdf/P182067-c726ab17-5b26-42c4-a08d-0bb953a90e40.pdf
-      (World Bank Documents & Records API; document D40138443; operation DJ-Djibouti Economic Diversification
-      PforR -- P182067)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138443; operation DJ-Djibouti
+      Economic Diversification PforR -- P182067)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - djibouti
 change_scope: structure
 slug: d40138443-djibouti-mid-east-north-africa-afg-pak
+assigned_id: dea:change-initiative-d40138443-djibouti-mid-east-north-africa-afg-pak-3wdtq9
+admitted: '2026-11-15'

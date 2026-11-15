@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138683
 name: Marshall Islands - RMI Education   Skills (D40138683)
-description: 'Marshall Islands - RMI Education   Skills — a published World Bank project document for
-  the financed operation ''MH-RMI Education and Skills Strengthening Project -- P171924'' (country: Marshall
-  Islands; lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-11).'
+description: 'Marshall Islands - RMI Education   Skills — a published World Bank project
+  document for the financed operation ''MH-RMI Education and Skills Strengthening
+  Project -- P171924'' (country: Marshall Islands; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-11).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111126171030118/pdf/P171924-ff83a0d2-f08e-494d-b0d8-409f6e95fcd4.pdf
-      (World Bank Documents & Records API; document D40138683; operation MH-RMI Education and Skills Strengthening
-      Project -- P171924)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138683; operation MH-RMI Education
+      and Skills Strengthening Project -- P171924)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - marshall-islands
 change_scope: structure
 slug: d40138683-marshall-islands-rmi-education-skills
+assigned_id: dea:change-initiative-d40138683-marshall-islands-rmi-education-skills-95z5ma
+admitted: '2026-11-15'

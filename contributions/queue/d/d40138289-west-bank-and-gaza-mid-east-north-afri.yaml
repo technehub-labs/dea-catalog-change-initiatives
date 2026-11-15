@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138289
-name: West Bank and Gaza - MID EAST,NORTH AFRICA,AFG,PAK- P177742- Public Financial Management Improvement
-  Project Phase 2 - Procurement Plan (D40138289)
-description: 'West Bank and Gaza - MID EAST,NORTH AFRICA,AFG,PAK- P177742- Public Financial Management
-  Improvement Project Phase 2 - Procurement Plan — a published World Bank project document for the financed
-  operation ''GZ-Public Financial Management Improvement Project Phase 2 -- P177742'' (country: West Bank
-  and Gaza; lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-10).'
+name: West Bank and Gaza - MID EAST,NORTH AFRICA,AFG,PAK- P177742- Public Financial
+  Management Improvement Project Phase 2 - Procurement Plan (D40138289)
+description: 'West Bank and Gaza - MID EAST,NORTH AFRICA,AFG,PAK- P177742- Public
+  Financial Management Improvement Project Phase 2 - Procurement Plan — a published
+  World Bank project document for the financed operation ''GZ-Public Financial Management
+  Improvement Project Phase 2 -- P177742'' (country: West Bank and Gaza; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-10).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111026002019465/pdf/P177742-91f1db95-d21f-436e-bc90-d8cd5b3e9839.pdf
-      (World Bank Documents & Records API; document D40138289; operation GZ-Public Financial Management
-      Improvement Project Phase 2 -- P177742)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138289; operation GZ-Public
+      Financial Management Improvement Project Phase 2 -- P177742)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - west-bank-and-gaza
 change_scope: structure
 slug: d40138289-west-bank-and-gaza-mid-east-north-afri
+assigned_id: dea:change-initiative-d40138289-west-bank-and-gaza-mid-east-north-afri-33qgxc
+admitted: '2026-11-15'

@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138124
-name: Readiness Environmental and Social Review Summary (ESRS) - Roads for Rural Economic Development
-  Project - P517267 (D40138124)
-description: 'Readiness Environmental and Social Review Summary (ESRS) - Roads for Rural Economic Development
-  Project - P517267 — a published World Bank project document for the financed operation ''KE-Roads for
-  Rural Economic Development Project -- P517267'' (country: Kenya; lending instrument: Investment Project
-  Financing; major theme: n/a; document date 2026-11-09).'
+name: Readiness Environmental and Social Review Summary (ESRS) - Roads for Rural Economic
+  Development Project - P517267 (D40138124)
+description: 'Readiness Environmental and Social Review Summary (ESRS) - Roads for
+  Rural Economic Development Project - P517267 — a published World Bank project document
+  for the financed operation ''KE-Roads for Rural Economic Development Project --
+  P517267'' (country: Kenya; lending instrument: Investment Project Financing; major
+  theme: n/a; document date 2026-11-09).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110926023515201/pdf/P517267-b1f7877a-039c-4a6e-a65c-a2acd130cc99.pdf
-      (World Bank Documents & Records API; document D40138124; operation KE-Roads for Rural Economic Development
-      Project -- P517267)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138124; operation KE-Roads
+      for Rural Economic Development Project -- P517267)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - kenya
 change_scope: structure
 slug: d40138124-readiness-environmental-and-social-rev
+assigned_id: dea:change-initiative-d40138124-readiness-environmental-and-social-rev-3z9mwc
+admitted: '2026-11-15'

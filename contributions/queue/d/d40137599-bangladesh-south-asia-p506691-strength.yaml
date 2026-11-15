@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137599
-name: Bangladesh - SOUTH ASIA- P506691- Strengthening Institutions for Transparency and Accountability
-  (SITA) - Procurement Plan (D40137599)
-description: 'Bangladesh - SOUTH ASIA- P506691- Strengthening Institutions for Transparency and Accountability
-  (SITA) - Procurement Plan — a published World Bank project document for the financed operation ''BD-Strengthening
-  Institutions for Transparency and Accountability (SITA) -- P506691'' (country: Bangladesh; lending instrument:
-  Investment Project Financing; major theme: n/a; document date 2026-11-05).'
+name: Bangladesh - SOUTH ASIA- P506691- Strengthening Institutions for Transparency
+  and Accountability (SITA) - Procurement Plan (D40137599)
+description: 'Bangladesh - SOUTH ASIA- P506691- Strengthening Institutions for Transparency
+  and Accountability (SITA) - Procurement Plan — a published World Bank project document
+  for the financed operation ''BD-Strengthening Institutions for Transparency and
+  Accountability (SITA) -- P506691'' (country: Bangladesh; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-05).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110526002535197/pdf/P506691-87456406-d9db-4a71-b195-4f3ce10bf775.pdf
-      (World Bank Documents & Records API; document D40137599; operation BD-Strengthening Institutions
-      for Transparency and Accountability (SITA) -- P506691)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137599; operation BD-Strengthening
+      Institutions for Transparency and Accountability (SITA) -- P506691)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - bangladesh
 change_scope: structure
 slug: d40137599-bangladesh-south-asia-p506691-strength
+assigned_id: dea:change-initiative-d40137599-bangladesh-south-asia-p506691-strength-htyepv
+admitted: '2026-11-15'

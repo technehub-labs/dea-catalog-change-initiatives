@@ -1,26 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137381
-name: Updated Project Information Document (PID) - Wastewater Management for Environmental Restoration
-  in the Bogota River Basin - P517546 (D40137381)
-description: 'Updated Project Information Document (PID) - Wastewater Management for Environmental Restoration
-  in the Bogota River Basin - P517546 — a published World Bank project document for the financed operation
-  ''CO-Wastewater Management for Environmental Restoration in the Bogota River Basin -- P517546'' (country:
-  Colombia; lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-03).'
+name: Updated Project Information Document (PID) - Wastewater Management for Environmental
+  Restoration in the Bogota River Basin - P517546 (D40137381)
+description: 'Updated Project Information Document (PID) - Wastewater Management for
+  Environmental Restoration in the Bogota River Basin - P517546 — a published World
+  Bank project document for the financed operation ''CO-Wastewater Management for
+  Environmental Restoration in the Bogota River Basin -- P517546'' (country: Colombia;
+  lending instrument: Investment Project Financing; major theme: n/a; document date
+  2026-11-03).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110326235015300/pdf/P517546-faa5f621-9ad0-4b49-be6b-feb28dd50f05.pdf
-      (World Bank Documents & Records API; document D40137381; operation CO-Wastewater Management for
-      Environmental Restoration in the Bogota River Basin -- P517546)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137381; operation CO-Wastewater
+      Management for Environmental Restoration in the Bogota River Basin -- P517546)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - colombia
 change_scope: structure
 slug: d40137381-updated-project-information-document-p
+assigned_id: dea:change-initiative-d40137381-updated-project-information-document-p-c7ysh4
+admitted: '2026-11-15'

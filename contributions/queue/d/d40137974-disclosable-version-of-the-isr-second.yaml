@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137974
-name: 'Disclosable Version of the ISR - Second Kenya Social and Economic Inclusion Project - P504218 -
-  Sequence No : 3 (D40137974)'
-description: 'Disclosable Version of the ISR - Second Kenya Social and Economic Inclusion Project - P504218
-  - Sequence No : 3 — a published World Bank project document for the financed operation ''KE-Second Kenya
-  Social and Economic Inclusion Project -- P504218'' (country: Kenya; lending instrument: Investment Project
-  Financing; major theme: n/a; document date 2026-11-06).'
+name: 'Disclosable Version of the ISR - Second Kenya Social and Economic Inclusion
+  Project - P504218 - Sequence No : 3 (D40137974)'
+description: 'Disclosable Version of the ISR - Second Kenya Social and Economic Inclusion
+  Project - P504218 - Sequence No : 3 — a published World Bank project document for
+  the financed operation ''KE-Second Kenya Social and Economic Inclusion Project --
+  P504218'' (country: Kenya; lending instrument: Investment Project Financing; major
+  theme: n/a; document date 2026-11-06).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110626135336860/pdf/P504218-98b3a100-3616-4aac-ad89-cae3ff2cf9c0.pdf
-      (World Bank Documents & Records API; document D40137974; operation KE-Second Kenya Social and Economic
-      Inclusion Project -- P504218)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137974; operation KE-Second
+      Kenya Social and Economic Inclusion Project -- P504218)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - kenya
 change_scope: structure
 slug: d40137974-disclosable-version-of-the-isr-second
+assigned_id: dea:change-initiative-d40137974-disclosable-version-of-the-isr-second-x2kefa
+admitted: '2026-11-15'

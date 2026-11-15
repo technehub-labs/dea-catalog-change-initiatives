@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137894
-name: Ukraine - EUROPE AND CENTRAL ASIA- P506476- Strengthening Government Capacity for Fiscal Reform
-  Implementation - Procurement Plan (D40137894)
-description: 'Ukraine - EUROPE AND CENTRAL ASIA- P506476- Strengthening Government Capacity for Fiscal
-  Reform Implementation - Procurement Plan — a published World Bank project document for the financed
-  operation ''UA-Strengthening Government Capacity for Fiscal Reform Implementation -- P506476'' (country:
-  Ukraine; lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-06).'
+name: Ukraine - EUROPE AND CENTRAL ASIA- P506476- Strengthening Government Capacity
+  for Fiscal Reform Implementation - Procurement Plan (D40137894)
+description: 'Ukraine - EUROPE AND CENTRAL ASIA- P506476- Strengthening Government
+  Capacity for Fiscal Reform Implementation - Procurement Plan — a published World
+  Bank project document for the financed operation ''UA-Strengthening Government Capacity
+  for Fiscal Reform Implementation -- P506476'' (country: Ukraine; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-06).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110626080513070/pdf/P506476-7cd73238-da9d-4c78-b85f-1478a155fcc6.pdf
-      (World Bank Documents & Records API; document D40137894; operation UA-Strengthening Government Capacity
-      for Fiscal Reform Implementation -- P506476)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137894; operation UA-Strengthening
+      Government Capacity for Fiscal Reform Implementation -- P506476)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - ukraine
 change_scope: structure
 slug: d40137894-ukraine-europe-and-central-asia-p50647
+assigned_id: dea:change-initiative-d40137894-ukraine-europe-and-central-asia-p50647-rqberv
+admitted: '2026-11-15'

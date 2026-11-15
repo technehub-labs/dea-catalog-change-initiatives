@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137932
-name: Western and Central Africa - WESTERN AND CENTRAL AFRICA- P167569- Regional Electricity Access and
-  BEST Project - Procurement Plan (D40137932)
-description: 'Western and Central Africa - WESTERN AND CENTRAL AFRICA- P167569- Regional Electricity Access
-  and BEST Project - Procurement Plan — a published World Bank project document for the financed operation
-  ''3W-Regional Electricity Access and BEST Project -- P167569'' (country: Western and Central Africa;
-  lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-06).'
+name: Western and Central Africa - WESTERN AND CENTRAL AFRICA- P167569- Regional Electricity
+  Access and BEST Project - Procurement Plan (D40137932)
+description: 'Western and Central Africa - WESTERN AND CENTRAL AFRICA- P167569- Regional
+  Electricity Access and BEST Project - Procurement Plan — a published World Bank
+  project document for the financed operation ''3W-Regional Electricity Access and
+  BEST Project -- P167569'' (country: Western and Central Africa; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-06).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110626104530263/pdf/P167569-18f70815-d162-42b6-93e0-4c7e06e7f282.pdf
-      (World Bank Documents & Records API; document D40137932; operation 3W-Regional Electricity Access
-      and BEST Project -- P167569)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137932; operation 3W-Regional
+      Electricity Access and BEST Project -- P167569)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - western-and-central
 change_scope: structure
 slug: d40137932-western-and-central-africa-western-and
+assigned_id: dea:change-initiative-d40137932-western-and-central-africa-western-and-fnz3uk
+admitted: '2026-11-15'

@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137294
-name: Cote d'Ivoire - WESTERN AND CENTRAL AFRICA- P508716- CIV Health, Nutrition  and  ECD MPA - Phase
-  2 - Procurement Plan (D40137294)
-description: 'Cote d''Ivoire - WESTERN AND CENTRAL AFRICA- P508716- CIV Health, Nutrition  and  ECD MPA
-  - Phase 2 - Procurement Plan — a published World Bank project document for the financed operation ''CI-CIV
-  Health, Nutrition & ECD MPA - Phase 2 -- P508716'' (country: Cote d''Ivoire; lending instrument: Program-for-Results
-  Financing; major theme: n/a; document date 2026-11-03).'
+name: Cote d'Ivoire - WESTERN AND CENTRAL AFRICA- P508716- CIV Health, Nutrition  and  ECD
+  MPA - Phase 2 - Procurement Plan (D40137294)
+description: 'Cote d''Ivoire - WESTERN AND CENTRAL AFRICA- P508716- CIV Health, Nutrition  and  ECD
+  MPA - Phase 2 - Procurement Plan — a published World Bank project document for the
+  financed operation ''CI-CIV Health, Nutrition & ECD MPA - Phase 2 -- P508716'' (country:
+  Cote d''Ivoire; lending instrument: Program-for-Results Financing; major theme:
+  n/a; document date 2026-11-03).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110326095539662/pdf/P508716-819ba6e7-ff71-421b-af74-01cef8209dc9.pdf
-      (World Bank Documents & Records API; document D40137294; operation CI-CIV Health, Nutrition & ECD
-      MPA - Phase 2 -- P508716)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137294; operation CI-CIV Health,
+      Nutrition & ECD MPA - Phase 2 -- P508716)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - cote-d-ivoire
 change_scope: structure
 slug: d40137294-cote-d-ivoire-western-and-central-afri
+assigned_id: dea:change-initiative-d40137294-cote-d-ivoire-western-and-central-afri-yrp8ea
+admitted: '2026-11-15'

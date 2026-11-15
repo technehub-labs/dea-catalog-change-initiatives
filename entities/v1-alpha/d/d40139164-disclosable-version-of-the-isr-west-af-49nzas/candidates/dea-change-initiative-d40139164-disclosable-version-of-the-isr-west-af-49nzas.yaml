@@ -1,0 +1,41 @@
+id: dea:change-initiative-d40139164-disclosable-version-of-the-isr-west-af-49nzas
+type: ChangeInitiative
+name: 'Disclosable Version of the ISR - WEST AFRICA FOOD SYSTEM RESILIENCE PROGRAM
+  (FSRP) PHASE 3 - P180244 - Sequence No : 6 (D40139164)'
+description: 'Disclosable Version of the ISR - WEST AFRICA FOOD SYSTEM RESILIENCE
+  PROGRAM (FSRP) PHASE 3 - P180244 - Sequence No : 6 — a published World Bank project
+  document for the financed operation ''3W-WEST AFRICA FOOD SYSTEM RESILIENCE PROGRAM
+  (FSRP) PHASE 3 -- P180244'' (country: Western and Central Africa; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-13).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111326190516827/pdf/P180244-03ab7ddd-0376-4dba-a575-ea8da6e15bf2.pdf
+      (World Bank Documents & Records API; document D40139164; operation 3W-WEST AFRICA
+      FOOD SYSTEM RESILIENCE PROGRAM (FSRP) PHASE 3 -- P180244)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- western-and-central

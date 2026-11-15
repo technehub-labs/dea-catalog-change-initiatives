@@ -1,0 +1,40 @@
+id: dea:change-initiative-d40138992-stakeholder-engagement-plan-sep-south-mtg6yr
+type: ChangeInitiative
+name: Stakeholder Engagement Plan (SEP) - South Sudan Health Sector Transformation
+  Project (HSTP) - P181385 (D40138992)
+description: 'Stakeholder Engagement Plan (SEP) - South Sudan Health Sector Transformation
+  Project (HSTP) - P181385 — a published World Bank project document for the financed
+  operation ''SS-South Sudan Health Sector Transformation Project (HSTP) -- P181385''
+  (country: n/a; lending instrument: Investment Project Financing; major theme: n/a;
+  document date 2026-11-13).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111326013515739/pdf/P181385-52308024-2c04-4f57-938f-d5e10bac8160.pdf
+      (World Bank Documents & Records API; document D40138992; operation SS-South
+      Sudan Health Sector Transformation Project (HSTP) -- P181385)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank

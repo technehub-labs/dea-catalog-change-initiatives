@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137466
-name: 'Brazil - LATIN AMERICA AND CARIBBEAN- P179088- Progest?o Tocantins: Public Sector Management Efficiency
-  - Procurement Plan (D40137466)'
-description: 'Brazil - LATIN AMERICA AND CARIBBEAN- P179088- Progest?o Tocantins: Public Sector Management
-  Efficiency - Procurement Plan — a published World Bank project document for the financed operation ''BR-Progestão
-  Tocantins: Public Sector Management Efficiency -- P179088'' (country: Brazil; lending instrument: Investment
+name: 'Brazil - LATIN AMERICA AND CARIBBEAN- P179088- Progest?o Tocantins: Public
+  Sector Management Efficiency - Procurement Plan (D40137466)'
+description: 'Brazil - LATIN AMERICA AND CARIBBEAN- P179088- Progest?o Tocantins:
+  Public Sector Management Efficiency - Procurement Plan — a published World Bank
+  project document for the financed operation ''BR-Progestão Tocantins: Public Sector
+  Management Efficiency -- P179088'' (country: Brazil; lending instrument: Investment
   Project Financing; major theme: n/a; document date 2026-11-04).'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://documents.worldbank.org/curated/en/099110426084028841/pdf/P179088-db238409-92bb-499b-b5a5-3cea42f86c30.pdf
-      (World Bank Documents & Records API; document D40137466; operation BR-Progestão Tocantins: Public
-      Sector Management Efficiency -- P179088)'
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137466; operation BR-Progestão
+      Tocantins: Public Sector Management Efficiency -- P179088)'
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - brazil
 change_scope: structure
 slug: d40137466-brazil-latin-america-and-caribbean-p17
+assigned_id: dea:change-initiative-d40137466-brazil-latin-america-and-caribbean-p17-2ew7m9
+admitted: '2026-11-15'

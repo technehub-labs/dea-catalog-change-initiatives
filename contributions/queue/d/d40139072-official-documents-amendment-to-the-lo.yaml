@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40139072
 name: Official Documents- Amendment to the Loan Agreement for Loan 9247-IN.pdf (D40139072)
-description: 'Official Documents- Amendment to the Loan Agreement for Loan 9247-IN.pdf — a published World
-  Bank project document for the financed operation ''IN-Chennai City Partnership: Sustainable Urban Services
-  Program -- P175221'' (country: India; lending instrument: Program-for-Results Financing; major theme:
-  n/a; document date 2026-11-13).'
+description: 'Official Documents- Amendment to the Loan Agreement for Loan 9247-IN.pdf
+  — a published World Bank project document for the financed operation ''IN-Chennai
+  City Partnership: Sustainable Urban Services Program -- P175221'' (country: India;
+  lending instrument: Program-for-Results Financing; major theme: n/a; document date
+  2026-11-13).'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://documents.worldbank.org/curated/en/099111326095021794/pdf/P175221-1eb74912-7339-4baa-add9-79f99fffbbbb.pdf
-      (World Bank Documents & Records API; document D40139072; operation IN-Chennai City Partnership:
-      Sustainable Urban Services Program -- P175221)'
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40139072; operation IN-Chennai
+      City Partnership: Sustainable Urban Services Program -- P175221)'
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - india
 change_scope: structure
 slug: d40139072-official-documents-amendment-to-the-lo
+assigned_id: dea:change-initiative-d40139072-official-documents-amendment-to-the-lo-xhgcqs
+admitted: '2026-11-15'

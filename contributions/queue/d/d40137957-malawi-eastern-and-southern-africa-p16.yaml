@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137957
-name: Malawi - EASTERN AND SOUTHERN AFRICA- P165704- Mpatamanga Hydropower Storage Project - Procurement
-  Plan (D40137957)
-description: 'Malawi - EASTERN AND SOUTHERN AFRICA- P165704- Mpatamanga Hydropower Storage Project - Procurement
-  Plan — a published World Bank project document for the financed operation ''MW-Mpatamanga Hydropower
-  Storage Project -- P165704'' (country: Malawi; lending instrument: Investment Project Financing; major
-  theme: n/a; document date 2026-11-06).'
+name: Malawi - EASTERN AND SOUTHERN AFRICA- P165704- Mpatamanga Hydropower Storage
+  Project - Procurement Plan (D40137957)
+description: 'Malawi - EASTERN AND SOUTHERN AFRICA- P165704- Mpatamanga Hydropower
+  Storage Project - Procurement Plan — a published World Bank project document for
+  the financed operation ''MW-Mpatamanga Hydropower Storage Project -- P165704'' (country:
+  Malawi; lending instrument: Investment Project Financing; major theme: n/a; document
+  date 2026-11-06).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110626123537895/pdf/P165704-c7d95e13-2e83-4167-ba82-e8f3e324a5bd.pdf
-      (World Bank Documents & Records API; document D40137957; operation MW-Mpatamanga Hydropower Storage
-      Project -- P165704)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137957; operation MW-Mpatamanga
+      Hydropower Storage Project -- P165704)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - malawi
 change_scope: structure
 slug: d40137957-malawi-eastern-and-southern-africa-p16
+assigned_id: dea:change-initiative-d40137957-malawi-eastern-and-southern-africa-p16-z6q4tg
+admitted: '2026-11-15'

@@ -1,27 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138729
-name: Disclosable Restructuring Paper - Rejuvenating Watersheds for Agricultural Resilience through Innovative
-  Development - P172187 (D40138729)
-description: 'Disclosable Restructuring Paper - Rejuvenating Watersheds for Agricultural Resilience through
-  Innovative Development - P172187 — a published World Bank project document for the financed operation
-  ''IN-Rejuvenating Watersheds for Agricultural Resilience through Innovative Development -- P172187''
-  (country: India; lending instrument: Program-for-Results Financing; major theme: n/a; document date
-  2026-11-12).'
+name: Disclosable Restructuring Paper - Rejuvenating Watersheds for Agricultural Resilience
+  through Innovative Development - P172187 (D40138729)
+description: 'Disclosable Restructuring Paper - Rejuvenating Watersheds for Agricultural
+  Resilience through Innovative Development - P172187 — a published World Bank project
+  document for the financed operation ''IN-Rejuvenating Watersheds for Agricultural
+  Resilience through Innovative Development -- P172187'' (country: India; lending
+  instrument: Program-for-Results Financing; major theme: n/a; document date 2026-11-12).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111226004015454/pdf/P172187-8e9f60b5-f4a0-47e5-904c-27069139a671.pdf
-      (World Bank Documents & Records API; document D40138729; operation IN-Rejuvenating Watersheds for
-      Agricultural Resilience through Innovative Development -- P172187)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138729; operation IN-Rejuvenating
+      Watersheds for Agricultural Resilience through Innovative Development -- P172187)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - india
 change_scope: structure
 slug: d40138729-disclosable-restructuring-paper-rejuve
+assigned_id: dea:change-initiative-d40138729-disclosable-restructuring-paper-rejuve-kd8y4p
+admitted: '2026-11-15'

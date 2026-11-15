@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137404
-name: Pakistan - MID EAST,NORTH AFRICA,AFG,PAK- P172945- Punjab Urban Land Systems Enhancement Project
-  - Procurement Plan (D40137404)
-description: 'Pakistan - MID EAST,NORTH AFRICA,AFG,PAK- P172945- Punjab Urban Land Systems Enhancement
-  Project - Procurement Plan — a published World Bank project document for the financed operation ''PK-Punjab
-  Urban Land Systems Enhancement Project -- P172945'' (country: Pakistan; lending instrument: Investment
-  Project Financing; major theme: n/a; document date 2026-11-04).'
+name: Pakistan - MID EAST,NORTH AFRICA,AFG,PAK- P172945- Punjab Urban Land Systems
+  Enhancement Project - Procurement Plan (D40137404)
+description: 'Pakistan - MID EAST,NORTH AFRICA,AFG,PAK- P172945- Punjab Urban Land
+  Systems Enhancement Project - Procurement Plan — a published World Bank project
+  document for the financed operation ''PK-Punjab Urban Land Systems Enhancement Project
+  -- P172945'' (country: Pakistan; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-04).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110426025520010/pdf/P172945-41afe30d-ee4c-4050-91a7-cf0ec589dbfb.pdf
-      (World Bank Documents & Records API; document D40137404; operation PK-Punjab Urban Land Systems
-      Enhancement Project -- P172945)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137404; operation PK-Punjab
+      Urban Land Systems Enhancement Project -- P172945)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - pakistan
 change_scope: structure
 slug: d40137404-pakistan-mid-east-north-africa-afg-pak
+assigned_id: dea:change-initiative-d40137404-pakistan-mid-east-north-africa-afg-pak-yqjymm
+admitted: '2026-11-15'

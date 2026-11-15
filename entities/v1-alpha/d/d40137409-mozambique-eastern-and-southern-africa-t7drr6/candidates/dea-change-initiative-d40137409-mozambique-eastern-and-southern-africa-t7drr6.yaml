@@ -1,0 +1,41 @@
+id: dea:change-initiative-d40137409-mozambique-eastern-and-southern-africa-t7drr6
+type: ChangeInitiative
+name: Mozambique - EASTERN AND SOUTHERN AFRICA- P508872- Mozambique Contingent Emergency
+  Response Project (CERP) - Procurement Plan (D40137409)
+description: 'Mozambique - EASTERN AND SOUTHERN AFRICA- P508872- Mozambique Contingent
+  Emergency Response Project (CERP) - Procurement Plan — a published World Bank project
+  document for the financed operation ''MZ-Mozambique Contingent Emergency Response
+  Project (CERP) -- P508872'' (country: Mozambique; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-04).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110426032511457/pdf/P508872-5271e99f-04ae-4f2d-98fc-49e30f901987.pdf
+      (World Bank Documents & Records API; document D40137409; operation MZ-Mozambique
+      Contingent Emergency Response Project (CERP) -- P508872)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- mozambique

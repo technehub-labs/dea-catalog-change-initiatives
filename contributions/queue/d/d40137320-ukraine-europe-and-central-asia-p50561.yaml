@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137320
-name: Ukraine - EUROPE AND CENTRAL ASIA- P505616- Resilient, Inclusive and Sustainable Enterprise Program
-  for Results - Procurement Plan (D40137320)
-description: 'Ukraine - EUROPE AND CENTRAL ASIA- P505616- Resilient, Inclusive and Sustainable Enterprise
-  Program for Results - Procurement Plan — a published World Bank project document for the financed operation
-  ''UA-Resilient, Inclusive and Sustainable Enterprise Program for Results -- P505616'' (country: Ukraine;
-  lending instrument: Program-for-Results Financing; major theme: n/a; document date 2026-11-03).'
+name: Ukraine - EUROPE AND CENTRAL ASIA- P505616- Resilient, Inclusive and Sustainable
+  Enterprise Program for Results - Procurement Plan (D40137320)
+description: 'Ukraine - EUROPE AND CENTRAL ASIA- P505616- Resilient, Inclusive and
+  Sustainable Enterprise Program for Results - Procurement Plan — a published World
+  Bank project document for the financed operation ''UA-Resilient, Inclusive and Sustainable
+  Enterprise Program for Results -- P505616'' (country: Ukraine; lending instrument:
+  Program-for-Results Financing; major theme: n/a; document date 2026-11-03).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110326113040804/pdf/P505616-386d670a-95c9-49e6-90ac-0f972f2dca79.pdf
-      (World Bank Documents & Records API; document D40137320; operation UA-Resilient, Inclusive and Sustainable
-      Enterprise Program for Results -- P505616)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137320; operation UA-Resilient,
+      Inclusive and Sustainable Enterprise Program for Results -- P505616)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - ukraine
 change_scope: structure
 slug: d40137320-ukraine-europe-and-central-asia-p50561
+assigned_id: dea:change-initiative-d40137320-ukraine-europe-and-central-asia-p50561-hyj79e
+admitted: '2026-11-15'

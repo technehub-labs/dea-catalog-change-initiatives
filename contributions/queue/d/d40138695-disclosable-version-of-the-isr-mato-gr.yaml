@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138695
-name: 'Disclosable Version of the ISR - Mato Grosso Sustainable Development of Family Farming - P175723
-  - Sequence No : 6 (D40138695)'
-description: 'Disclosable Version of the ISR - Mato Grosso Sustainable Development of Family Farming -
-  P175723 - Sequence No : 6 — a published World Bank project document for the financed operation ''BR-Mato
-  Grosso Sustainable Development of Family Farming -- P175723'' (country: Brazil; lending instrument:
-  Investment Project Financing; major theme: n/a; document date 2026-11-12).'
+name: 'Disclosable Version of the ISR - Mato Grosso Sustainable Development of Family
+  Farming - P175723 - Sequence No : 6 (D40138695)'
+description: 'Disclosable Version of the ISR - Mato Grosso Sustainable Development
+  of Family Farming - P175723 - Sequence No : 6 — a published World Bank project document
+  for the financed operation ''BR-Mato Grosso Sustainable Development of Family Farming
+  -- P175723'' (country: Brazil; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-12).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111126205513239/pdf/P175723-a37fe558-0f0a-4536-b471-52f02ab16d2d.pdf
-      (World Bank Documents & Records API; document D40138695; operation BR-Mato Grosso Sustainable Development
-      of Family Farming -- P175723)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138695; operation BR-Mato Grosso
+      Sustainable Development of Family Farming -- P175723)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - brazil
 change_scope: structure
 slug: d40138695-disclosable-version-of-the-isr-mato-gr
+assigned_id: dea:change-initiative-d40138695-disclosable-version-of-the-isr-mato-gr-8r3we4
+admitted: '2026-11-15'

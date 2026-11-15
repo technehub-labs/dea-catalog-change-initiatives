@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137910
 name: Rwanda - Rwanda Housing Finance Project (D40137910)
-description: 'Rwanda - Rwanda Housing Finance Project — a published World Bank project document for the
-  financed operation ''RW-Rwanda Housing Finance Project -- P165649'' (country: Rwanda; lending instrument:
-  Investment Project Financing; major theme: n/a; document date 2026-11-06).'
+description: 'Rwanda - Rwanda Housing Finance Project — a published World Bank project
+  document for the financed operation ''RW-Rwanda Housing Finance Project -- P165649''
+  (country: Rwanda; lending instrument: Investment Project Financing; major theme:
+  n/a; document date 2026-11-06).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110626092084077/pdf/P165649-1b765732-c108-43cd-b4b0-1fb3075d2610.pdf
-      (World Bank Documents & Records API; document D40137910; operation RW-Rwanda Housing Finance Project
-      -- P165649)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137910; operation RW-Rwanda
+      Housing Finance Project -- P165649)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - rwanda
 change_scope: structure
 slug: d40137910-rwanda-rwanda-housing-finance-project
+assigned_id: dea:change-initiative-d40137910-rwanda-rwanda-housing-finance-project-x7nm78
+admitted: '2026-11-15'

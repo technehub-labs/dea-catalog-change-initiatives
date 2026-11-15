@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40139005
-name: Indonesia - EAST ASIA AND PACIFIC- P508811- Collaborative Approach for Resilient Surveillance and
-  Pandemic Preparedness in Indonesia Project - Procurement Plan (D40139005)
-description: 'Indonesia - EAST ASIA AND PACIFIC- P508811- Collaborative Approach for Resilient Surveillance
-  and Pandemic Preparedness in Indonesia Project - Procurement Plan — a published World Bank project document
-  for the financed operation ''ID-Collaborative Approach for Resilient Surveillance and Pandemic Preparedness
-  in Indonesia Project -- P508811'' (country: Indonesia; lending instrument: Investment Project Financing;
+name: Indonesia - EAST ASIA AND PACIFIC- P508811- Collaborative Approach for Resilient
+  Surveillance and Pandemic Preparedness in Indonesia Project - Procurement Plan (D40139005)
+description: 'Indonesia - EAST ASIA AND PACIFIC- P508811- Collaborative Approach for
+  Resilient Surveillance and Pandemic Preparedness in Indonesia Project - Procurement
+  Plan — a published World Bank project document for the financed operation ''ID-Collaborative
+  Approach for Resilient Surveillance and Pandemic Preparedness in Indonesia Project
+  -- P508811'' (country: Indonesia; lending instrument: Investment Project Financing;
   major theme: n/a; document date 2026-11-13).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111326024038029/pdf/P508811-ba0229d6-8c3d-42d6-bfed-3f5327ff9a53.pdf
-      (World Bank Documents & Records API; document D40139005; operation ID-Collaborative Approach for
-      Resilient Surveillance and Pandemic Preparedness in Indonesia Project -- P508811)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40139005; operation ID-Collaborative
+      Approach for Resilient Surveillance and Pandemic Preparedness in Indonesia Project
+      -- P508811)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - indonesia
 change_scope: structure
 slug: d40139005-indonesia-east-asia-and-pacific-p50881
+assigned_id: dea:change-initiative-d40139005-indonesia-east-asia-and-pacific-p50881-wahkfg
+admitted: '2026-11-15'

@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40139123
-name: Morocco - MID EAST,NORTH AFRICA,AFG,PAK- P167619- Education Support Program - Procurement Plan (D40139123)
-description: 'Morocco - MID EAST,NORTH AFRICA,AFG,PAK- P167619- Education Support Program - Procurement
-  Plan — a published World Bank project document for the financed operation ''MA-Education Support Program
-  -- P167619'' (country: Morocco; lending instrument: Program-for-Results Financing; major theme: n/a;
-  document date 2026-11-13).'
+name: Morocco - MID EAST,NORTH AFRICA,AFG,PAK- P167619- Education Support Program
+  - Procurement Plan (D40139123)
+description: 'Morocco - MID EAST,NORTH AFRICA,AFG,PAK- P167619- Education Support
+  Program - Procurement Plan — a published World Bank project document for the financed
+  operation ''MA-Education Support Program -- P167619'' (country: Morocco; lending
+  instrument: Program-for-Results Financing; major theme: n/a; document date 2026-11-13).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111326123011221/pdf/P167619-98a39c44-265e-4826-805d-e863e8614915.pdf
-      (World Bank Documents & Records API; document D40139123; operation MA-Education Support Program
-      -- P167619)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40139123; operation MA-Education
+      Support Program -- P167619)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - morocco
 change_scope: structure
 slug: d40139123-morocco-mid-east-north-africa-afg-pak
+assigned_id: dea:change-initiative-d40139123-morocco-mid-east-north-africa-afg-pak-spwtx4
+admitted: '2026-11-15'

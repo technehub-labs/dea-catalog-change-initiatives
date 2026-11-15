@@ -1,0 +1,41 @@
+id: dea:change-initiative-d40137380-nepal-south-asia-p507433-modernization-s2akkw
+type: ChangeInitiative
+name: Nepal - SOUTH ASIA- P507433-   Modernization of Rani Jamara Kulariya Irrigation
+  Project - Phase 3 - Procurement Plan (D40137380)
+description: 'Nepal - SOUTH ASIA- P507433-   Modernization of Rani Jamara Kulariya
+  Irrigation Project - Phase 3 - Procurement Plan — a published World Bank project
+  document for the financed operation ''NP-Modernization of Rani Jamara Kulariya Irrigation
+  Project - Phase 3 -- P507433'' (country: Nepal; lending instrument: Investment Project
+  Financing; major theme: n/a; document date 2026-11-04).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110326232520478/pdf/P507433-195bf8e3-b302-49a5-bbc1-d47ef091430d.pdf
+      (World Bank Documents & Records API; document D40137380; operation NP-Modernization
+      of Rani Jamara Kulariya Irrigation Project - Phase 3 -- P507433)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- nepal

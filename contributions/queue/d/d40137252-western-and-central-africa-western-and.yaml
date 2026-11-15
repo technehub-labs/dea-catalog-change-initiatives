@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137252
-name: Western and Central Africa - WESTERN AND CENTRAL AFRICA- P509153- West Africa Coastal Areas Blue
-  Economy and Resilience Program - Procurement Plan (D40137252)
-description: 'Western and Central Africa - WESTERN AND CENTRAL AFRICA- P509153- West Africa Coastal Areas
-  Blue Economy and Resilience Program - Procurement Plan — a published World Bank project document for
-  the financed operation ''3W-West Africa Coastal Areas Blue Economy and Resilience Program -- P509153''
-  (country: Western and Central Africa; lending instrument: Investment Project Financing; major theme:
+name: Western and Central Africa - WESTERN AND CENTRAL AFRICA- P509153- West Africa
+  Coastal Areas Blue Economy and Resilience Program - Procurement Plan (D40137252)
+description: 'Western and Central Africa - WESTERN AND CENTRAL AFRICA- P509153- West
+  Africa Coastal Areas Blue Economy and Resilience Program - Procurement Plan — a
+  published World Bank project document for the financed operation ''3W-West Africa
+  Coastal Areas Blue Economy and Resilience Program -- P509153'' (country: Western
+  and Central Africa; lending instrument: Investment Project Financing; major theme:
   n/a; document date 2026-11-03).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110326060021652/pdf/P509153-52b7d834-d83e-46a6-be32-06f9bd40bb2f.pdf
-      (World Bank Documents & Records API; document D40137252; operation 3W-West Africa Coastal Areas
-      Blue Economy and Resilience Program -- P509153)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137252; operation 3W-West Africa
+      Coastal Areas Blue Economy and Resilience Program -- P509153)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - western-and-central
 change_scope: structure
 slug: d40137252-western-and-central-africa-western-and
+assigned_id: dea:change-initiative-d40137252-western-and-central-africa-western-and-uvn3ce
+admitted: '2026-11-15'

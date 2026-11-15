@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40139063
-name: Project Information Document - Public Expenditures for Administrative Capacity Endurance (PEACE)
-  in Ukraine - P178946 (D40139063)
-description: 'Project Information Document - Public Expenditures for Administrative Capacity Endurance
-  (PEACE) in Ukraine - P178946 — a published World Bank project document for the financed operation ''UA-Public
-  Expenditures for Administrative Capacity Endurance (PEACE) in Ukraine -- P178946'' (country: Ukraine;
-  lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-13).'
+name: Project Information Document - Public Expenditures for Administrative Capacity
+  Endurance (PEACE) in Ukraine - P178946 (D40139063)
+description: 'Project Information Document - Public Expenditures for Administrative
+  Capacity Endurance (PEACE) in Ukraine - P178946 — a published World Bank project
+  document for the financed operation ''UA-Public Expenditures for Administrative
+  Capacity Endurance (PEACE) in Ukraine -- P178946'' (country: Ukraine; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-13).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111326090514408/pdf/P178946-156e039c-8462-4b9c-bb44-06c1509e5257.pdf
-      (World Bank Documents & Records API; document D40139063; operation UA-Public Expenditures for Administrative
-      Capacity Endurance (PEACE) in Ukraine -- P178946)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40139063; operation UA-Public
+      Expenditures for Administrative Capacity Endurance (PEACE) in Ukraine -- P178946)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - ukraine
 change_scope: structure
 slug: d40139063-project-information-document-public-ex
+assigned_id: dea:change-initiative-d40139063-project-information-document-public-ex-gxyqap
+admitted: '2026-11-15'

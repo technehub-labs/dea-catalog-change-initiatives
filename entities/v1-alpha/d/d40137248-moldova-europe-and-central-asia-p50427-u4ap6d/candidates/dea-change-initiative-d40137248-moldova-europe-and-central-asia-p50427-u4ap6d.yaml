@@ -1,0 +1,42 @@
+id: dea:change-initiative-d40137248-moldova-europe-and-central-asia-p50427-u4ap6d
+type: ChangeInitiative
+name: Moldova - EUROPE AND CENTRAL ASIA- P504278- Strengthening Moldova's Disaster
+  Risk Management and Resilience Project - Procurement Plan (D40137248)
+description: 'Moldova - EUROPE AND CENTRAL ASIA- P504278- Strengthening Moldova''s
+  Disaster Risk Management and Resilience Project - Procurement Plan — a published
+  World Bank project document for the financed operation ''MD-Strengthening Moldova''s
+  Disaster Risk Management and Resilience Project -- P504278'' (country: Moldova;
+  lending instrument: Investment Project Financing; major theme: n/a; document date
+  2026-11-03).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110326053522378/pdf/P504278-a65e186e-90a2-4453-b1e8-4808c3155228.pdf
+      (World Bank Documents & Records API; document D40137248; operation MD-Strengthening
+      Moldova's Disaster Risk Management and Resilience Project -- P504278)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- moldova

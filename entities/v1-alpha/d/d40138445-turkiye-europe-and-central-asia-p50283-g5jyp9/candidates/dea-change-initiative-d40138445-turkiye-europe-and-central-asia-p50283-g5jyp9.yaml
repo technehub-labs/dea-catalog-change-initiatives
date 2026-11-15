@@ -1,0 +1,43 @@
+id: dea:change-initiative-d40138445-turkiye-europe-and-central-asia-p50283-g5jyp9
+type: ChangeInitiative
+name: Turkiye - EUROPE AND CENTRAL ASIA- P502837- T?rkiye Small Industrial Estates
+  Reconstruction and Regional Economic Recovery Project - Procurement Plan (D40138445)
+description: 'Turkiye - EUROPE AND CENTRAL ASIA- P502837- T?rkiye Small Industrial
+  Estates Reconstruction and Regional Economic Recovery Project - Procurement Plan
+  — a published World Bank project document for the financed operation ''TR-Türkiye
+  Small Industrial Estates Reconstruction and Regional Economic Recovery Project --
+  P502837'' (country: Turkiye; lending instrument: Investment Project Financing; major
+  theme: n/a; document date 2026-11-10).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111026125521818/pdf/P502837-93a1a48b-089d-4b73-917a-001b2659539e.pdf
+      (World Bank Documents & Records API; document D40138445; operation TR-Türkiye
+      Small Industrial Estates Reconstruction and Regional Economic Recovery Project
+      -- P502837)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- turkiye

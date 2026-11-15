@@ -1,27 +1,33 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138138
-name: 'Solomon Islands - EAST ASIA AND PACIFIC- P177239- Solomon Islands: Pacific Islands Regional Oceanscape
-  Program - Second Phase for Economic Resilience - Procurement Plan (D40138138)'
-description: 'Solomon Islands - EAST ASIA AND PACIFIC- P177239- Solomon Islands: Pacific Islands Regional
-  Oceanscape Program - Second Phase for Economic Resilience - Procurement Plan — a published World Bank
-  project document for the financed operation ''SB-Solomon Islands: Pacific Islands Regional Oceanscape
-  Program - Second Phase for Economic Resilience -- P177239'' (country: Solomon Islands; lending instrument:
-  Investment Project Financing; major theme: n/a; document date 2026-11-09).'
+name: 'Solomon Islands - EAST ASIA AND PACIFIC- P177239- Solomon Islands: Pacific
+  Islands Regional Oceanscape Program - Second Phase for Economic Resilience - Procurement
+  Plan (D40138138)'
+description: 'Solomon Islands - EAST ASIA AND PACIFIC- P177239- Solomon Islands: Pacific
+  Islands Regional Oceanscape Program - Second Phase for Economic Resilience - Procurement
+  Plan — a published World Bank project document for the financed operation ''SB-Solomon
+  Islands: Pacific Islands Regional Oceanscape Program - Second Phase for Economic
+  Resilience -- P177239'' (country: Solomon Islands; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-09).'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://documents.worldbank.org/curated/en/099110926040036127/pdf/P177239-7ac21e7f-c3ba-470c-a012-551915fe4d4b.pdf
-      (World Bank Documents & Records API; document D40138138; operation SB-Solomon Islands: Pacific Islands
-      Regional Oceanscape Program - Second Phase for Economic Resilience -- P177239)'
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138138; operation SB-Solomon
+      Islands: Pacific Islands Regional Oceanscape Program - Second Phase for Economic
+      Resilience -- P177239)'
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - solomon-islands
 change_scope: structure
 slug: d40138138-solomon-islands-east-asia-and-pacific
+assigned_id: dea:change-initiative-d40138138-solomon-islands-east-asia-and-pacific-9g4nhd
+admitted: '2026-11-15'

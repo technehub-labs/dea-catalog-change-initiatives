@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40139148
-name: Uruguay - LATIN AMERICA AND CARIBBEAN- P176232- Uruguay Agro-Ecological and Climate Resilient Systems
-  Project - Procurement Plan (D40139148)
-description: 'Uruguay - LATIN AMERICA AND CARIBBEAN- P176232- Uruguay Agro-Ecological and Climate Resilient
-  Systems Project - Procurement Plan — a published World Bank project document for the financed operation
-  ''UY-Uruguay Agro-Ecological and Climate Resilient Systems Project -- P176232'' (country: Uruguay; lending
-  instrument: Investment Project Financing; major theme: n/a; document date 2026-11-13).'
+name: Uruguay - LATIN AMERICA AND CARIBBEAN- P176232- Uruguay Agro-Ecological and
+  Climate Resilient Systems Project - Procurement Plan (D40139148)
+description: 'Uruguay - LATIN AMERICA AND CARIBBEAN- P176232- Uruguay Agro-Ecological
+  and Climate Resilient Systems Project - Procurement Plan — a published World Bank
+  project document for the financed operation ''UY-Uruguay Agro-Ecological and Climate
+  Resilient Systems Project -- P176232'' (country: Uruguay; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-13).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111326153525302/pdf/P176232-02658d22-4ed2-4ae2-88e2-a6a196fd0fb0.pdf
-      (World Bank Documents & Records API; document D40139148; operation UY-Uruguay Agro-Ecological and
-      Climate Resilient Systems Project -- P176232)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40139148; operation UY-Uruguay
+      Agro-Ecological and Climate Resilient Systems Project -- P176232)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - uruguay
 change_scope: structure
 slug: d40139148-uruguay-latin-america-and-caribbean-p1
+assigned_id: dea:change-initiative-d40139148-uruguay-latin-america-and-caribbean-p1-u8uymy
+admitted: '2026-11-15'

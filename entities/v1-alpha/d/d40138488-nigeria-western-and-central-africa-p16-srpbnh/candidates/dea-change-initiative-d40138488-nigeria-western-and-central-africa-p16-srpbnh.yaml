@@ -1,0 +1,41 @@
+id: dea:change-initiative-d40138488-nigeria-western-and-central-africa-p16-srpbnh
+type: ChangeInitiative
+name: 'Nigeria - WESTERN AND CENTRAL AFRICA- P167156- Nigeria: Improved Child Survival
+  Program for Human Capital?MPA - Procurement Plan (D40138488)'
+description: 'Nigeria - WESTERN AND CENTRAL AFRICA- P167156- Nigeria: Improved Child
+  Survival Program for Human Capital?MPA - Procurement Plan — a published World Bank
+  project document for the financed operation ''NG-Nigeria: Improved Child Survival
+  Program for Human Capital MPA -- P167156'' (country: Nigeria; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-10).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://documents.worldbank.org/curated/en/099111026174027109/pdf/P167156-62b9f512-b4e1-4450-9069-44ac09996e6a.pdf
+      (World Bank Documents & Records API; document D40138488; operation NG-Nigeria:
+      Improved Child Survival Program for Human Capital MPA -- P167156)'
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- nigeria

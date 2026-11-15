@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137361
 name: Brazil - META II (D40137361)
-description: 'Brazil - META II — a published World Bank project document for the financed operation ''BR-Energy
-  and Mineral Sectors Strengthening Project II -- P170850'' (country: Brazil; lending instrument: Investment
-  Project Financing; major theme: n/a; document date 2026-11-03).'
+description: 'Brazil - META II — a published World Bank project document for the financed
+  operation ''BR-Energy and Mineral Sectors Strengthening Project II -- P170850''
+  (country: Brazil; lending instrument: Investment Project Financing; major theme:
+  n/a; document date 2026-11-03).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110326150586312/pdf/P170850-dd491405-dac9-470a-a6ab-aacc181ead8d.pdf
-      (World Bank Documents & Records API; document D40137361; operation BR-Energy and Mineral Sectors
-      Strengthening Project II -- P170850)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137361; operation BR-Energy
+      and Mineral Sectors Strengthening Project II -- P170850)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - brazil
 change_scope: structure
 slug: d40137361-brazil-meta-ii
+assigned_id: dea:change-initiative-d40137361-brazil-meta-ii-hfjcmg
+admitted: '2026-11-15'

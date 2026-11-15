@@ -1,0 +1,41 @@
+id: dea:change-initiative-d40137814-brazil-latin-america-and-caribbean-p17-mszdge
+type: ChangeInitiative
+name: Brazil - LATIN AMERICA AND CARIBBEAN- P172497- Sustainable Multiple Use Landscape
+  Consortia in Brazil - Procurement Plan (D40137814)
+description: 'Brazil - LATIN AMERICA AND CARIBBEAN- P172497- Sustainable Multiple
+  Use Landscape Consortia in Brazil - Procurement Plan — a published World Bank project
+  document for the financed operation ''BR-Sustainable Multiple Use Landscape Consortia
+  in Brazil -- P172497'' (country: Brazil; lending instrument: Investment Project
+  Financing; major theme: n/a; document date 2026-11-06).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110526210037955/pdf/P172497-f7b2bd93-8d52-4734-9c09-c19ed000fe78.pdf
+      (World Bank Documents & Records API; document D40137814; operation BR-Sustainable
+      Multiple Use Landscape Consortia in Brazil -- P172497)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- brazil

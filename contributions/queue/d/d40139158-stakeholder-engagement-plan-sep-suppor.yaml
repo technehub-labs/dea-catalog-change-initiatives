@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40139158
-name: Stakeholder Engagement Plan (SEP) Support for the Implementation of the Public Administration Reform
-  and Modernization Plan (P180302) (D40139158)
-description: 'Stakeholder Engagement Plan (SEP) Support for the Implementation of the Public Administration
-  Reform and Modernization Plan (P180302) — a published World Bank project document for the financed operation
-  ''DO-Support for the Implementation of the Public Administration Reform and Modernization Plan -- P180302''
-  (country: Dominican Republic; lending instrument: Investment Project Financing; major theme: n/a; document
-  date 2026-11-13).'
+name: Stakeholder Engagement Plan (SEP) Support for the Implementation of the Public
+  Administration Reform and Modernization Plan (P180302) (D40139158)
+description: 'Stakeholder Engagement Plan (SEP) Support for the Implementation of
+  the Public Administration Reform and Modernization Plan (P180302) — a published
+  World Bank project document for the financed operation ''DO-Support for the Implementation
+  of the Public Administration Reform and Modernization Plan -- P180302'' (country:
+  Dominican Republic; lending instrument: Investment Project Financing; major theme:
+  n/a; document date 2026-11-13).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111326171022417/pdf/P180302-4326146b-37a7-45a1-88fb-44a768b60507.pdf
-      (World Bank Documents & Records API; document D40139158; operation DO-Support for the Implementation
-      of the Public Administration Reform and Modernization Plan -- P180302)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40139158; operation DO-Support
+      for the Implementation of the Public Administration Reform and Modernization
+      Plan -- P180302)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - dominican-republic
 change_scope: structure
 slug: d40139158-stakeholder-engagement-plan-sep-suppor
+assigned_id: dea:change-initiative-d40139158-stakeholder-engagement-plan-sep-suppor-787zag
+admitted: '2026-11-15'

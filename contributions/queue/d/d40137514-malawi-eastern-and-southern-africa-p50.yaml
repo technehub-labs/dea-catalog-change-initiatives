@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137514
-name: Malawi - EASTERN AND SOUTHERN AFRICA- P507745- Malawi Foundational Learning Program for Results
-  - Procurement Plan (D40137514)
-description: 'Malawi - EASTERN AND SOUTHERN AFRICA- P507745- Malawi Foundational Learning Program for
-  Results - Procurement Plan — a published World Bank project document for the financed operation ''MW-Malawi
-  Foundational Learning Program for Results -- P507745'' (country: Malawi; lending instrument: Program-for-Results
-  Financing; major theme: n/a; document date 2026-11-04).'
+name: Malawi - EASTERN AND SOUTHERN AFRICA- P507745- Malawi Foundational Learning
+  Program for Results - Procurement Plan (D40137514)
+description: 'Malawi - EASTERN AND SOUTHERN AFRICA- P507745- Malawi Foundational Learning
+  Program for Results - Procurement Plan — a published World Bank project document
+  for the financed operation ''MW-Malawi Foundational Learning Program for Results
+  -- P507745'' (country: Malawi; lending instrument: Program-for-Results Financing;
+  major theme: n/a; document date 2026-11-04).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110426112522621/pdf/P507745-0899e9a1-6abd-4aed-b81a-6075248e0a00.pdf
-      (World Bank Documents & Records API; document D40137514; operation MW-Malawi Foundational Learning
-      Program for Results -- P507745)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137514; operation MW-Malawi
+      Foundational Learning Program for Results -- P507745)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - malawi
 change_scope: structure
 slug: d40137514-malawi-eastern-and-southern-africa-p50
+assigned_id: dea:change-initiative-d40137514-malawi-eastern-and-southern-africa-p50-q7h3fw
+admitted: '2026-11-15'

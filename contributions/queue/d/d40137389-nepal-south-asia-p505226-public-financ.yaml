@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137389
-name: Nepal - SOUTH ASIA- P505226- Public Financial Management for Development Effectiveness Project -
-  Procurement Plan (D40137389)
-description: 'Nepal - SOUTH ASIA- P505226- Public Financial Management for Development Effectiveness Project
-  - Procurement Plan — a published World Bank project document for the financed operation ''NP-Public
-  Financial Management for Development Effectiveness Project -- P505226'' (country: Nepal; lending instrument:
-  Investment Project Financing; major theme: n/a; document date 2026-11-04).'
+name: Nepal - SOUTH ASIA- P505226- Public Financial Management for Development Effectiveness
+  Project - Procurement Plan (D40137389)
+description: 'Nepal - SOUTH ASIA- P505226- Public Financial Management for Development
+  Effectiveness Project - Procurement Plan — a published World Bank project document
+  for the financed operation ''NP-Public Financial Management for Development Effectiveness
+  Project -- P505226'' (country: Nepal; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-04).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110426010528570/pdf/P505226-0afff5cd-cc17-4072-abba-2c70ce526925.pdf
-      (World Bank Documents & Records API; document D40137389; operation NP-Public Financial Management
-      for Development Effectiveness Project -- P505226)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137389; operation NP-Public
+      Financial Management for Development Effectiveness Project -- P505226)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - nepal
 change_scope: structure
 slug: d40137389-nepal-south-asia-p505226-public-financ
+assigned_id: dea:change-initiative-d40137389-nepal-south-asia-p505226-public-financ-yfnfew
+admitted: '2026-11-15'

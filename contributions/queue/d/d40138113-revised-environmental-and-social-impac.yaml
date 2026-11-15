@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138113
-name: Revised    Environmental and Social Impact Assessment  Sri Lanka’s Maternal and Early Childhood
-  Nutrition Services Project (P180886) (D40138113)
-description: 'Revised    Environmental and Social Impact Assessment  Sri Lanka’s Maternal and Early Childhood
-  Nutrition Services Project (P180886) — a published World Bank project document for the financed operation
-  ''LK-Sri Lanka’s Maternal and Early Childhood Nutrition Services Project -- P180886'' (country: Sri
-  Lanka; lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-09).'
+name: Revised    Environmental and Social Impact Assessment  Sri Lanka’s Maternal
+  and Early Childhood Nutrition Services Project (P180886) (D40138113)
+description: 'Revised    Environmental and Social Impact Assessment  Sri Lanka’s Maternal
+  and Early Childhood Nutrition Services Project (P180886) — a published World Bank
+  project document for the financed operation ''LK-Sri Lanka’s Maternal and Early
+  Childhood Nutrition Services Project -- P180886'' (country: Sri Lanka; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-09).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110926013031770/pdf/P180886-351f3790-f604-4f8b-98fb-594140b4fc9c.pdf
-      (World Bank Documents & Records API; document D40138113; operation LK-Sri Lanka’s Maternal and Early
-      Childhood Nutrition Services Project -- P180886)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138113; operation LK-Sri Lanka’s
+      Maternal and Early Childhood Nutrition Services Project -- P180886)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - sri-lanka
 change_scope: structure
 slug: d40138113-revised-environmental-and-social-impac
+assigned_id: dea:change-initiative-d40138113-revised-environmental-and-social-impac-hryrem
+admitted: '2026-11-15'

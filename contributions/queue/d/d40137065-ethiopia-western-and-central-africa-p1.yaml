@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137065
-name: Ethiopia - WESTERN AND CENTRAL AFRICA - P169265 - Harmonizing and Improving Statistics in West Africa
-  - Audited Financial Statement (D40137065)
-description: 'Ethiopia - WESTERN AND CENTRAL AFRICA - P169265 - Harmonizing and Improving Statistics in
-  West Africa - Audited Financial Statement — a published World Bank project document for the financed
-  operation ''3W-Harmonizing and Improving Statistics in West Africa -- P169265'' (country: Western and
-  Central Africa; lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-02).'
+name: Ethiopia - WESTERN AND CENTRAL AFRICA - P169265 - Harmonizing and Improving
+  Statistics in West Africa - Audited Financial Statement (D40137065)
+description: 'Ethiopia - WESTERN AND CENTRAL AFRICA - P169265 - Harmonizing and Improving
+  Statistics in West Africa - Audited Financial Statement — a published World Bank
+  project document for the financed operation ''3W-Harmonizing and Improving Statistics
+  in West Africa -- P169265'' (country: Western and Central Africa; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-02).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110226111060092/pdf/P169265-052b1de5-1e0c-47f9-a897-9538b9413aff.pdf
-      (World Bank Documents & Records API; document D40137065; operation 3W-Harmonizing and Improving
-      Statistics in West Africa -- P169265)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137065; operation 3W-Harmonizing
+      and Improving Statistics in West Africa -- P169265)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - western-and-central
 change_scope: structure
 slug: d40137065-ethiopia-western-and-central-africa-p1
+assigned_id: dea:change-initiative-d40137065-ethiopia-western-and-central-africa-p1-4u9ara
+admitted: '2026-11-15'

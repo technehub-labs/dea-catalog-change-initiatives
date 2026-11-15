@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138135
-name: Turkiye - EUROPE AND CENTRAL ASIA- P502837- T?rkiye Small Industrial Estates Reconstruction and
-  Regional Economic Recovery Project - Procurement Plan (D40138135)
-description: 'Turkiye - EUROPE AND CENTRAL ASIA- P502837- T?rkiye Small Industrial Estates Reconstruction
-  and Regional Economic Recovery Project - Procurement Plan — a published World Bank project document
-  for the financed operation ''TR-Türkiye Small Industrial Estates Reconstruction and Regional Economic
-  Recovery Project -- P502837'' (country: Turkiye; lending instrument: Investment Project Financing; major
+name: Turkiye - EUROPE AND CENTRAL ASIA- P502837- T?rkiye Small Industrial Estates
+  Reconstruction and Regional Economic Recovery Project - Procurement Plan (D40138135)
+description: 'Turkiye - EUROPE AND CENTRAL ASIA- P502837- T?rkiye Small Industrial
+  Estates Reconstruction and Regional Economic Recovery Project - Procurement Plan
+  — a published World Bank project document for the financed operation ''TR-Türkiye
+  Small Industrial Estates Reconstruction and Regional Economic Recovery Project --
+  P502837'' (country: Turkiye; lending instrument: Investment Project Financing; major
   theme: n/a; document date 2026-11-09).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110926034520314/pdf/P502837-cd5b9ddc-e25c-43b8-9d06-0c5c9aff2728.pdf
-      (World Bank Documents & Records API; document D40138135; operation TR-Türkiye Small Industrial Estates
-      Reconstruction and Regional Economic Recovery Project -- P502837)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138135; operation TR-Türkiye
+      Small Industrial Estates Reconstruction and Regional Economic Recovery Project
+      -- P502837)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - turkiye
 change_scope: structure
 slug: d40138135-turkiye-europe-and-central-asia-p50283
+assigned_id: dea:change-initiative-d40138135-turkiye-europe-and-central-asia-p50283-2qx9hh
+admitted: '2026-11-15'

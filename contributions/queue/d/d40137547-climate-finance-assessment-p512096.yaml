@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137547
 name: Climate Finance Assessment (P512096) (D40137547)
-description: 'Climate Finance Assessment (P512096) — a published World Bank project document for the financed
-  operation ''EC-Ecuador Resilient Infrastructure Project -- P512096'' (country: Ecuador; lending instrument:
-  Investment Project Financing; major theme: n/a; document date 2026-11-04).'
+description: 'Climate Finance Assessment (P512096) — a published World Bank project
+  document for the financed operation ''EC-Ecuador Resilient Infrastructure Project
+  -- P512096'' (country: Ecuador; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-04).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110426161022659/pdf/P512096-4df68e1c-5d06-46db-88a8-26864f6d1f7e.pdf
-      (World Bank Documents & Records API; document D40137547; operation EC-Ecuador Resilient Infrastructure
-      Project -- P512096)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137547; operation EC-Ecuador
+      Resilient Infrastructure Project -- P512096)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - ecuador
 change_scope: structure
 slug: d40137547-climate-finance-assessment-p512096
+assigned_id: dea:change-initiative-d40137547-climate-finance-assessment-p512096-hbkwye
+admitted: '2026-11-15'

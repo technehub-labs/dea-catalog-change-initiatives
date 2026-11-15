@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138933
 name: Biodiversity Action Plan  Liberia Economic Corridors (P513497) (D40138933)
-description: 'Biodiversity Action Plan  Liberia Economic Corridors (P513497) — a published World Bank
-  project document for the financed operation ''LR-Liberia Economic Corridors -- P513497'' (country: Liberia;
-  lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-12).'
+description: 'Biodiversity Action Plan  Liberia Economic Corridors (P513497) — a published
+  World Bank project document for the financed operation ''LR-Liberia Economic Corridors
+  -- P513497'' (country: Liberia; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-12).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111226202022242/pdf/P513497-34536a05-efe5-49f4-a06e-f00a16ed696e.pdf
-      (World Bank Documents & Records API; document D40138933; operation LR-Liberia Economic Corridors
-      -- P513497)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138933; operation LR-Liberia
+      Economic Corridors -- P513497)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - liberia
 change_scope: structure
 slug: d40138933-biodiversity-action-plan-liberia-econo
+assigned_id: dea:change-initiative-d40138933-biodiversity-action-plan-liberia-econo-7fmucv
+admitted: '2026-11-15'

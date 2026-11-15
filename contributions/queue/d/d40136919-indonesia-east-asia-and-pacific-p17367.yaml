@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40136919
-name: 'Indonesia - EAST ASIA AND PACIFIC- P173671- Indonesia: National Urban Flood Resilience Project
-  (NUFReP) - Procurement Plan (D40136919)'
-description: 'Indonesia - EAST ASIA AND PACIFIC- P173671- Indonesia: National Urban Flood Resilience Project
-  (NUFReP) - Procurement Plan — a published World Bank project document for the financed operation ''ID-Indonesia:
-  National Urban Flood Resilience Project (NUFReP) -- P173671'' (country: Indonesia; lending instrument:
-  Investment Project Financing; major theme: n/a; document date 2026-11-02).'
+name: 'Indonesia - EAST ASIA AND PACIFIC- P173671- Indonesia: National Urban Flood
+  Resilience Project (NUFReP) - Procurement Plan (D40136919)'
+description: 'Indonesia - EAST ASIA AND PACIFIC- P173671- Indonesia: National Urban
+  Flood Resilience Project (NUFReP) - Procurement Plan — a published World Bank project
+  document for the financed operation ''ID-Indonesia: National Urban Flood Resilience
+  Project (NUFReP) -- P173671'' (country: Indonesia; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-02).'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://documents.worldbank.org/curated/en/099110126232017510/pdf/P173671-8d2e7de0-c992-4746-ae43-46203de9af91.pdf
-      (World Bank Documents & Records API; document D40136919; operation ID-Indonesia: National Urban
-      Flood Resilience Project (NUFReP) -- P173671)'
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40136919; operation ID-Indonesia:
+      National Urban Flood Resilience Project (NUFReP) -- P173671)'
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - indonesia
 change_scope: structure
 slug: d40136919-indonesia-east-asia-and-pacific-p17367
+assigned_id: dea:change-initiative-d40136919-indonesia-east-asia-and-pacific-p17367-u3xp6t
+admitted: '2026-11-15'

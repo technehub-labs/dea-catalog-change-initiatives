@@ -1,0 +1,42 @@
+id: dea:change-initiative-d40139137-madagascar-eastern-and-southern-africa-evbkww
+type: ChangeInitiative
+name: Madagascar - EASTERN AND SOUTHERN AFRICA - P178701 - Digital and Energy Connectivity
+  for Inclusion in Madagascar Project - Audited Financial Statement (D40139137)
+description: 'Madagascar - EASTERN AND SOUTHERN AFRICA - P178701 - Digital and Energy
+  Connectivity for Inclusion in Madagascar Project - Audited Financial Statement —
+  a published World Bank project document for the financed operation ''MG-Digital
+  and Energy Connectivity for Inclusion in Madagascar Project -- P178701'' (country:
+  Madagascar; lending instrument: Investment Project Financing; major theme: n/a;
+  document date 2026-11-05).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111326132577434/pdf/P178701-930e6e1d-32af-4a6f-ab56-ab87e1c78d04.pdf
+      (World Bank Documents & Records API; document D40139137; operation MG-Digital
+      and Energy Connectivity for Inclusion in Madagascar Project -- P178701)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- madagascar

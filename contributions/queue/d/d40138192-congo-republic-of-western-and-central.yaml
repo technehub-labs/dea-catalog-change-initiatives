@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138192
-name: Congo, Republic of - WESTERN AND CENTRAL AFRICA- P179410- Transforming the Education Sector for
-  Better Outcomes and Results (TRESOR) - Procurement Plan (D40138192)
-description: 'Congo, Republic of - WESTERN AND CENTRAL AFRICA- P179410- Transforming the Education Sector
-  for Better Outcomes and Results (TRESOR) - Procurement Plan — a published World Bank project document
-  for the financed operation ''CG-Transforming the Education Sector for Better Outcomes and Results (TRESOR)
-  -- P179410'' (country: Congo, Republic of; lending instrument: Program-for-Results Financing; major
-  theme: n/a; document date 2026-11-09).'
+name: Congo, Republic of - WESTERN AND CENTRAL AFRICA- P179410- Transforming the Education
+  Sector for Better Outcomes and Results (TRESOR) - Procurement Plan (D40138192)
+description: 'Congo, Republic of - WESTERN AND CENTRAL AFRICA- P179410- Transforming
+  the Education Sector for Better Outcomes and Results (TRESOR) - Procurement Plan
+  — a published World Bank project document for the financed operation ''CG-Transforming
+  the Education Sector for Better Outcomes and Results (TRESOR) -- P179410'' (country:
+  Congo, Republic of; lending instrument: Program-for-Results Financing; major theme:
+  n/a; document date 2026-11-09).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110926094591665/pdf/P179410-c9955d06-3539-40b9-b4b0-047adcdd5012.pdf
-      (World Bank Documents & Records API; document D40138192; operation CG-Transforming the Education
-      Sector for Better Outcomes and Results (TRESOR) -- P179410)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138192; operation CG-Transforming
+      the Education Sector for Better Outcomes and Results (TRESOR) -- P179410)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - congo-republic-of
 change_scope: structure
 slug: d40138192-congo-republic-of-western-and-central
+assigned_id: dea:change-initiative-d40138192-congo-republic-of-western-and-central-3cdca5
+admitted: '2026-11-15'

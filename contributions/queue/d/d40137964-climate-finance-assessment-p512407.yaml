@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137964
 name: Climate Finance Assessment (P512407) (D40137964)
-description: 'Climate Finance Assessment (P512407) — a published World Bank project document for the financed
-  operation ''VN-Sustainable Fisheries Development Project -- P512407'' (country: Viet Nam; lending instrument:
-  Investment Project Financing; major theme: n/a; document date 2026-11-06).'
+description: 'Climate Finance Assessment (P512407) — a published World Bank project
+  document for the financed operation ''VN-Sustainable Fisheries Development Project
+  -- P512407'' (country: Viet Nam; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-06).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110626132038920/pdf/P512407-608961a8-2035-44db-aa2a-1105abf0669f.pdf
-      (World Bank Documents & Records API; document D40137964; operation VN-Sustainable Fisheries Development
-      Project -- P512407)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137964; operation VN-Sustainable
+      Fisheries Development Project -- P512407)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - viet-nam
 change_scope: structure
 slug: d40137964-climate-finance-assessment-p512407
+assigned_id: dea:change-initiative-d40137964-climate-finance-assessment-p512407-nra8aq
+admitted: '2026-11-15'

@@ -1,0 +1,41 @@
+id: dea:change-initiative-d40138700-kyrgyz-republic-europe-and-central-asi-dr9zpr
+type: ChangeInitiative
+name: Kyrgyz Republic - EUROPE AND CENTRAL ASIA- P167428- Kyrgyz Republic Regional
+  Economic Development Project - Procurement Plan (D40138700)
+description: 'Kyrgyz Republic - EUROPE AND CENTRAL ASIA- P167428- Kyrgyz Republic
+  Regional Economic Development Project - Procurement Plan — a published World Bank
+  project document for the financed operation ''KG-Kyrgyz Republic Regional Economic
+  Development Project -- P167428'' (country: Kyrgyz Republic; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-12).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111126220522048/pdf/P167428-ef71885b-c4b4-466e-8ec9-24844cee918b.pdf
+      (World Bank Documents & Records API; document D40138700; operation KG-Kyrgyz
+      Republic Regional Economic Development Project -- P167428)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- kyrgyz-republic

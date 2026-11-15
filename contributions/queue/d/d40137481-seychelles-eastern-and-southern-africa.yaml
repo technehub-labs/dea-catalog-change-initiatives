@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137481
-name: Seychelles - EASTERN AND SOUTHERN AFRICA- P519008- Preparation Grant for Seychelles Resilient Infrastructure
-  Program  - Procurement Plan (D40137481)
-description: 'Seychelles - EASTERN AND SOUTHERN AFRICA- P519008- Preparation Grant for Seychelles Resilient
-  Infrastructure Program  - Procurement Plan — a published World Bank project document for the financed
-  operation ''SC-Preparation Grant for Seychelles Resilient Infrastructure Program -- P519008'' (country:
-  Seychelles; lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-04).'
+name: Seychelles - EASTERN AND SOUTHERN AFRICA- P519008- Preparation Grant for Seychelles
+  Resilient Infrastructure Program  - Procurement Plan (D40137481)
+description: 'Seychelles - EASTERN AND SOUTHERN AFRICA- P519008- Preparation Grant
+  for Seychelles Resilient Infrastructure Program  - Procurement Plan — a published
+  World Bank project document for the financed operation ''SC-Preparation Grant for
+  Seychelles Resilient Infrastructure Program -- P519008'' (country: Seychelles; lending
+  instrument: Investment Project Financing; major theme: n/a; document date 2026-11-04).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110426092533604/pdf/P519008-bcec15c0-d1eb-492b-8de4-80d804afc73b.pdf
-      (World Bank Documents & Records API; document D40137481; operation SC-Preparation Grant for Seychelles
-      Resilient Infrastructure Program -- P519008)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40137481; operation SC-Preparation
+      Grant for Seychelles Resilient Infrastructure Program -- P519008)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - seychelles
 change_scope: structure
 slug: d40137481-seychelles-eastern-and-southern-africa
+assigned_id: dea:change-initiative-d40137481-seychelles-eastern-and-southern-africa-2qutgf
+admitted: '2026-11-15'

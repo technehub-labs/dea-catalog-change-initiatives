@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40136932
-name: 'Additional Financing Environmental and Social Review Summary (ESRS) - Sudan - Enhancing Community
-  Resilience Project - P181490 - AF No: 4 (D40136932)'
-description: 'Additional Financing Environmental and Social Review Summary (ESRS) - Sudan - Enhancing
-  Community Resilience Project - P181490 - AF No: 4 — a published World Bank project document for the
-  financed operation ''SD-Sudan - Enhancing Community Resilience Project -- P181490'' (country: Sudan;
-  lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-02).'
+name: 'Additional Financing Environmental and Social Review Summary (ESRS) - Sudan
+  - Enhancing Community Resilience Project - P181490 - AF No: 4 (D40136932)'
+description: 'Additional Financing Environmental and Social Review Summary (ESRS)
+  - Sudan - Enhancing Community Resilience Project - P181490 - AF No: 4 — a published
+  World Bank project document for the financed operation ''SD-Sudan - Enhancing Community
+  Resilience Project -- P181490'' (country: Sudan; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-02).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110226011024731/pdf/P181490-d7345bef-1c92-438e-a743-904661bc914d.pdf
-      (World Bank Documents & Records API; document D40136932; operation SD-Sudan - Enhancing Community
-      Resilience Project -- P181490)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40136932; operation SD-Sudan
+      - Enhancing Community Resilience Project -- P181490)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - sudan
 change_scope: structure
 slug: d40136932-additional-financing-environmental-and
+assigned_id: dea:change-initiative-d40136932-additional-financing-environmental-and-hw8ne9
+admitted: '2026-11-15'

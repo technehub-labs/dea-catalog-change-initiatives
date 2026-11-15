@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138132
-name: West Bank and Gaza - MID EAST,NORTH AFRICA,AFG,PAK- P174355- Digital West Bank  and  Gaza Project
-  - Procurement Plan (D40138132)
-description: 'West Bank and Gaza - MID EAST,NORTH AFRICA,AFG,PAK- P174355- Digital West Bank  and  Gaza
-  Project - Procurement Plan — a published World Bank project document for the financed operation ''GZ-Digital
-  West Bank & Gaza Project -- P174355'' (country: West Bank and Gaza; lending instrument: Investment Project
-  Financing; major theme: n/a; document date 2026-11-09).'
+name: West Bank and Gaza - MID EAST,NORTH AFRICA,AFG,PAK- P174355- Digital West Bank  and  Gaza
+  Project - Procurement Plan (D40138132)
+description: 'West Bank and Gaza - MID EAST,NORTH AFRICA,AFG,PAK- P174355- Digital
+  West Bank  and  Gaza Project - Procurement Plan — a published World Bank project
+  document for the financed operation ''GZ-Digital West Bank & Gaza Project -- P174355''
+  (country: West Bank and Gaza; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-09).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110926032029041/pdf/P174355-9c16e7ea-bf13-44c2-8eb6-29f6b06cdb13.pdf
-      (World Bank Documents & Records API; document D40138132; operation GZ-Digital West Bank & Gaza Project
-      -- P174355)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138132; operation GZ-Digital
+      West Bank & Gaza Project -- P174355)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - west-bank-and-gaza
 change_scope: structure
 slug: d40138132-west-bank-and-gaza-mid-east-north-afri
+assigned_id: dea:change-initiative-d40138132-west-bank-and-gaza-mid-east-north-afri-k8uh9g
+admitted: '2026-11-15'

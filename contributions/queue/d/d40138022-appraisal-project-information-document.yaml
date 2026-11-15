@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138022
 name: Appraisal Project Information Document (PID) (D40138022)
-description: 'Appraisal Project Information Document (PID) — a published World Bank project document for
-  the financed operation ''SD-Sudan Transition to Agriculture Recovery and Resilience Project -- P514272''
-  (country: Sudan; lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-07).'
+description: 'Appraisal Project Information Document (PID) — a published World Bank
+  project document for the financed operation ''SD-Sudan Transition to Agriculture
+  Recovery and Resilience Project -- P514272'' (country: Sudan; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-07).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110726043517553/pdf/P514272-e1024461-1bfb-4c90-bcb9-a8ac3ffa5279.pdf
-      (World Bank Documents & Records API; document D40138022; operation SD-Sudan Transition to Agriculture
-      Recovery and Resilience Project -- P514272)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138022; operation SD-Sudan
+      Transition to Agriculture Recovery and Resilience Project -- P514272)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - sudan
 change_scope: structure
 slug: d40138022-appraisal-project-information-document
+assigned_id: dea:change-initiative-d40138022-appraisal-project-information-document-jwkpq3
+admitted: '2026-11-15'

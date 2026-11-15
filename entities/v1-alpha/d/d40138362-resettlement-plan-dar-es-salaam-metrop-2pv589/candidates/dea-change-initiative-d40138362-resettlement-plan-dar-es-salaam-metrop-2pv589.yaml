@@ -1,0 +1,41 @@
+id: dea:change-initiative-d40138362-resettlement-plan-dar-es-salaam-metrop-2pv589
+type: ChangeInitiative
+name: Resettlement Plan Dar es Salaam Metropolitan Development Project Phase 2  (P180298)
+  (D40138362)
+description: 'Resettlement Plan Dar es Salaam Metropolitan Development Project Phase
+  2  (P180298) — a published World Bank project document for the financed operation
+  ''TZ-Dar es Salaam Metropolitan Development Project Phase 2 -- P180298'' (country:
+  Tanzania; lending instrument: Investment Project Financing; major theme: n/a; document
+  date 2026-11-10).'
+version: 0.1.0
+lifecycle_status: proposed
+change_scope: structure
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111026061020596/pdf/P180298-4768c80d-05ee-4c6d-bd06-2b96f376c54d.pdf
+      (World Bank Documents & Records API; document D40138362; operation TZ-Dar es
+      Salaam Metropolitan Development Project Phase 2 -- P180298)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- world-bank
+- tanzania

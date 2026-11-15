@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40138392
-name: Congo, Democratic Republic of - EASTERN AND SOUTHERN AFRICA- P513798- DRC Development of Statistical
-  Capacity to Improve Decision-Making (DECIDE) Project - Procurement Plan (D40138392)
-description: 'Congo, Democratic Republic of - EASTERN AND SOUTHERN AFRICA- P513798- DRC Development of
-  Statistical Capacity to Improve Decision-Making (DECIDE) Project - Procurement Plan — a published World
-  Bank project document for the financed operation ''ZR-DRC Development of Statistical Capacity to Improve
-  Decision-Making (DECIDE) Project -- P513798'' (country: Congo, Democratic Republic of; lending instrument:
+name: Congo, Democratic Republic of - EASTERN AND SOUTHERN AFRICA- P513798- DRC Development
+  of Statistical Capacity to Improve Decision-Making (DECIDE) Project - Procurement
+  Plan (D40138392)
+description: 'Congo, Democratic Republic of - EASTERN AND SOUTHERN AFRICA- P513798-
+  DRC Development of Statistical Capacity to Improve Decision-Making (DECIDE) Project
+  - Procurement Plan — a published World Bank project document for the financed operation
+  ''ZR-DRC Development of Statistical Capacity to Improve Decision-Making (DECIDE)
+  Project -- P513798'' (country: Congo, Democratic Republic of; lending instrument:
   Investment Project Financing; major theme: n/a; document date 2026-11-10).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111026083033679/pdf/P513798-b6517ad7-31fa-4cce-942d-7763354dab42.pdf
-      (World Bank Documents & Records API; document D40138392; operation ZR-DRC Development of Statistical
-      Capacity to Improve Decision-Making (DECIDE) Project -- P513798)
-  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. change_scope=structure
-    is a provisional programmatic default (World Bank operations are institutional-change programmes);
-    per-organization scope classification is a canonical-admission decision.
+      (World Bank Documents & Records API; document D40138392; operation ZR-DRC Development
+      of Statistical Capacity to Improve Decision-Making (DECIDE) Project -- P513798)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. change_scope=structure is a provisional programmatic
+    default (World Bank operations are institutional-change programmes); per-organization
+    scope classification is a canonical-admission decision.
 tags:
 - world-bank
 - congo-democratic-rep
 change_scope: structure
 slug: d40138392-congo-democratic-republic-of-eastern-a
+assigned_id: dea:change-initiative-d40138392-congo-democratic-republic-of-eastern-a-73yxja
+admitted: '2026-11-15'
