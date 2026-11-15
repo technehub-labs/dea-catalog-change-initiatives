@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138822
+name: Mozambique - EASTERN AND SOUTHERN AFRICA- P175322- Maputo Metropolitan Area Urban Mobility Project
+  - Procurement Plan (D40138822)
+description: 'Mozambique - EASTERN AND SOUTHERN AFRICA- P175322- Maputo Metropolitan Area Urban Mobility
+  Project - Procurement Plan — a published World Bank project document for the financed operation ''MZ-Maputo
+  Metropolitan Area Urban Mobility Project -- P175322'' (country: n/a; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-12).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111226063533817/pdf/P175322-a1bee5cb-5fb6-4e0c-9521-adf33eadba83.pdf
+      (World Bank Documents & Records API; document D40138822; operation MZ-Maputo Metropolitan Area Urban
+      Mobility Project -- P175322)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+change_scope: structure
+slug: d40138822-mozambique-eastern-and-southern-africa

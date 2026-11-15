@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138602
+name: 'Horn of Africa - EASTERN AND SOUTHERN AFRICA- P174485- Horn of Africa Initiative: Regional Economic
+  Corridor Project (Addis-Djibouti Corridor) - Procurement Plan (D40138602)'
+description: 'Horn of Africa - EASTERN AND SOUTHERN AFRICA- P174485- Horn of Africa Initiative: Regional
+  Economic Corridor Project (Addis-Djibouti Corridor) - Procurement Plan — a published World Bank project
+  document for the financed operation ''E5-Horn of Africa Initiative: Regional Economic Corridor Project
+  (Addis-Djibouti Corridor) -- P174485'' (country: Horn of Africa; lending instrument: Investment Project
+  Financing; major theme: n/a; document date 2026-11-11).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://documents.worldbank.org/curated/en/099111126090527965/pdf/P174485-83733333-f19b-428d-9545-9de5a2f53bf2.pdf
+      (World Bank Documents & Records API; document D40138602; operation E5-Horn of Africa Initiative:
+      Regional Economic Corridor Project (Addis-Djibouti Corridor) -- P174485)'
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- horn-of-africa
+change_scope: structure
+slug: d40138602-horn-of-africa-eastern-and-southern-af

@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138334
+name: 'Disclosable Version of the ISR - Transforming Access and Learning in Madagascar - P506569 - Sequence
+  No : 3 (D40138334)'
+description: 'Disclosable Version of the ISR - Transforming Access and Learning in Madagascar - P506569
+  - Sequence No : 3 — a published World Bank project document for the financed operation ''MG-Transforming
+  Access and Learning in Madagascar -- P506569'' (country: Madagascar; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-10).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111026045023891/pdf/P506569-f49b0435-a8ca-4044-b6f8-7176848f960e.pdf
+      (World Bank Documents & Records API; document D40138334; operation MG-Transforming Access and Learning
+      in Madagascar -- P506569)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- madagascar
+change_scope: structure
+slug: d40138334-disclosable-version-of-the-isr-transfo

@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40139079
+name: Suriname - LATIN AMERICA AND CARIBBEAN- P166187- Competitiveness and Sector Diversification - Procurement
+  Plan (D40139079)
+description: 'Suriname - LATIN AMERICA AND CARIBBEAN- P166187- Competitiveness and Sector Diversification
+  - Procurement Plan — a published World Bank project document for the financed operation ''SR-Competitiveness
+  and Sector Diversification -- P166187'' (country: Suriname; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-13).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111326103571672/pdf/P166187-2c4f0a4b-2ce0-4f6e-995c-31f0823d59af.pdf
+      (World Bank Documents & Records API; document D40139079; operation SR-Competitiveness and Sector
+      Diversification -- P166187)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- suriname
+change_scope: structure
+slug: d40139079-suriname-latin-america-and-caribbean-p

@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137422
+name: Lebanon - MID EAST,NORTH AFRICA,AFG,PAK- P181954- GFPP for Lebanon Digital Acceleration Project
+  - Procurement Plan (D40137422)
+description: 'Lebanon - MID EAST,NORTH AFRICA,AFG,PAK- P181954- GFPP for Lebanon Digital Acceleration
+  Project - Procurement Plan — a published World Bank project document for the financed operation ''LB-GFPP
+  for Lebanon Digital Acceleration Project -- P181954'' (country: Lebanon; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-04).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110426052512077/pdf/P181954-a0f23d3d-f1a9-42ba-8f7e-9bd9a15ed3e8.pdf
+      (World Bank Documents & Records API; document D40137422; operation LB-GFPP for Lebanon Digital Acceleration
+      Project -- P181954)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- lebanon
+change_scope: structure
+slug: d40137422-lebanon-mid-east-north-africa-afg-pak

@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138136
+name: Appraisal Project Information Document (PID) (D40138136)
+description: 'Appraisal Project Information Document (PID) — a published World Bank project document for
+  the financed operation ''W1-Senegal-Mauritania Accelerating gas Resources for economic Transformation
+  - Phase 1 -- P516520'' (country: West Africa I; lending instrument: Investment Project Financing; major
+  theme: n/a; document date 2026-11-09).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110926034533490/pdf/P516520-0acd0754-bcdc-4361-96ed-1bd192cc56c4.pdf
+      (World Bank Documents & Records API; document D40138136; operation W1-Senegal-Mauritania Accelerating
+      gas Resources for economic Transformation - Phase 1 -- P516520)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- west-africa-i
+change_scope: structure
+slug: d40138136-appraisal-project-information-document

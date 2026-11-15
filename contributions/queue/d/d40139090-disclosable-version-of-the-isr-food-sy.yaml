@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40139090
+name: 'Disclosable Version of the ISR - Food Systems Resilience Program for Eastern and Southern Africa
+  - P178566 - Sequence No : 8 (D40139090)'
+description: 'Disclosable Version of the ISR - Food Systems Resilience Program for Eastern and Southern
+  Africa - P178566 - Sequence No : 8 — a published World Bank project document for the financed operation
+  ''3E-Food Systems Resilience Program for Eastern and Southern Africa -- P178566'' (country: Eastern
+  and Southern Africa; lending instrument: Investment Project Financing; major theme: n/a; document date
+  2026-11-13).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111326105037634/pdf/P178566-6951da09-47b4-4caa-9eba-68f015f9dd3c.pdf
+      (World Bank Documents & Records API; document D40139090; operation 3E-Food Systems Resilience Program
+      for Eastern and Southern Africa -- P178566)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- eastern-and-southern
+change_scope: structure
+slug: d40139090-disclosable-version-of-the-isr-food-sy

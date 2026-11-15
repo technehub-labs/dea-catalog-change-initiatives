@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138482
+name: Peru - LATIN AMERICA AND CARIBBEAN- P176297- STRENGTHENING PERU'S NATIONAL SCIENCE, TECHNOLOGY AND
+  INNOVATION SYSTEM - Procurement Plan (D40138482)
+description: 'Peru - LATIN AMERICA AND CARIBBEAN- P176297- STRENGTHENING PERU''S NATIONAL SCIENCE, TECHNOLOGY
+  AND INNOVATION SYSTEM - Procurement Plan — a published World Bank project document for the financed
+  operation ''PE-STRENGTHENING PERU''S NATIONAL SCIENCE, TECHNOLOGY AND INNOVATION SYSTEM -- P176297''
+  (country: Peru; lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-10).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111026161519197/pdf/P176297-ab44d47c-cd6a-47fb-84b5-dd116ade40b3.pdf
+      (World Bank Documents & Records API; document D40138482; operation PE-STRENGTHENING PERU'S NATIONAL
+      SCIENCE, TECHNOLOGY AND INNOVATION SYSTEM -- P176297)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- peru
+change_scope: structure
+slug: d40138482-peru-latin-america-and-caribbean-p1762

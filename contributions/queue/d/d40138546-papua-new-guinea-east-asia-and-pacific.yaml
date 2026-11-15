@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138546
+name: Papua New Guinea - EAST ASIA AND PACIFIC- P166420- Urban Youth Employment Project II - Procurement
+  Plan (D40138546)
+description: 'Papua New Guinea - EAST ASIA AND PACIFIC- P166420- Urban Youth Employment Project II - Procurement
+  Plan — a published World Bank project document for the financed operation ''PG-Urban Youth Employment
+  Project II -- P166420'' (country: Papua New Guinea; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-11).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111126033522814/pdf/P166420-631c8898-7e72-407c-b881-ee252285117a.pdf
+      (World Bank Documents & Records API; document D40138546; operation PG-Urban Youth Employment Project
+      II -- P166420)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- papua-new-guinea
+change_scope: structure
+slug: d40138546-papua-new-guinea-east-asia-and-pacific

@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138372
+name: Western and Central Africa - WESTERN AND CENTRAL AFRICA- P175525- West Africa Coastal Areas Resilience
+  Investment Project 2 - Procurement Plan (D40138372)
+description: 'Western and Central Africa - WESTERN AND CENTRAL AFRICA- P175525- West Africa Coastal Areas
+  Resilience Investment Project 2 - Procurement Plan — a published World Bank project document for the
+  financed operation ''3W-West Africa Coastal Areas Resilience Investment Project 2 -- P175525'' (country:
+  Western and Central Africa; lending instrument: Investment Project Financing; major theme: n/a; document
+  date 2026-11-10).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111026071024427/pdf/P175525-d26b4065-1ba8-4006-9a71-2ac0e5dd30f1.pdf
+      (World Bank Documents & Records API; document D40138372; operation 3W-West Africa Coastal Areas
+      Resilience Investment Project 2 -- P175525)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- western-and-central
+change_scope: structure
+slug: d40138372-western-and-central-africa-western-and

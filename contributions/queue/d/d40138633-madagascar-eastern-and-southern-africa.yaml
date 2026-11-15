@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138633
+name: Madagascar - EASTERN AND SOUTHERN AFRICA- P174477- Madagascar National Water Project - Procurement
+  Plan (D40138633)
+description: 'Madagascar - EASTERN AND SOUTHERN AFRICA- P174477- Madagascar National Water Project - Procurement
+  Plan — a published World Bank project document for the financed operation ''MG-Madagascar National Water
+  Project -- P174477'' (country: Madagascar; lending instrument: Investment Project Financing; major theme:
+  n/a; document date 2026-11-11).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111126103599673/pdf/P174477-46394b78-7f83-46ac-b461-01c53eda564a.pdf
+      (World Bank Documents & Records API; document D40138633; operation MG-Madagascar National Water
+      Project -- P174477)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- madagascar
+change_scope: structure
+slug: d40138633-madagascar-eastern-and-southern-africa

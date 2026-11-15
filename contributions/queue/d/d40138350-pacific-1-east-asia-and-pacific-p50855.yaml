@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138350
+name: Pacific 1 - EAST ASIA AND PACIFIC- P508550- Pacific Healthy Islands Transformation Project - Procurement
+  Plan (D40138350)
+description: 'Pacific 1 - EAST ASIA AND PACIFIC- P508550- Pacific Healthy Islands Transformation Project
+  - Procurement Plan — a published World Bank project document for the financed operation ''P3-Pacific
+  Healthy Islands Transformation Project -- P508550'' (country: Pacific 1; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-10).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111026055025070/pdf/P508550-1a10d19f-12da-4492-a2d5-56539c9f2b02.pdf
+      (World Bank Documents & Records API; document D40138350; operation P3-Pacific Healthy Islands Transformation
+      Project -- P508550)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- pacific-1
+change_scope: structure
+slug: d40138350-pacific-1-east-asia-and-pacific-p50855

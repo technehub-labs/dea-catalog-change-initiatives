@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137624
+name: Revised  Environmental and Social Code of Practice (ESCOP) Advancing Learning Entrepreneurship and
+  Markets for Artificial Intelligence (P513072) (D40137624)
+description: 'Revised  Environmental and Social Code of Practice (ESCOP) Advancing Learning Entrepreneurship
+  and Markets for Artificial Intelligence (P513072) — a published World Bank project document for the
+  financed operation ''KZ-Advancing Learning, Entrepreneurship, and Markets for Artificial Intelligence
+  -- P513072'' (country: Kazakhstan; lending instrument: Investment Project Financing; major theme: n/a;
+  document date 2026-11-05).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110526011522531/pdf/P513072-855da71e-66bc-4aac-a3e8-7b7226895923.pdf
+      (World Bank Documents & Records API; document D40137624; operation KZ-Advancing Learning, Entrepreneurship,
+      and Markets for Artificial Intelligence -- P513072)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- kazakhstan
+change_scope: structure
+slug: d40137624-revised-environmental-and-social-code

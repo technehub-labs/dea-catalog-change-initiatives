@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137866
+name: Bosnia and Herzegovina - EUROPE AND CENTRAL ASIA- P180409- Geospatial Infrastructure and Valuation
+  Enhancement Project (GIVE) - Procurement Plan (D40137866)
+description: 'Bosnia and Herzegovina - EUROPE AND CENTRAL ASIA- P180409- Geospatial Infrastructure and
+  Valuation Enhancement Project (GIVE) - Procurement Plan — a published World Bank project document for
+  the financed operation ''BA-Geospatial Infrastructure and Valuation Enhancement Project (GIVE) -- P180409''
+  (country: Bosnia and Herzegovina; lending instrument: Investment Project Financing; major theme: n/a;
+  document date 2026-11-06).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110626062538889/pdf/P180409-4c3c51d1-6a83-47d3-835d-efa56600a754.pdf
+      (World Bank Documents & Records API; document D40137866; operation BA-Geospatial Infrastructure
+      and Valuation Enhancement Project (GIVE) -- P180409)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- bosnia-and-herzegovi
+change_scope: structure
+slug: d40137866-bosnia-and-herzegovina-europe-and-cent

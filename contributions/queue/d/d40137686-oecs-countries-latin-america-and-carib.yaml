@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137686
+name: OECS Countries - LATIN AMERICA AND CARIBBEAN- P174986- OECS Data for Decision Making (DDM) Project
+  - Procurement Plan (D40137686)
+description: 'OECS Countries - LATIN AMERICA AND CARIBBEAN- P174986- OECS Data for Decision Making (DDM)
+  Project - Procurement Plan — a published World Bank project document for the financed operation ''6O-OECS
+  Data for Decision Making (DDM) Project -- P174986'' (country: OECS Countries; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-05).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110526071551268/pdf/P174986-b1adcb1e-3d08-450c-a4a1-46105cc808eb.pdf
+      (World Bank Documents & Records API; document D40137686; operation 6O-OECS Data for Decision Making
+      (DDM) Project -- P174986)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- oecs-countries
+change_scope: structure
+slug: d40137686-oecs-countries-latin-america-and-carib

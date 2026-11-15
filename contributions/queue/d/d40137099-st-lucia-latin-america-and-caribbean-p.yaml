@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137099
+name: St. Lucia - LATIN AMERICA AND CARIBBEAN- P504998- Saint Lucia Urban Resilient Flood Investment Project
+  - Procurement Plan (D40137099)
+description: 'St. Lucia - LATIN AMERICA AND CARIBBEAN- P504998- Saint Lucia Urban Resilient Flood Investment
+  Project - Procurement Plan — a published World Bank project document for the financed operation ''LC-Saint
+  Lucia Urban Resilient Flood Investment Project -- P504998'' (country: St. Lucia; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-02).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110226125535083/pdf/P504998-5545fa9b-3bad-4487-b41c-f40da6c7f8f2.pdf
+      (World Bank Documents & Records API; document D40137099; operation LC-Saint Lucia Urban Resilient
+      Flood Investment Project -- P504998)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- st-lucia
+change_scope: structure
+slug: d40137099-st-lucia-latin-america-and-caribbean-p

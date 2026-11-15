@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138239
+name: Resettlement Plan Viet Nam Coastal Hazard Resilience Strengthening Project (P517731) (D40138239)
+description: 'Resettlement Plan Viet Nam Coastal Hazard Resilience Strengthening Project (P517731) — a
+  published World Bank project document for the financed operation ''VN-Viet Nam Coastal Hazard Resilience
+  Strengthening Project -- P517731'' (country: Viet Nam; lending instrument: Investment Project Financing;
+  major theme: n/a; document date 2026-11-09).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110926125011239/pdf/P517731-bced7969-9d42-4ad6-a382-cefd387531dc.pdf
+      (World Bank Documents & Records API; document D40138239; operation VN-Viet Nam Coastal Hazard Resilience
+      Strengthening Project -- P517731)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- viet-nam
+change_scope: structure
+slug: d40138239-resettlement-plan-viet-nam-coastal-haz

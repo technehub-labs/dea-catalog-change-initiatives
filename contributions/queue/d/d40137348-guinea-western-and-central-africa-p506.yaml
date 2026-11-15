@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137348
+name: Guinea - WESTERN AND CENTRAL AFRICA- P506072- Guinea Enhancing Health System Transformation (GUEST)
+  Project - Procurement Plan (D40137348)
+description: 'Guinea - WESTERN AND CENTRAL AFRICA- P506072- Guinea Enhancing Health System Transformation
+  (GUEST) Project - Procurement Plan — a published World Bank project document for the financed operation
+  ''GN-Guinea Enhancing Health System Transformation (GUEST) Project -- P506072'' (country: Guinea; lending
+  instrument: Investment Project Financing; major theme: n/a; document date 2026-11-03).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110326132531271/pdf/P506072-8daf9de8-750c-4ed2-bd19-4991a5ec651e.pdf
+      (World Bank Documents & Records API; document D40137348; operation GN-Guinea Enhancing Health System
+      Transformation (GUEST) Project -- P506072)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- guinea
+change_scope: structure
+slug: d40137348-guinea-western-and-central-africa-p506

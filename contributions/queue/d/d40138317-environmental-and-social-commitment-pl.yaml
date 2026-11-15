@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138317
+name: Environmental and Social Commitment Plan (ESCP) - Indonesia Coral Reef Bond - P181486 (D40138317)
+description: 'Environmental and Social Commitment Plan (ESCP) - Indonesia Coral Reef Bond - P181486 —
+  a published World Bank project document for the financed operation ''ID-Indonesia Coral Reef Bond --
+  P181486'' (country: Indonesia; lending instrument: Investment Project Financing; major theme: n/a; document
+  date 2026-11-10).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111026031531693/pdf/P181486-faa0af91-1951-4907-b7e0-041c48850751.pdf
+      (World Bank Documents & Records API; document D40138317; operation ID-Indonesia Coral Reef Bond
+      -- P181486)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- indonesia
+change_scope: structure
+slug: d40138317-environmental-and-social-commitment-pl

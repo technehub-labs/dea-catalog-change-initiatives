@@ -1,0 +1,28 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138710
+name: Revised  Stakeholder Engagement Plan (SEP) Supporting Corridor Connectivity and Enhanced Sector
+  Sustainability (Beineu-Saksaulsk Section of Trans-Caspian Transport Corridor) (P518483) (D40138710)
+description: 'Revised  Stakeholder Engagement Plan (SEP) Supporting Corridor Connectivity and Enhanced
+  Sector Sustainability (Beineu-Saksaulsk Section of Trans-Caspian Transport Corridor) (P518483) — a published
+  World Bank project document for the financed operation ''KZ-Supporting Corridor Connectivity and Enhanced
+  Sector Sustainability (Beineu-Saksaulsk Section of Trans-Caspian Transport Corridor) -- P518483'' (country:
+  Kazakhstan; lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-11).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111126231535439/pdf/P518483-a27e7d09-73f1-4393-a03b-1ea02552caaf.pdf
+      (World Bank Documents & Records API; document D40138710; operation KZ-Supporting Corridor Connectivity
+      and Enhanced Sector Sustainability (Beineu-Saksaulsk Section of Trans-Caspian Transport Corridor)
+      -- P518483)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- kazakhstan
+change_scope: structure
+slug: d40138710-revised-stakeholder-engagement-plan-se

@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138836
+name: Environmental and Social Commitment Plan (ESCP) Accelerating Sustainable and Clean Energy Access
+  Transformation - Regional Energy Access Financing Platform (P181328) (D40138836)
+description: 'Environmental and Social Commitment Plan (ESCP) Accelerating Sustainable and Clean Energy
+  Access Transformation - Regional Energy Access Financing Platform (P181328) — a published World Bank
+  project document for the financed operation ''3E-Accelerating Sustainable and Clean Energy Access Transformation
+  - Regional Energy Access Financing Platform -- P181328'' (country: Eastern and Southern Africa; lending
+  instrument: Investment Project Financing; major theme: n/a; document date 2026-11-12).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111226083013836/pdf/P181328-f131fd4e-cb17-4942-928d-795dfa408170.pdf
+      (World Bank Documents & Records API; document D40138836; operation 3E-Accelerating Sustainable and
+      Clean Energy Access Transformation - Regional Energy Access Financing Platform -- P181328)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- eastern-and-southern
+change_scope: structure
+slug: d40138836-environmental-and-social-commitment-pl

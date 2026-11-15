@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138696
+name: 'Additional Financing Environmental and Social Review Summary (ESRS) - Integrated Rurban Development
+  and Climate Resilience Project - P505241 - AF No: 1 (D40138696)'
+description: 'Additional Financing Environmental and Social Review Summary (ESRS) - Integrated Rurban
+  Development and Climate Resilience Project - P505241 - AF No: 1 — a published World Bank project document
+  for the financed operation ''LK-Integrated Rurban Development and Climate Resilience Project -- P505241''
+  (country: Sri Lanka; lending instrument: Investment Project Financing; major theme: n/a; document date
+  2026-11-12).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111126214018281/pdf/P505241-cbeb98bc-9890-42fe-beec-661866276e07.pdf
+      (World Bank Documents & Records API; document D40138696; operation LK-Integrated Rurban Development
+      and Climate Resilience Project -- P505241)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- sri-lanka
+change_scope: structure
+slug: d40138696-additional-financing-environmental-and

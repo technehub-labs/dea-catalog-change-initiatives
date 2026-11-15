@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138833
+name: Disclosable Restructuring Paper - Second Water Sector Support Project - P150361 (D40138833)
+description: 'Disclosable Restructuring Paper - Second Water Sector Support Project - P150361 — a published
+  World Bank project document for the financed operation ''TZ-Second Water Sector Support Project -- P150361''
+  (country: Tanzania; lending instrument: Investment Project Financing; major theme: n/a; document date
+  2026-11-12).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111226080042037/pdf/P150361-0aadf396-5889-4192-8227-c0d6d0206e1e.pdf
+      (World Bank Documents & Records API; document D40138833; operation TZ-Second Water Sector Support
+      Project -- P150361)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- tanzania
+change_scope: structure
+slug: d40138833-disclosable-restructuring-paper-second

@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137137
+name: Project Information Document (PID) (D40137137)
+description: 'Project Information Document (PID) — a published World Bank project document for the financed
+  operation ''SN-Adaptive Safety Net -- P176544'' (country: Senegal; lending instrument: Investment Project
+  Financing; major theme: n/a; document date 2026-11-02).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110226170032568/pdf/P176544-cc93c878-e91e-4eaa-9dd4-48ef7d4b537b.pdf
+      (World Bank Documents & Records API; document D40137137; operation SN-Adaptive Safety Net -- P176544)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- senegal
+change_scope: structure
+slug: d40137137-project-information-document-pid

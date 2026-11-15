@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138430
+name: Official Documents- Project Agreement with Conseil Coton Anacarde Karite for Second Additional Financing
+  for Credit 8146-CI and Grant E787-CI, First Amendment to Credit 8058-CI and Second Amendment to
+description: 'Official Documents- Project Agreement with Conseil Coton Anacarde Karite for Second Additional
+  Financing for Credit 8146-CI and Grant E787-CI, First Amendment to Credit 8058-CI and Second Amendment
+  to Credit 7069-CI.pdf — a published World Bank project document for the financed operation ''3W-Gulf
+  of Guinea Northern Regions Social Cohesion project -- P175043'' (country: Western and Central Africa;
+  lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-10).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111026114031238/pdf/P175043-e59b9d89-0774-4d4b-9063-8e0857a08296.pdf
+      (World Bank Documents & Records API; document D40138430; operation 3W-Gulf of Guinea Northern Regions
+      Social Cohesion project -- P175043)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- western-and-central
+change_scope: structure
+slug: d40138430-official-documents-project-agreement-w

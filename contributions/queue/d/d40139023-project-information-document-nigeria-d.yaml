@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40139023
+name: Project Information Document - Nigeria Distributed Access through Renewable Energy Scale-up Project
+  - P179687 (D40139023)
+description: 'Project Information Document - Nigeria Distributed Access through Renewable Energy Scale-up
+  Project - P179687 — a published World Bank project document for the financed operation ''NG-Nigeria
+  Distributed Access through Renewable Energy Scale-up Project -- P179687'' (country: Nigeria; lending
+  instrument: Investment Project Financing; major theme: n/a; document date 2026-11-13).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111326062080048/pdf/P179687-d10e588a-65ac-418c-a01a-9019d0737a04.pdf
+      (World Bank Documents & Records API; document D40139023; operation NG-Nigeria Distributed Access
+      through Renewable Energy Scale-up Project -- P179687)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- nigeria
+change_scope: structure
+slug: d40139023-project-information-document-nigeria-d

@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137449
+name: Nepal - SOUTH ASIA- P512377- Greater Lumbini Area Development Project - Procurement Plan (D40137449)
+description: 'Nepal - SOUTH ASIA- P512377- Greater Lumbini Area Development Project - Procurement Plan
+  — a published World Bank project document for the financed operation ''NP-Greater Lumbini Area Development
+  Project -- P512377'' (country: Nepal; lending instrument: Investment Project Financing; major theme:
+  n/a; document date 2026-11-04).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110426074091085/pdf/P512377-05d1205f-4228-41db-bdd7-747710d12772.pdf
+      (World Bank Documents & Records API; document D40137449; operation NP-Greater Lumbini Area Development
+      Project -- P512377)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- nepal
+change_scope: structure
+slug: d40137449-nepal-south-asia-p512377-greater-lumbi

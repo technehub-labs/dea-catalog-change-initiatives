@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138134
+name: Eastern and Southern Africa - EASTERN AND SOUTHERN AFRICA- P506439- Accelerating Access to Water,
+  Sanitation and Hygiene in the Eastern and Southern Africa Region - Procurement Plan (D40138134)
+description: 'Eastern and Southern Africa - EASTERN AND SOUTHERN AFRICA- P506439- Accelerating Access
+  to Water, Sanitation and Hygiene in the Eastern and Southern Africa Region - Procurement Plan — a published
+  World Bank project document for the financed operation ''3E-Accelerating Access to Water, Sanitation
+  and Hygiene in the Eastern and Southern Africa Region -- P506439'' (country: n/a; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-09).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110926033045191/pdf/P506439-a52343a4-8cc8-431a-93f5-c66ceaa042cc.pdf
+      (World Bank Documents & Records API; document D40138134; operation 3E-Accelerating Access to Water,
+      Sanitation and Hygiene in the Eastern and Southern Africa Region -- P506439)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+change_scope: structure
+slug: d40138134-eastern-and-southern-africa-eastern-an

@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138467
+name: Concept Project Information Document (PID) (D40138467)
+description: 'Concept Project Information Document (PID) — a published World Bank project document for
+  the financed operation ''HT-Haiti Resilient Cities Project -- P512239'' (country: Haiti; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-10).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111026152030621/pdf/P512239-ba93d678-3b58-4f68-94e3-704dc235a3d0.pdf
+      (World Bank Documents & Records API; document D40138467; operation HT-Haiti Resilient Cities Project
+      -- P512239)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- haiti
+change_scope: structure
+slug: d40138467-concept-project-information-document-p

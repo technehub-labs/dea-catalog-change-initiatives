@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137418
+name: Eastern and Southern Africa - EASTERN AND SOUTHERN AFRICA- P176517- De-risking, inclusion and value
+  enhancement of pastoral economies in the Horn of Africa - Procurement Plan (D40137418)
+description: 'Eastern and Southern Africa - EASTERN AND SOUTHERN AFRICA- P176517- De-risking, inclusion
+  and value enhancement of pastoral economies in the Horn of Africa - Procurement Plan — a published World
+  Bank project document for the financed operation ''3E-De-risking, inclusion and value enhancement of
+  pastoral economies in the Horn of Africa -- P176517'' (country: Eastern and Southern Africa; lending
+  instrument: Investment Project Financing; major theme: n/a; document date 2026-11-04).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110426051011755/pdf/P176517-9b12d421-ad9c-4c1b-9555-898ede84069d.pdf
+      (World Bank Documents & Records API; document D40137418; operation 3E-De-risking, inclusion and
+      value enhancement of pastoral economies in the Horn of Africa -- P176517)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- eastern-and-southern
+change_scope: structure
+slug: d40137418-eastern-and-southern-africa-eastern-an

@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137508
+name: Ethiopia - EASTERN AND SOUTHERN AFRICA- P174385- Second Ethiopia Resilient Landscapes and Livelihoods
+  Project - Procurement Plan (D40137508)
+description: 'Ethiopia - EASTERN AND SOUTHERN AFRICA- P174385- Second Ethiopia Resilient Landscapes and
+  Livelihoods Project - Procurement Plan — a published World Bank project document for the financed operation
+  ''ET-Second Ethiopia Resilient Landscapes and Livelihoods Project -- P174385'' (country: Ethiopia; lending
+  instrument: Investment Project Financing; major theme: n/a; document date 2026-11-04).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110426105517504/pdf/P174385-3e646361-6950-4e0c-bbf2-7e0832e08180.pdf
+      (World Bank Documents & Records API; document D40137508; operation ET-Second Ethiopia Resilient
+      Landscapes and Livelihoods Project -- P174385)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- ethiopia
+change_scope: structure
+slug: d40137508-ethiopia-eastern-and-southern-africa-p

@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138498
+name: Kyrgyz Republic - EUROPE AND CENTRAL ASIA- P162635- Enhancing Resilience in Kyrgyzstan Project -
+  Procurement Plan (D40138498)
+description: 'Kyrgyz Republic - EUROPE AND CENTRAL ASIA- P162635- Enhancing Resilience in Kyrgyzstan Project
+  - Procurement Plan — a published World Bank project document for the financed operation ''KG-Enhancing
+  Resilience in Kyrgyzstan Project -- P162635'' (country: Kyrgyz Republic; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-11).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111026213037032/pdf/P162635-16a7d784-afec-4330-98fa-323eb4004f2e.pdf
+      (World Bank Documents & Records API; document D40138498; operation KG-Enhancing Resilience in Kyrgyzstan
+      Project -- P162635)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- kyrgyz-republic
+change_scope: structure
+slug: d40138498-kyrgyz-republic-europe-and-central-asi

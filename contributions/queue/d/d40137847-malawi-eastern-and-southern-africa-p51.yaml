@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137847
+name: Malawi - EASTERN AND SOUTHERN AFRICA- P512324- Integrated Social Protection for Resilience and Opportunity
+  Project - Procurement Plan (D40137847)
+description: 'Malawi - EASTERN AND SOUTHERN AFRICA- P512324- Integrated Social Protection for Resilience
+  and Opportunity Project - Procurement Plan — a published World Bank project document for the financed
+  operation ''MW-Integrated Social Protection for Resilience and Opportunity Project -- P512324'' (country:
+  Malawi; lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-06).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110626022035927/pdf/P512324-c12f58f9-829f-4b98-929f-901080763d41.pdf
+      (World Bank Documents & Records API; document D40137847; operation MW-Integrated Social Protection
+      for Resilience and Opportunity Project -- P512324)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- malawi
+change_scope: structure
+slug: d40137847-malawi-eastern-and-southern-africa-p51

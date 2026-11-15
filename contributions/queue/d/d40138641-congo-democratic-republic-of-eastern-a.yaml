@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138641
+name: Congo, Democratic Republic of - EASTERN AND SOUTHERN AFRICA- P172341- DR Congo Emergency Equity
+  and System Strengthening in Education - Procurement Plan (D40138641)
+description: 'Congo, Democratic Republic of - EASTERN AND SOUTHERN AFRICA- P172341- DR Congo Emergency
+  Equity and System Strengthening in Education - Procurement Plan — a published World Bank project document
+  for the financed operation ''ZR-DR Congo Emergency Equity and System Strengthening in Education -- P172341''
+  (country: Congo, Democratic Republic of; lending instrument: Investment Project Financing; major theme:
+  n/a; document date 2026-11-11).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111126112516060/pdf/P172341-2dab662a-881a-43ea-a7c8-6777f78fb967.pdf
+      (World Bank Documents & Records API; document D40138641; operation ZR-DR Congo Emergency Equity
+      and System Strengthening in Education -- P172341)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- congo-democratic-rep
+change_scope: structure
+slug: d40138641-congo-democratic-republic-of-eastern-a

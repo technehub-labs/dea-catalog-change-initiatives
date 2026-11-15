@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40137861
+name: Cambodia - EAST ASIA AND PACIFIC- P176615- Cambodia Water Security Improvement Project - Procurement
+  Plan (D40137861)
+description: 'Cambodia - EAST ASIA AND PACIFIC- P176615- Cambodia Water Security Improvement Project -
+  Procurement Plan — a published World Bank project document for the financed operation ''KH-Cambodia
+  Water Security Improvement Project -- P176615'' (country: Cambodia; lending instrument: Investment Project
+  Financing; major theme: n/a; document date 2026-11-06).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110626052017871/pdf/P176615-568ca785-33e1-4217-88ff-9c75fa3ff37d.pdf
+      (World Bank Documents & Records API; document D40137861; operation KH-Cambodia Water Security Improvement
+      Project -- P176615)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- cambodia
+change_scope: structure
+slug: d40137861-cambodia-east-asia-and-pacific-p176615

@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138908
+name: Appraisal Environmental and Social Review Summary (ESRS) - Building Socially Inclusive Economically
+  Vibrant and Climate Resilient Neighborhoods in Salvador Brazil (Salvador NBS) - P513838 (D40138908)
+description: 'Appraisal Environmental and Social Review Summary (ESRS) - Building Socially Inclusive Economically
+  Vibrant and Climate Resilient Neighborhoods in Salvador Brazil (Salvador NBS) - P513838 — a published
+  World Bank project document for the financed operation ''BR-Building Socially Inclusive, Economically
+  Vibrant and Climate Resilient Neighborhoods in Salvador, Brazil (Salvador NBS) -- P513838'' (country:
+  Brazil; lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-12).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111226132524665/pdf/P513838-09f8848f-bcb3-4571-8419-8da38488f6b1.pdf
+      (World Bank Documents & Records API; document D40138908; operation BR-Building Socially Inclusive,
+      Economically Vibrant and Climate Resilient Neighborhoods in Salvador, Brazil (Salvador NBS) -- P513838)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- brazil
+change_scope: structure
+slug: d40138908-appraisal-environmental-and-social-rev

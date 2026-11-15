@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138118
+name: Cambodia - EAST ASIA AND PACIFIC- P510547- Cambodia Regional Connectivity Improvement Project Phase
+  1 - Procurement Plan (D40138118)
+description: 'Cambodia - EAST ASIA AND PACIFIC- P510547- Cambodia Regional Connectivity Improvement Project
+  Phase 1 - Procurement Plan — a published World Bank project document for the financed operation ''KH-Cambodia
+  Regional Connectivity Improvement Project Phase 1 -- P510547'' (country: Cambodia; lending instrument:
+  Investment Project Financing; major theme: n/a; document date 2026-11-09).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099110926021057340/pdf/P510547-bf546d0a-9ab9-47ca-b4e3-583f2aea399f.pdf
+      (World Bank Documents & Records API; document D40138118; operation KH-Cambodia Regional Connectivity
+      Improvement Project Phase 1 -- P510547)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- cambodia
+change_scope: structure
+slug: d40138118-cambodia-east-asia-and-pacific-p510547

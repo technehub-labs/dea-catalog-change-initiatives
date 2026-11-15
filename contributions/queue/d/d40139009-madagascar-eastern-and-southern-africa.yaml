@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40139009
+name: Madagascar - EASTERN AND SOUTHERN AFRICA - P175269 - Rural Livelihoods Productivity and Resilience
+  Project - Audited Financial Statement (D40139009)
+description: 'Madagascar - EASTERN AND SOUTHERN AFRICA - P175269 - Rural Livelihoods Productivity and
+  Resilience Project - Audited Financial Statement — a published World Bank project document for the financed
+  operation ''MG-Rural Livelihoods Productivity and Resilience Project -- P175269'' (country: Madagascar;
+  lending instrument: Investment Project Financing; major theme: n/a; document date 2026-11-11).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111326041517765/pdf/P175269-fcb5172b-737b-4945-8ebb-4a942db0609b.pdf
+      (World Bank Documents & Records API; document D40139009; operation MG-Rural Livelihoods Productivity
+      and Resilience Project -- P175269)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- madagascar
+change_scope: structure
+slug: d40139009-madagascar-eastern-and-southern-africa

@@ -1,0 +1,18 @@
+# Ingestion manifest — ChangeInitiative candidate corpus (CR-CHI-CAT-03)
+# Records are candidates only (queue status: queued; admitted at
+# lifecycle_status: proposed / version 0.1.0 by the gated workflow).
+
+generated: '2026-11-15'
+generated_by: ingest-kit generate_queue.py (catalog population programme)
+submitted_by: Emmanuel A. Otchere
+record_count: 999
+sources:
+- bank: worldbank-project-documents.json
+  source: "World Bank Documents & Records API (Project Documents collection)"
+  url: "https://search.worldbank.org/api/v3/wds"
+  published: "https://documents.worldbank.org/"
+  retrieved: '2026-11-15'
+  sha256: 5cd93eef0c4ae7befe22e9ae7fb0bfd121a9afcf54b220b33a6a59305532f12b
+  records: 999
+queue_layout: contributions/queue/<shard>/<slug>.yaml (entity-storage-layout §4;
+  letter shards; slug prefixes chosen to keep every shard under the 800-entry cap)

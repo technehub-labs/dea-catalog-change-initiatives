@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138931
+name: Environmental and Social Impact Assessment  Liberia Economic Corridors (P513497) (D40138931)
+description: 'Environmental and Social Impact Assessment  Liberia Economic Corridors (P513497) — a published
+  World Bank project document for the financed operation ''LR-Liberia Economic Corridors -- P513497''
+  (country: Liberia; lending instrument: Investment Project Financing; major theme: n/a; document date
+  2026-11-12).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111226194537704/pdf/P513497-bf813790-e62e-4279-9b47-59ff4eb34740.pdf
+      (World Bank Documents & Records API; document D40138931; operation LR-Liberia Economic Corridors
+      -- P513497)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- liberia
+change_scope: structure
+slug: d40138931-environmental-and-social-impact-assess

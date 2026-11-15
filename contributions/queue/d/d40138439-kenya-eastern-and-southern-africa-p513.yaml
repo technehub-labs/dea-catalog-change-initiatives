@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: worldbank-project-documents.json
+source_ref: World Bank doc D40138439
+name: Kenya - EASTERN AND SOUTHERN AFRICA- P513352- Housing Finance, Lands and Sustainable Investments
+  - Procurement Plan (D40138439)
+description: 'Kenya - EASTERN AND SOUTHERN AFRICA- P513352- Housing Finance, Lands and Sustainable Investments
+  - Procurement Plan — a published World Bank project document for the financed operation ''KE-Housing
+  Finance, Lands and Sustainable Investments -- P513352'' (country: Kenya; lending instrument: Investment
+  Project Financing; major theme: n/a; document date 2026-11-10).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://documents.worldbank.org/curated/en/099111026120042234/pdf/P513352-f4fd09c9-fb8f-44f2-8573-86d1c49ac211.pdf
+      (World Bank Documents & Records API; document D40138439; operation KE-Housing Finance, Lands and
+      Sustainable Investments -- P513352)
+  rationale: Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
+    collection). The document is the published record of a financed World Bank operation. change_scope=structure
+    is a provisional programmatic default (World Bank operations are institutional-change programmes);
+    per-organization scope classification is a canonical-admission decision.
+tags:
+- world-bank
+- kenya
+change_scope: structure
+slug: d40138439-kenya-eastern-and-southern-africa-p513
